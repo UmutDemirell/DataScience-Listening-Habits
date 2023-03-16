@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,Endonesia
+1,Semata Karenamu,Mario G klau,"['indonesian pop', 'lagu timur']",66,81,0.603,0.325,3,-11.683,1,0.0456,0.35,0.113,0.323,123.759,Endonesia
+2,Kau Rumahku,raissa anggiani,"['indonesian lo-fi pop', 'indonesian pop']",67,80,0.35,0.323,1,-8.982,1,0.0369,0.873,0.103,0.278,169.513,Endonesia
+3,Tak Kan Hilang,Budi Doremi,['indonesian pop'],69,81,0.527,0.258,4,-9.499,1,0.0319,0.821,0.148,0.347,139.928,Endonesia
+4,Tertawan Hati,Awdella,['indonesian pop'],63,80,0.319,0.432,6,-5.831,1,0.0317,0.661,0.108,0.244,128.244,Endonesia
+5,Here With Me,d4vd,['bedroom pop'],81,92,0.574,0.469,4,-8.209,1,0.0254,0.534,0.128,0.288,132.023,Endonesia
+6,Evaluasi,Hindia,[],70,81,0.609,0.966,7,-4.469,1,0.0571,0.00194,0.304,0.505,102.014,Endonesia
+7,Runtuh,Feby Putri,['indonesian pop'],68,80,0.593,0.287,3,-13.164,1,0.0289,0.876,0.119,0.191,127.783,Endonesia
+8,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,"['gen z singer-songwriter', 'pop']",80,91,0.551,0.55,10,-5.339,1,0.0286,0.777,0.202,0.342,101.19,Endonesia
+9,Ditto,NewJeans,"['k-pop', 'k-pop girl group']",79,88,0.814,0.641,6,-5.957,0,0.111,0.027,0.0993,0.183,133.854,Endonesia
+10,Serana,For Revenge,"['bandung indie', 'indonesian emo', 'indonesian post-hardcore']",64,74,0.429,0.709,2,-5.54,1,0.0297,0.0264,0.135,0.26,130.046,Endonesia
+11,"Andaikan Kau Datang - From ""Miracle in Cell No. 7""",Andmesh,['indonesian pop'],68,79,0.323,0.126,9,-12.562,1,0.034,0.937,0.11,0.322,84.881,Endonesia
+12,Hati-Hati di Jalan,Tulus,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",76,79,0.643,0.436,6,-11.322,1,0.0357,0.702,0.115,0.755,71.969,Endonesia
+13,Asmalibrasi,Soegi Bornean,"['indonesian folk', 'indonesian pop', 'semarang indie']",64,79,0.721,0.565,4,-6.208,1,0.0292,0.855,0.0973,0.794,139.941,Endonesia
+14,Duka,Last Child,"['indonesian pop punk', 'indonesian rock']",68,77,0.566,0.885,0,-4.664,1,0.0355,0.122,0.049,0.31,135.015,Endonesia
+15,Sisa Rasa,Mahalini,['indonesian pop'],71,79,0.488,0.405,8,-6.324,0,0.0302,0.503,0.108,0.152,122.049,Endonesia
+16,Right Now,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",85,81,0.645,0.78,8,-5.165,1,0.0319,0.218,0.0919,0.372,120.008,Endonesia
+17,Rumah Singgah,Fabio Asher,['indonesian pop'],67,80,0.466,0.228,8,-10.666,1,0.0305,0.717,0.107,0.366,77.982,Endonesia
+18,Selamat (Selamat Tinggal),Virgoun,"['indonesian pop', 'malaysian pop']",66,77,0.361,0.581,0,-8.502,1,0.0302,0.523,0.118,0.372,79.59,Endonesia
+19,Tak Ingin Usai,Keisya Levronka,['indonesian pop'],65,79,0.49,0.398,0,-7.712,1,0.0266,0.815,0.114,0.136,129.772,Endonesia
+20,Fall In Love Alone,Stacey Ryan,[],70,84,0.676,0.625,7,-5.455,0,0.0711,0.316,0.127,0.522,171.883,Endonesia
+21,Sang Dewi,Lyodra,['indonesian pop'],68,79,0.339,0.58,6,-5.426,1,0.0319,0.554,0.421,0.319,81.857,Endonesia
+22,Bertaut,Nadin Amizah,['indonesian pop'],66,77,0.47,0.131,6,-13.29,1,0.0362,0.933,0.109,0.115,118.836,Endonesia
+23,Monokrom,Tulus,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",76,78,0.534,0.462,6,-9.383,1,0.0326,0.573,0.0974,0.519,88.046,Endonesia
+24,Kisah Sempurna,Mahalini,['indonesian pop'],71,78,0.537,0.486,11,-8.521,1,0.0336,0.51,0.0817,0.0861,122.099,Endonesia
+25,Sempurna,Andra & The Backbone,"['classic indonesian rock', 'indonesian pop', 'indonesian pop rock', 'indonesian rock']",64,78,0.358,0.32,4,-9.946,1,0.0308,0.726,0.105,0.384,115.499,Endonesia
+26,L,Hal,"['indonesian folk', 'indonesian pop']",64,78,0.656,0.364,2,-6.877,1,0.0325,0.834,0.0982,0.487,152.959,Endonesia
+27,Lantas,Juicy Luicy,['indonesian pop'],68,76,0.588,0.311,8,-8.143,1,0.025,0.791,0.352,0.545,86.022,Endonesia
+28,I Wanna Be Yours,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,93,0.464,0.417,0,-9.345,0,0.0256,0.136,0.0974,0.479,67.528,Endonesia
+29,Dunia Tipu-Tipu,Yura Yunita,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",69,77,0.48,0.325,1,-8.513,1,0.0354,0.907,0.112,0.619,111.774,Endonesia
+30,Glimpse of Us,Joji,['viral pop'],87,83,0.44,0.317,8,-9.258,1,0.0531,0.891,0.141,0.268,169.914,Endonesia
+31,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Endonesia
+32,Anything You Want,Reality Club,"['indonesian indie', 'indonesian pop']",64,77,0.21,0.58,5,-7.766,1,0.0307,0.00576,0.391,0.313,175.769,Endonesia
+33,Mesin Waktu,Budi Doremi,['indonesian pop'],69,71,0.448,0.309,9,-9.328,1,0.0283,0.845,0.13,0.385,139.977,Endonesia
+34,Tutur Batin,Yura Yunita,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",69,77,0.576,0.329,10,-8.87,1,0.0487,0.813,0.108,0.397,72.91,Endonesia
+35,Old Love,yuji,[],66,82,0.478,0.367,11,-10.513,1,0.0283,0.716,0.124,0.359,141.95,Endonesia
+36,I Love You So,The Walters,['chicago indie'],72,88,0.575,0.648,10,-4.891,1,0.0358,0.583,0.115,0.466,75.977,Endonesia
+37,THE SHADE,Rex Orange County,"['bedroom pop', 'pop']",79,83,0.898,0.509,5,-7.973,1,0.062,0.391,0.0876,0.727,119.869,Endonesia
+38,Pilihan Yang Terbaik,Ziva Magnolya,['indonesian pop'],67,77,0.49,0.287,3,-9.003,1,0.0394,0.923,0.131,0.197,120.702,Endonesia
+39,Tampar,Juicy Luicy,['indonesian pop'],68,76,0.459,0.377,6,-9.024,1,0.0314,0.652,0.0947,0.433,169.896,Endonesia
+40,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,Endonesia
+41,Merasa Indah,Tiara Andini,['indonesian pop'],70,76,0.386,0.416,4,-10.543,1,0.0306,0.766,0.119,0.345,122.536,Endonesia
+42,18,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",85,80,0.681,0.582,6,-7.76,0,0.0313,0.22,0.119,0.221,124.038,Endonesia
+43,Those Eyes,New West,['toronto indie'],72,86,0.597,0.351,4,-8.043,1,0.0281,0.727,0.319,0.243,119.948,Endonesia
+44,Dandelions,Ruth B.,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",76,89,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0864,0.454,116.959,Endonesia
+45,Usai,Tiara Andini,['indonesian pop'],70,72,0.461,0.36,7,-8.99,1,0.0269,0.863,0.0914,0.131,109.236,Endonesia
+46,Bertahan Terluka,Fabio Asher,['indonesian pop'],67,77,0.325,0.345,5,-9.536,1,0.0311,0.495,0.0726,0.135,77.835,Endonesia
+47,Night Changes,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",85,87,0.672,0.52,8,-7.747,1,0.0353,0.859,0.115,0.37,120.001,Endonesia
+48,Seandainya,Vierra,['indonesian pop'],66,74,0.252,0.827,2,-4.971,1,0.0321,0.0836,0.219,0.477,93.968,Endonesia
+49,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,Endonesia

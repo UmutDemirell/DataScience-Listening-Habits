@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,Great Britain
+1,Escapism.,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,76,0.538,0.742,2,-5.355,1,0.114,0.138,0.0934,0.25,96.107,Great Britain
+2,LET GO,Central Cee,['melodic drill'],83,89,0.735,0.449,2,-9.933,0,0.383,0.859,0.213,0.514,146.016,Great Britain
+3,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,Great Britain
+4,Out Of Nowhere,Bugzy Malone,"['grime', 'manchester hip hop', 'uk hip hop']",68,79,0.724,0.815,8,-5.509,1,0.33,0.134,0.181,0.685,130.04,Great Britain
+5,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,Great Britain
+6,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,Great Britain
+7,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,Great Britain
+8,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,Great Britain
+9,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Great Britain
+10,messy in heaven,venbee,[],65,79,0.62,0.837,8,-4.356,0,0.13,0.128,0.242,0.433,172.081,Great Britain
+11,Miss You,Oliver Tree,['alternative hip hop'],83,93,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.146,0.199,145.007,Great Britain
+12,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,Great Britain
+13,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,Great Britain
+14,Bad Habit,Steve Lacy,['afrofuturism'],85,87,0.686,0.494,1,-7.093,1,0.0355,0.613,0.402,0.7,168.946,Great Britain
+15,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,Great Britain
+16,Sweater Weather,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",85,92,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.101,0.398,124.053,Great Britain
+17,Under The Influence,Chris Brown,"['dance pop', 'r&b']",89,94,0.733,0.69,9,-5.529,0,0.0427,0.0635,0.105,0.31,116.992,Great Britain
+18,Forget Me,Lewis Capaldi,"['pop', 'uk pop']",82,85,0.669,0.742,1,-3.518,0,0.0441,0.296,0.355,0.716,101.982,Great Britain
+19,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,Great Britain
+20,Doja,Central Cee,['melodic drill'],83,88,0.911,0.573,6,-7.43,1,0.288,0.38,0.403,0.972,140.04,Great Britain
+21,PSYCHO,Anne-Marie,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",78,81,0.62,0.681,9,-4.915,1,0.356,0.0138,0.0248,0.741,160.743,Great Britain
+22,B.O.T.A. (Baddest Of Them All) - Edit,Eliza Rose,['house'],69,85,0.736,0.906,0,-7.589,1,0.048,0.164,0.106,0.698,137.001,Great Britain
+23,Sure Thing,Miguel,"['dance pop', 'pop', 'r&b', 'urban contemporary']",80,87,0.684,0.607,11,-8.127,0,0.1,0.0267,0.191,0.498,81.001,Great Britain
+24,Mr. Brightside,The Killers,"['alternative rock', 'dance rock', 'permanent wave', 'rock']",78,85,0.352,0.911,1,-5.23,1,0.0747,0.00121,0.0995,0.236,148.033,Great Britain
+25,Shirt,SZA,"['pop', 'r&b']",94,85,0.848,0.512,3,-7.72,0,0.102,0.228,0.0879,0.572,120.009,Great Britain
+26,Escapism. - Sped Up,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,83,0.435,0.768,6,-5.352,0,0.201,0.0857,0.0918,0.378,107.588,Great Britain
+27,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,Great Britain
+28,Afraid To Feel,LF SYSTEM,[],67,82,0.578,0.912,1,-3.929,1,0.114,0.0166,0.273,0.68,127.87,Great Britain
+29,Mockingbird,Eminem,"['detroit hip hop', 'hip hop', 'rap']",92,92,0.637,0.678,0,-3.798,1,0.266,0.209,0.156,0.254,84.039,Great Britain
+30,I Wanna Be Yours,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,93,0.464,0.417,0,-9.345,0,0.0256,0.136,0.0974,0.479,67.528,Great Britain
+31,505,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,81,0.52,0.852,0,-5.866,1,0.0543,0.00237,0.0733,0.234,140.267,Great Britain
+32,Last Last,Burna Boy,"['afro dancehall', 'dancehall', 'nigerian hip hop', 'nigerian pop']",81,80,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0802,0.55,87.925,Great Britain
+33,Romantic Homicide,d4vd,['bedroom pop'],81,93,0.571,0.544,6,-10.613,1,0.0299,0.453,0.322,0.216,132.052,Great Britain
+34,Hide & Seek,Stormzy,"['grime', 'uk hip hop']",76,68,0.823,0.367,2,-7.834,1,0.0785,0.281,0.135,0.647,105.011,Great Britain
+35,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'shiver pop']",79,87,0.761,0.525,11,-6.9,1,0.0944,0.44,0.0921,0.531,80.87,Great Britain
+36,Nobody Gets Me,SZA,"['pop', 'r&b']",94,91,0.358,0.284,7,-8.285,1,0.0285,0.805,0.183,0.276,99.796,Great Britain
+37,Pointless,Lewis Capaldi,"['pop', 'uk pop']",82,82,0.325,0.59,4,-3.943,1,0.0495,0.0686,0.104,0.278,180.449,Great Britain
+38,Just Wanna Rock,Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",87,90,0.486,0.545,11,-7.924,1,0.0336,0.0652,0.0642,0.0385,150.187,Great Britain
+39,Rocket Science (feat. D-Block Europe),Clavish,"['uk drill', 'uk hip hop']",63,73,0.82,0.473,4,-8.158,0,0.456,0.165,0.0972,0.343,119.957,Great Britain
+40,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,"['gen z singer-songwriter', 'pop']",80,91,0.551,0.55,10,-5.339,1,0.0286,0.777,0.202,0.342,101.19,Great Britain
+41,Viva La Vida,Coldplay,"['permanent wave', 'pop']",89,85,0.486,0.617,5,-7.115,0,0.0287,0.0954,0.109,0.417,138.015,Great Britain
+42,Die For You,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,88,0.586,0.525,1,-7.163,0,0.0615,0.111,0.134,0.508,133.629,Great Britain
+43,The Color Violet,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']",82,86,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0863,0.463,105.02,Great Britain
+44,golden hour,JVKE,['modern indie pop'],81,89,0.515,0.593,4,-4.801,1,0.0322,0.653,0.25,0.153,94.467,Great Britain
+45,Christmas Drillings,Sidemen,[],64,78,0.686,0.661,5,-5.564,1,0.238,0.0764,0.054,0.349,139.858,Great Britain
+46,Why'd You Only Call Me When You're High?,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,87,0.691,0.631,2,-6.478,1,0.0368,0.0483,0.104,0.8,92.004,Great Britain
+47,Boy's a liar,PinkPantheress,[],76,84,0.656,0.838,5,-8.407,1,0.041,0.25,0.207,0.74,132.981,Great Britain
+48,Starlight,Dave,['uk hip hop'],76,78,0.954,0.367,4,-9.551,0,0.288,0.341,0.0979,0.372,124.026,Great Britain
+49,Running Up That Hill (A Deal With God),Kate Bush,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']",74,85,0.629,0.547,10,-13.123,0,0.055,0.72,0.0604,0.197,108.375,Great Britain

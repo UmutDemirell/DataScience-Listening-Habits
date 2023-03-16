@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Amber,Zola,"['french hip hop', 'pop urbaine', 'rap francais']",70,79,0.707,0.778,6,-8.915,1,0.221,0.0853,0.177,0.668,140.988,France
+1,DIE,Gazo,"['drill francais', 'rap francais']",77,80,0.695,0.63,8,-7.16,0,0.035,0.229,0.118,0.55,130.968,France
+2,Fetty Wap,Maes,"['french hip hop', 'pop urbaine', 'rap francais']",72,78,0.919,0.621,9,-4.9,1,0.274,0.282,0.0839,0.555,130.12,France
+3,LET GO,Central Cee,['melodic drill'],83,89,0.735,0.449,2,-9.933,0,0.383,0.859,0.213,0.514,146.016,France
+4,Merci les bleus,KABONGO-DJ,[],45,62,0.753,0.743,0,-6.419,0,0.0459,0.236,0.12,0.786,107.988,France
+5,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,France
+6,Lola,RK,"['french hip hop', 'pop urbaine', 'rap conscient', 'rap francais']",68,69,0.683,0.689,4,-5.62,1,0.183,0.117,0.0688,0.413,73.039,France
+7,Mr. Ocho,SDM,"['french hip hop', 'pop urbaine', 'rap francais']",73,72,0.716,0.598,0,-7.096,0,0.23,0.324,0.0766,0.729,122.001,France
+8,DESPECHÁ,ROSALÍA,['r&b en espanol'],86,86,0.914,0.622,7,-6.538,1,0.0892,0.146,0.0632,0.77,130.04,France
+9,Balader,Soolking,"['francoton', 'french hip hop', 'pop urbaine', 'rap algerien', 'rap tunisien']",73,77,0.603,0.802,4,-5.089,0,0.111,0.306,0.124,0.787,130.121,France
+10,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,France
+11,Coeur De Pirate,Damso,"['belgian hip hop', 'french hip hop', 'pop urbaine', 'rap belge', 'rap conscient']",77,71,0.724,0.55,5,-8.615,0,0.263,0.0362,0.115,0.631,82.893,France
+12,Urus,Favé,[],62,63,0.71,0.712,11,-7.436,0,0.3,0.0297,0.0975,0.596,162.106,France
+13,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,France
+14,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,France
+15,FLEURS (feat. Tiakola),Gazo,"['drill francais', 'rap francais']",77,75,0.673,0.636,10,-7.431,1,0.0771,0.268,0.108,0.438,127.021,France
+16,Un jour je marierai un ange,Pierre de Maere,[],59,75,0.544,0.578,7,-9.49,0,0.18,0.216,0.0949,0.219,169.973,France
+17,THE LONELIEST,Måneskin,"['indie rock italiano', 'italian pop']",80,86,0.519,0.595,2,-5.001,1,0.0283,0.00151,0.0762,0.237,129.786,France
+18,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,"['lgbtq+ hip hop', 'pop']",83,89,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0892,0.308,141.872,France
+19,TOUT VA BIEN (feat. Ninho & Naps),Alonzo,"['francoton', 'french hip hop', 'french pop', 'pop urbaine', 'rap francais', 'rap marseille']",67,76,0.66,0.72,3,-5.874,0,0.0753,0.301,0.226,0.628,99.937,France
+20,FADE UP,ZEG P,[],59,76,0.758,0.599,4,-5.99,0,0.0877,0.57,0.129,0.557,129.96,France
+21,Miss You,Oliver Tree,['alternative hip hop'],83,93,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.146,0.199,145.007,France
+22,Coco,Lorenzo,"['french hip hop', 'rap conscient']",71,74,0.712,0.493,6,-7.778,1,0.075,0.591,0.135,0.549,132.827,France
+23,SNAP,Rosa Linn,['alt z'],77,49,0.565,0.636,0,-8.198,1,0.0638,0.107,0.447,0.525,170.01,France
+24,Meuda,Tiakola,['pop urbaine'],75,74,0.724,0.593,9,-6.498,1,0.0766,0.508,0.196,0.624,141.901,France
+25,Freed from Desire,Gala,"['eurodance', 'europop', 'hip house']",64,40,0.715,0.76,2,-7.534,0,0.0408,0.389,0.107,0.667,128.984,France
+26,CP_009_ Évidemment,Orelsan,"['french hip hop', 'old school rap francais', 'rap conscient']",73,73,0.713,0.67,9,-6.447,0,0.305,0.113,0.52,0.457,120.76,France
+27,Ma Came,Dertay,[],52,68,0.877,0.621,11,-7.161,0,0.104,0.475,0.241,0.876,118.005,France
+28,PETETE,Gambi,"['french hip hop', 'pop urbaine', 'rap francais']",62,75,0.752,0.669,10,-9.817,0,0.251,0.167,0.0795,0.627,155.997,France
+29,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,France
+30,RAPPEL,Gazo,"['drill francais', 'rap francais']",77,72,0.486,0.786,4,-6.468,0,0.209,0.441,0.077,0.534,94.644,France
+31,Namek,Jul,"['francoton', 'rap marseille']",82,68,0.64,0.541,7,-7.731,0,0.162,0.755,0.0966,0.765,88.127,France
+32,À peu près,Lomepal,"['french hip hop', 'rap conscient']",73,74,0.739,0.682,10,-6.811,1,0.0561,0.089,0.526,0.638,129.983,France
+33,Δ. Dieu ne ment jamais,Damso,"['belgian hip hop', 'french hip hop', 'pop urbaine', 'rap belge', 'rap conscient']",77,74,0.756,0.736,11,-7.719,1,0.0443,0.0597,0.0373,0.612,115.985,France
+34,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,France
+35,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,France
+36,Solitaire,Werenoi,"['french hip hop', 'pop urbaine', 'rap francais']",67,69,0.765,0.744,1,-9.147,0,0.0644,0.244,0.0966,0.523,117.989,France
+37,Doja,Central Cee,['melodic drill'],83,88,0.911,0.573,6,-7.43,1,0.288,0.38,0.403,0.972,140.04,France
+38,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,France
+39,Shining Light,Aime Simone,[],57,72,0.661,0.425,4,-11.185,0,0.0372,0.2,0.104,0.252,115.923,France
+40,Cœur blanc,Jul,"['francoton', 'rap marseille']",82,71,0.882,0.716,9,-7.061,0,0.0748,0.00973,0.0772,0.519,135.999,France
+41,Pas bête,Beendo Z,"['pop urbaine', 'rap francais']",61,73,0.734,0.532,7,-9.038,0,0.102,0.361,0.105,0.491,138.043,France
+42,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",90,77,0.247,0.299,9,-6.083,1,0.0315,0.899,0.131,0.172,177.115,France
+43,La vie qu'on mène,Ninho,"['french hip hop', 'pop urbaine']",80,73,0.8,0.756,7,-4.4,0,0.0367,0.687,0.111,0.456,113.204,France
+44,Gasolina (feat. Rsko),Tiakola,['pop urbaine'],75,73,0.684,0.493,6,-7.946,0,0.124,0.517,0.0672,0.501,119.087,France
+45,Sharks,Imagine Dragons,"['modern rock', 'rock']",89,74,0.927,0.642,10,-4.466,0,0.0657,0.00791,0.279,0.901,123.969,France
+46,"DANÇARINA (feat. Nicky Jam, MC Pedrinho) - Remix",PEDRO SAMPAIO,"['funk carioca', 'funk rj']",71,76,0.763,0.669,9,-4.402,0,0.0651,0.156,0.0867,0.609,135.028,France
+47,Salomé,Tayc,['pop urbaine'],74,71,0.657,0.538,0,-6.287,0,0.192,0.139,0.12,0.189,133.758,France
+48,Des milliers de je t'aime,Slimane,"['francoton', 'french pop']",65,70,0.545,0.552,6,-6.049,0,0.064,0.738,0.0814,0.276,134.8,France
+49,Peur (feat. Ziak),Kerchak,[],67,65,0.701,0.834,9,-5.024,1,0.364,0.196,0.0264,0.799,159.964,France

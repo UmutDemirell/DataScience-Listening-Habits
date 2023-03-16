@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Llamame Bebe,Pailita,"['drill chileno', 'urbano chileno', 'urbano latino']",78,72,0.808,0.688,5,-6.78,1,0.106,0.232,0.149,0.351,105.034,Chile
+1,Hey Mor,Ozuna,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",90,91,0.901,0.589,1,-6.713,0,0.289,0.00302,0.0992,0.399,98.002,Chile
+2,La Bachata,Manuel Turizo,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",85,97,0.835,0.679,7,-5.329,0,0.0364,0.583,0.218,0.85,124.98,Chile
+3,Marisola - Remix,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,81,0.765,0.872,1,-5.863,1,0.0498,0.173,0.0749,0.722,94.999,Chile
+4,La Jumpa,Arcángel,"['latin hip hop', 'reggaeton', 'urbano latino']",87,85,0.887,0.234,9,-14.52,1,0.178,0.111,0.13,0.197,140.02,Chile
+5,Gato de Noche,Ñengo Flow,"['latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",82,85,0.892,0.662,8,-3.894,1,0.162,0.169,0.363,0.607,93.976,Chile
+6,Parcera,Pailita,"['drill chileno', 'urbano chileno', 'urbano latino']",78,76,0.731,0.848,1,-5.014,0,0.0547,0.026,0.0779,0.659,96.996,Chile
+7,Feliz Cumpleaños Ferxxo,Feid,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",91,87,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.305,0.563,94.999,Chile
+8,LOKOTRON REMIX,Harry Nach,"['trap chileno', 'urbano chileno', 'urbano latino']",67,69,0.844,0.53,10,-9.177,0,0.146,0.276,0.123,0.746,92.008,Chile
+9,Na Na Na - Remix,Pailita,"['drill chileno', 'urbano chileno', 'urbano latino']",78,77,0.831,0.83,3,-4.329,0,0.0865,0.0802,0.0442,0.938,98.003,Chile
+10,Mandame Tu Ubi,Jere Klein,['reggaeton chileno'],65,73,0.791,0.644,10,-6.603,0,0.0651,0.101,0.109,0.953,100.935,Chile
+11,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",86,96,0.621,0.782,2,-5.548,1,0.044,0.0125,0.23,0.55,128.033,Chile
+12,Me Porto Bonito,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,95,0.911,0.712,1,-5.105,0,0.0817,0.0901,0.0933,0.425,92.005,Chile
+13,Efecto,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.801,0.475,7,-8.797,0,0.0516,0.141,0.0639,0.234,98.047,Chile
+14,Vista Al Mar,Quevedo,"['rap canario', 'urbano latino']",87,89,0.759,0.561,0,-5.643,0,0.131,0.803,0.101,0.491,104.915,Chile
+15,Marisola,Stars Music Chile,[],70,82,0.806,0.85,1,-4.84,1,0.0967,0.155,0.201,0.728,95.014,Chile
+16,LOKERA,Rauw Alejandro,"['puerto rican pop', 'trap latino', 'urbano latino']",91,85,0.836,0.826,11,-2.66,0,0.0461,0.213,0.0814,0.579,102.025,Chile
+17,TU DIABLO,ITHAN NY,"['drill chileno', 'reggaeton flow', 'urbano chileno', 'urbano latino']",66,78,0.793,0.676,4,-9.003,0,0.0633,0.0335,0.304,0.461,99.009,Chile
+18,Ese Corte,Balbi El Chamako,"['mambo chileno', 'reggaeton chileno', 'reggaeton flow', 'urbano chileno']",63,70,0.685,0.829,11,-5.597,0,0.0456,0.00897,0.0512,0.509,95.115,Chile
+19,GANAS,Julianno Sosa,"['urbano chileno', 'urbano latino']",69,74,0.728,0.643,0,-8.016,1,0.0436,0.124,0.119,0.334,99.987,Chile
+20,Como Tu Ninguna - Remix,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,74,0.842,0.536,2,-6.669,1,0.0788,0.113,0.255,0.807,109.992,Chile
+21,DEBI LLEVARTE FLORES,Young Cister,"['trap chileno', 'urbano chileno', 'urbano latino']",72,69,0.86,0.654,1,-4.639,1,0.0472,0.12,0.464,0.183,110.031,Chile
+22,Ojitos Lindos,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.647,0.686,3,-5.745,0,0.0413,0.08,0.528,0.268,79.928,Chile
+23,Punto G,Quevedo,"['rap canario', 'urbano latino']",87,89,0.751,0.761,11,-4.113,0,0.15,0.251,0.0991,0.553,92.032,Chile
+24,BABY OTAKU,Pablito Pesadilla,[],68,84,0.835,0.747,9,-4.65,1,0.083,0.0492,0.055,0.432,102.003,Chile
+25,Mini Mini,Punto40,['reggaeton chileno'],67,83,0.862,0.739,6,-4.612,1,0.387,0.703,0.141,0.885,98.073,Chile
+26,LACONE,Polimá Westcoast,"['trap chileno', 'trap triste', 'urbano chileno', 'urbano latino']",78,82,0.798,0.718,8,-6.237,0,0.0443,0.263,0.142,0.727,126.01,Chile
+27,"ADICTO (feat. Best, Bayriton)",Jairo Vera,"['mambo chileno', 'urbano chileno', 'urbano latino']",68,72,0.627,0.56,7,-10.006,1,0.0521,0.149,0.0922,0.719,177.899,Chile
+28,Besos Moja2,Wisin & Yandel,"['electro latino', 'latin hip hop', 'reggaeton', 'urbano latino']",83,82,0.736,0.727,5,-4.642,0,0.0571,0.0584,0.0976,0.644,94.048,Chile
+29,Moscow Mule,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,91,0.804,0.674,5,-5.453,0,0.0333,0.294,0.115,0.292,99.968,Chile
+30,Tití Me Preguntó,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,94,0.65,0.715,5,-5.198,0,0.253,0.0993,0.126,0.187,106.672,Chile
+31,Fiera,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,66,0.821,0.768,0,-4.376,1,0.0454,0.124,0.0674,0.882,91.997,Chile
+32,Neverita,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,91,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.143,0.428,122.016,Chile
+33,CAIRO,KAROL G,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",87,88,0.951,0.692,5,-4.038,0,0.312,0.472,0.0894,0.431,115.047,Chile
+34,PUNTO 40,Rauw Alejandro,"['puerto rican pop', 'trap latino', 'urbano latino']",91,80,0.857,0.829,0,-0.484,1,0.0842,0.00112,0.255,0.208,106.993,Chile
+35,Muñeca,Marcianeke,"['reggaeton chileno', 'urbano chileno']",72,65,0.908,0.717,0,-6.161,1,0.132,0.0934,0.166,0.62,96.173,Chile
+36,ULTRA SOLO REMIX,Polimá Westcoast,"['trap chileno', 'trap triste', 'urbano chileno', 'urbano latino']",78,84,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.0638,0.585,109.97,Chile
+37,DESPECHÁ,ROSALÍA,['r&b en espanol'],86,86,0.914,0.622,7,-6.538,1,0.0892,0.146,0.0632,0.77,130.04,Chile
+38,Normal,Feid,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",91,83,0.709,0.56,4,-4.867,0,0.171,0.034,0.315,0.541,170.082,Chile
+39,LA TERAPIA,Young Cister,"['trap chileno', 'urbano chileno', 'urbano latino']",72,73,0.811,0.889,11,-4.5,1,0.0617,0.171,0.134,0.87,94.005,Chile
+40,Malibu,Feid,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",91,76,0.767,0.692,10,-6.269,0,0.0653,0.0223,0.0585,0.245,110.021,Chile
+41,Me Arrepentí,Ak4:20,"['urbano chileno', 'urbano latino']",70,73,0.861,0.786,0,-4.934,1,0.164,0.289,0.601,0.907,92.031,Chile
+42,Síntomas de Soltera,Paloma Mami,"['latin pop', 'reggaeton chileno', 'trap chileno']",71,70,0.72,0.811,1,-6.715,1,0.303,0.0975,0.103,0.757,199.914,Chile
+43,Monotonía,Shakira,"['colombian pop', 'dance pop', 'latin pop']",87,91,0.873,0.695,0,-4.207,0,0.0459,0.419,0.211,0.823,131.963,Chile
+44,Una Noche en Medellín,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,86,0.87,0.548,10,-5.253,0,0.077,0.0924,0.0534,0.832,96.018,Chile
+45,V16,Martinwhite,[],60,76,0.795,0.858,11,-4.302,0,0.0687,0.0151,0.0706,0.798,103.939,Chile
+46,Sin Seguro,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,71,0.826,0.793,1,-4.808,1,0.0432,0.00361,0.0836,0.308,97.005,Chile
+47,Salimos Del Tarro,Nickoog Clk,"['mambo chileno', 'urbano chileno']",74,70,0.805,0.48,5,-8.971,1,0.0465,0.328,0.0653,0.345,98.039,Chile
+48,Caminemos de la Mano,Pailita,"['drill chileno', 'urbano chileno', 'urbano latino']",78,71,0.735,0.752,1,-5.138,1,0.0855,0.318,0.331,0.647,92.915,Chile
+49,LA INOCENTE,Mora,"['trap latino', 'urbano latino']",86,87,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0717,0.464,91.911,Chile

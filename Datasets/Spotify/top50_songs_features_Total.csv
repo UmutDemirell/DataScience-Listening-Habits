@@ -1,0 +1,801 @@
+,Unnamed: 0,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,0,Antidepresan,Mert Demir,['turkish alt pop'],70,86,0.7,0.589,11,-9.974,0,0.0281,0.0297,0.0987,0.915,100.014,Turkey
+1,1,Fırtınadayım,Mabel Matiz,['turkish pop'],75,80,0.489,0.684,9,-5.73,0,0.0334,0.122,0.222,0.382,109.941,Turkey
+2,2,Bi' Tek Ben Anlarım,KÖFN,['turkish alt pop'],66,81,0.66,0.529,7,-10.502,1,0.0762,0.0828,0.099,0.318,96.009,Turkey
+3,3,TALIBANA,DEHA INC.,"['new school turkce rap', 'turkce trap metal']",60,69,0.841,0.683,1,-7.759,0,0.214,0.0766,0.0953,0.511,123.016,Turkey
+4,4,Belki,Dedublüman,['turkce slow sarkilar'],72,80,0.388,0.496,1,-8.707,1,0.03,0.317,0.153,0.34,183.965,Turkey
+5,5,Unutmak Öyle Kolay Mı Sandın,Semicenk,[],72,79,0.719,0.643,8,-7.001,1,0.111,0.606,0.0804,0.615,91.963,Turkey
+6,6,10MG,Motive,['turkish trap'],72,79,0.737,0.488,1,-9.751,1,0.196,0.595,0.103,0.248,127.124,Turkey
+7,7,SENIN UGRUNA,UZI,['turkish trap'],77,80,0.785,0.638,1,-7.081,1,0.109,0.357,0.0982,0.348,127.058,Turkey
+8,8,NKBİ,Güneş,['turkce kadin rap'],70,78,0.633,0.647,2,-6.129,0,0.03,0.00373,0.122,0.115,100.033,Turkey
+9,9,Ölümle Yaşam Arasında,Mavi Gri,['turkish alt pop'],69,78,0.44,0.624,8,-7.12,0,0.0347,0.547,0.096,0.479,152.185,Turkey
+10,10,ZOR,UZI,['turkish trap'],77,73,0.685,0.661,4,-9.014,0,0.208,0.838,0.626,0.0643,103.964,Turkey
+11,11,Gökyüzünü Tutamam,Can Koç,['turkce slow sarkilar'],61,77,0.471,0.671,2,-9.569,0,0.16,0.0801,0.136,0.637,176.104,Turkey
+12,12,Aşkın Olayım,Simge,"['deep turkish pop', 'persian pop', 'turkish pop']",65,77,0.556,0.582,5,-8.368,0,0.0414,0.23,0.327,0.561,75.976,Turkey
+13,13,Altüst Olmuşum,Mavi Gri,['turkish alt pop'],69,77,0.479,0.527,9,-11.482,0,0.0271,0.247,0.243,0.245,82.933,Turkey
+14,14,Olur Mu,Gazapizm,['turkish hip hop'],66,78,0.579,0.736,2,-7.786,0,0.0449,0.308,0.283,0.156,139.788,Turkey
+15,15,Kor,Emir Can İğrek,['turkish alt pop'],71,77,0.655,0.472,0,-10.506,0,0.0422,0.408,0.285,0.362,92.995,Turkey
+16,16,25,Ati242,[],66,73,0.735,0.743,11,-8.21,0,0.153,0.318,0.131,0.414,120.031,Turkey
+17,17,VUR,BLOK3,"['new school turkce rap', 'turkce drill']",59,72,0.613,0.566,1,-13.714,1,0.153,0.355,0.121,0.697,143.011,Turkey
+18,18,Seni Dert Etmeler,Madrigal,['turkish alt pop'],68,76,0.552,0.608,5,-11.211,0,0.0274,0.148,0.332,0.835,88.002,Turkey
+19,19,Belki - Akustik,Dedublüman,['turkce slow sarkilar'],72,77,0.449,0.711,8,-5.851,0,0.0282,0.111,0.0917,0.443,91.91,Turkey
+20,20,Yalanı Bırak,Sakiler,[],63,75,0.413,0.677,0,-7.303,0,0.0433,0.301,0.348,0.613,78.892,Turkey
+21,21,Diğer Yarım,ATE,[],60,77,0.676,0.758,1,-6.92,0,0.124,0.133,0.0565,0.28,95.06,Turkey
+22,22,Suçlarımdan Biri,Güneş,['turkce kadin rap'],70,77,0.763,0.733,5,-6.534,0,0.113,0.138,0.0827,0.587,94.977,Turkey
+23,23,Ara,Zeynep Bastık,['turkish pop'],67,63,0.621,0.674,0,-5.777,0,0.0472,0.241,0.116,0.304,163.917,Turkey
+24,24,"deniyorum, ama",Mavi,['turkish trap pop'],68,71,0.456,0.24,7,-14.923,0,0.0349,0.769,0.351,0.327,145.522,Turkey
+25,25,Nerdesin,Ezhel,"['turkish hip hop', 'turkish trap']",73,65,0.816,0.696,8,-6.75,0,0.153,0.201,0.13,0.81,100.004,Turkey
+26,26,Bir Derdim Var,mor ve ötesi,"['turkish alternative', 'turkish alternative rock', 'turkish rock']",66,75,0.586,0.89,11,-1.988,0,0.0369,0.012,0.114,0.426,119.062,Turkey
+27,27,Dip,Madrigal,['turkish alt pop'],68,75,0.544,0.809,7,-10.232,0,0.032,0.485,0.0988,0.549,85.025,Turkey
+28,28,Diyardan Diyara,cakal,['turkce drill'],69,66,0.789,0.703,4,-5.437,0,0.0969,0.052,0.386,0.191,105.037,Turkey
+29,29,Ağlaya Ağlaya,Tekir,['turkish trap pop'],63,73,0.612,0.461,10,-11.736,0,0.22,0.65,0.332,0.654,79.975,Turkey
+30,30,ARASAN DA,UZI,['turkish trap'],77,68,0.742,0.832,10,-6.812,1,0.156,0.425,0.108,0.441,105.978,Turkey
+31,31,Masal Gibi,Semicenk,[],72,74,0.669,0.417,10,-14.185,1,0.0655,0.381,0.125,0.304,83.034,Turkey
+32,32,Sakladığın Bir Şeyler Var,Dedublüman,['turkce slow sarkilar'],72,74,0.473,0.839,1,-7.837,0,0.0399,0.19,0.0714,0.411,100.033,Turkey
+33,33,kördüğüm,Sefo,['turkish trap'],70,75,0.651,0.804,7,-5.488,0,0.248,0.275,0.104,0.311,180.207,Turkey
+34,34,Olmazlara İnat,Berkay Altunyay,['turkish singer-songwriter'],61,75,0.581,0.495,4,-13.087,0,0.0658,0.185,0.0479,0.184,85.043,Turkey
+35,35,Gitme,Dolu Kadehi Ters Tut,['turkish alt pop'],68,73,0.685,0.416,9,-8.609,0,0.0317,0.352,0.106,0.696,119.992,Turkey
+36,36,Hep De Yorgun,Yaşlı Amca,['turkish alternative rock'],64,72,0.669,0.433,10,-11.234,0,0.0517,0.787,0.242,0.355,78.043,Turkey
+37,37,XXL,UZI,['turkish trap'],77,74,0.704,0.697,10,-7.276,0,0.286,0.0676,0.467,0.278,136.036,Turkey
+38,38,Herkes Gibisin,Semicenk,[],72,74,0.686,0.493,8,-9.845,1,0.142,0.0296,0.111,0.236,90.069,Turkey
+39,39,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,Turkey
+40,40,Ah Canım Sevgilim - Demo,Rei 6,['turkish alt pop'],62,74,0.471,0.227,0,-11.568,1,0.0539,0.873,0.159,0.3,116.871,Turkey
+41,41,Mockingbird,Eminem,"['detroit hip hop', 'hip hop', 'rap']",92,92,0.637,0.678,0,-3.798,1,0.266,0.209,0.156,0.254,84.039,Turkey
+42,42,Aşk Şarkısı - Live,Şanışer,['turkish hip hop'],65,74,0.534,0.551,5,-7.275,1,0.053,0.185,0.106,0.146,91.046,Turkey
+43,43,GELMEZSEN GELME,Lvbel C5,"['turkce drill', 'turkish trap']",71,73,0.76,0.555,11,-12.659,0,0.0599,0.185,0.0916,0.269,120.003,Turkey
+44,44,Sevmiş Gibi,Eftalya Yağcı,[],58,74,0.816,0.543,8,-9.358,0,0.093,0.207,0.0927,0.314,110.025,Turkey
+45,45,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,Turkey
+46,46,Bu Saatten Sonra,İkilem,"['turkish alt pop', 'turkish pop']",61,73,0.378,0.631,9,-9.049,0,0.113,0.0414,0.0975,0.451,84.221,Turkey
+47,47,Mahşer,Gökhan Türkmen,['turkish pop'],63,72,0.551,0.632,9,-8.2,0,0.026,0.234,0.0944,0.471,97.919,Turkey
+48,48,Dinle Beni Bi',Yüzyüzeyken Konuşuruz,['turkish alternative rock'],67,73,0.558,0.68,9,-9.301,0,0.0476,0.56,0.107,0.542,91.967,Turkey
+49,49,UNUTTUM,UZI,['turkish trap'],77,73,0.699,0.701,0,-6.966,1,0.245,0.0302,0.502,0.762,141.043,Turkey
+50,0,Zukunft Pink (feat. Inéz),Peter Fox,['german pop'],69,81,0.903,0.719,1,-8.054,1,0.052,0.514,0.743,0.639,118.036,Germany
+51,1,LET GO,Central Cee,['melodic drill'],83,89,0.735,0.449,2,-9.933,0,0.383,0.859,0.213,0.514,146.016,Germany
+52,2,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,Germany
+53,3,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,Germany
+54,4,Bamba (feat. Aitch & BIA),Luciano,['german drill'],77,74,0.797,0.791,10,-6.281,1,0.33,0.119,0.113,0.828,138.026,Germany
+55,5,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,Germany
+56,6,Mockingbird,Eminem,"['detroit hip hop', 'hip hop', 'rap']",92,92,0.637,0.678,0,-3.798,1,0.266,0.209,0.156,0.254,84.039,Germany
+57,7,Wildberry Lillet,Nina Chuba,"['german hip hop', 'hamburg hip hop']",71,78,0.89,0.521,6,-7.048,0,0.169,0.078,0.0958,0.646,139.981,Germany
+58,8,Escapism.,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,76,0.538,0.742,2,-5.355,1,0.114,0.138,0.0934,0.25,96.107,Germany
+59,9,Glatteis,Nina Chuba,"['german hip hop', 'hamburg hip hop']",71,75,0.782,0.565,6,-7.221,0,0.136,0.113,0.0954,0.137,134.962,Germany
+60,10,Miss You,southstar,[],70,83,0.663,0.559,6,-12.876,0,0.0391,0.136,0.108,0.296,145.007,Germany
+61,11,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,Germany
+62,12,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,Germany
+63,13,Give It To Me - Full Vocal Mix,Matt Sassari,"['french tech house', 'french techno']",67,82,0.874,0.869,1,-5.996,0,0.0315,0.00116,0.164,0.726,126.027,Germany
+64,14,Ich hass dich,Nina Chuba,"['german hip hop', 'hamburg hip hop']",71,75,0.822,0.683,0,-5.465,0,0.0861,0.481,0.101,0.53,145.045,Germany
+65,15,Bad Memories (feat. Elley Duhé & FAST BOY),MEDUZA,"['dance pop', 'edm', 'electro house', 'pop dance', 'pop house', 'tropical house']",77,86,0.607,0.767,5,-6.069,0,0.0474,0.118,0.122,0.662,123.998,Germany
+66,16,Beautiful Girl,Luciano,['german drill'],77,70,0.846,0.42,11,-8.659,0,0.104,0.296,0.09,0.621,139.883,Germany
+67,17,Buzz Down,Bonez MC,"['german hip hop', 'hamburg hip hop']",77,74,0.837,0.513,1,-8.651,1,0.483,0.473,0.117,0.557,159.966,Germany
+68,18,Miss You,Oliver Tree,['alternative hip hop'],83,93,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.146,0.199,145.007,Germany
+69,19,Moulaga,MADE,['german hip hop'],66,74,0.719,0.476,2,-10.453,0,0.319,0.166,0.111,0.447,96.962,Germany
+70,20,Bloody Mary,Lady Gaga,"['art pop', 'dance pop', 'pop']",87,80,0.591,0.637,9,-6.365,0,0.03,0.0107,0.113,0.432,99.998,Germany
+71,21,Bei Nacht,AYLIVA,[],69,70,0.629,0.458,5,-7.159,1,0.0374,0.14,0.263,0.0758,77.525,Germany
+72,22,Weihnachtsbäckerei,Nimo,"['german hip hop', 'swedish hip hop']",71,68,0.838,0.771,3,-3.618,0,0.14,0.256,0.125,0.749,134.037,Germany
+73,23,Ferrari,James Hype,"['deep groove house', 'edm', 'house', 'pop dance', 'uk dance']",74,86,0.847,0.69,1,-7.877,0,0.0493,0.0127,0.0526,0.692,125.004,Germany
+74,24,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,Germany
+75,25,Call It Love,Felix Jaehn,"['dance pop', 'edm', 'electro house', 'german dance', 'pop', 'pop dance', 'tropical house']",75,81,0.616,0.841,5,-4.779,0,0.076,0.0559,0.417,0.714,110.029,Germany
+76,26,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Germany
+77,27,Nachts wach,Miksu / Macloud,['german hip hop'],71,73,0.719,0.685,6,-7.083,0,0.257,0.569,0.263,0.632,136.172,Germany
+78,28,Belly Dancer,Imanbek,"['dance pop', 'edm', 'electro house', 'pop dance', 'slap house', 'tropical house']",76,85,0.845,0.797,1,-4.984,1,0.139,0.0582,0.167,0.422,121.985,Germany
+79,29,Liebst du mich,Sido,['german hip hop'],76,65,0.69,0.783,3,-6.924,1,0.0709,0.00402,0.114,0.814,105.0,Germany
+80,30,Powerade,Ion Miles,"['german cloud rap', 'german hip hop', 'german trap']",63,69,0.89,0.72,6,-5.202,0,0.0729,0.193,0.641,0.935,150.09,Germany
+81,31,SNAP,Rosa Linn,['alt z'],77,49,0.565,0.636,0,-8.198,1,0.0638,0.107,0.447,0.525,170.01,Germany
+82,32,How Do I Say Goodbye,Dean Lewis,"['australian pop', 'pop']",79,76,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0656,0.393,81.552,Germany
+83,33,Du Fehlst,Eddin,"['german hip hop', 'german trap']",63,74,0.638,0.442,0,-10.121,0,0.052,0.0993,0.173,0.376,138.859,Germany
+84,34,Layla,DJ Robin,['partyschlager'],59,67,0.448,0.921,5,-3.468,0,0.0687,0.00124,0.383,0.375,140.067,Germany
+85,35,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,Germany
+86,36,Follow,Kontra K,"['christlicher rap', 'german hip hop']",73,74,0.719,0.628,8,-6.269,0,0.211,0.0733,0.119,0.472,139.957,Germany
+87,37,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,"['lgbtq+ hip hop', 'pop']",83,89,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0892,0.308,141.872,Germany
+88,38,Party Sahne,Ski Aggu,"['german hip hop', 'german trap']",63,58,0.843,0.928,5,-4.988,0,0.0854,0.0775,0.258,0.725,135.978,Germany
+89,39,Sehnsucht,Miksu / Macloud,['german hip hop'],71,72,0.804,0.645,6,-7.069,0,0.0773,0.642,0.173,0.912,142.09,Germany
+90,40,Another Love,OsTEKKe,[],59,75,0.63,0.458,6,-14.172,1,0.0718,0.15,0.108,0.208,170.042,Germany
+91,41,10:35,Tiësto,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance', 'tropical house']",84,87,0.696,0.793,8,-5.733,1,0.097,0.0683,0.18,0.698,120.003,Germany
+92,42,Under The Influence,Chris Brown,"['dance pop', 'r&b']",89,94,0.733,0.69,9,-5.529,0,0.0427,0.0635,0.105,0.31,116.992,Germany
+93,43,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,Germany
+94,44,Nur für Dich,Kontra K,"['christlicher rap', 'german hip hop']",73,73,0.67,0.498,6,-8.236,0,0.332,0.722,0.116,0.355,81.914,Germany
+95,45,Heavy Metal Love,twocolors,"['dance pop', 'edm', 'pop dance', 'pop edm', 'tropical house']",65,75,0.768,0.767,5,-8.06,0,0.0358,0.194,0.121,0.457,125.029,Germany
+96,46,PARADISE (MIT DIR),Liaze,"['german hip hop', 'german trap']",61,73,0.666,0.534,2,-8.495,0,0.0828,0.269,0.068,0.392,139.998,Germany
+97,47,Der Berg ruft,Bausa,['german hip hop'],66,71,0.895,0.763,0,-7.267,1,0.261,0.239,0.314,0.525,129.994,Germany
+98,48,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,Germany
+99,49,Someone Else,ClockClock,[],61,72,0.817,0.784,5,-4.971,0,0.0463,0.119,0.13,0.537,131.995,Germany
+100,0,Amber,Zola,"['french hip hop', 'pop urbaine', 'rap francais']",70,79,0.707,0.778,6,-8.915,1,0.221,0.0853,0.177,0.668,140.988,France
+101,1,DIE,Gazo,"['drill francais', 'rap francais']",77,80,0.695,0.63,8,-7.16,0,0.035,0.229,0.118,0.55,130.968,France
+102,2,Fetty Wap,Maes,"['french hip hop', 'pop urbaine', 'rap francais']",72,78,0.919,0.621,9,-4.9,1,0.274,0.282,0.0839,0.555,130.12,France
+103,3,LET GO,Central Cee,['melodic drill'],83,89,0.735,0.449,2,-9.933,0,0.383,0.859,0.213,0.514,146.016,France
+104,4,Merci les bleus,KABONGO-DJ,[],45,62,0.753,0.743,0,-6.419,0,0.0459,0.236,0.12,0.786,107.988,France
+105,5,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,France
+106,6,Lola,RK,"['french hip hop', 'pop urbaine', 'rap conscient', 'rap francais']",68,69,0.683,0.689,4,-5.62,1,0.183,0.117,0.0688,0.413,73.039,France
+107,7,Mr. Ocho,SDM,"['french hip hop', 'pop urbaine', 'rap francais']",73,72,0.716,0.598,0,-7.096,0,0.23,0.324,0.0766,0.729,122.001,France
+108,8,DESPECHÁ,ROSALÍA,['r&b en espanol'],86,86,0.914,0.622,7,-6.538,1,0.0892,0.146,0.0632,0.77,130.04,France
+109,9,Balader,Soolking,"['francoton', 'french hip hop', 'pop urbaine', 'rap algerien', 'rap tunisien']",73,77,0.603,0.802,4,-5.089,0,0.111,0.306,0.124,0.787,130.121,France
+110,10,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,France
+111,11,Coeur De Pirate,Damso,"['belgian hip hop', 'french hip hop', 'pop urbaine', 'rap belge', 'rap conscient']",77,71,0.724,0.55,5,-8.615,0,0.263,0.0362,0.115,0.631,82.893,France
+112,12,Urus,Favé,[],62,63,0.71,0.712,11,-7.436,0,0.3,0.0297,0.0975,0.596,162.106,France
+113,13,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,France
+114,14,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,France
+115,15,FLEURS (feat. Tiakola),Gazo,"['drill francais', 'rap francais']",77,75,0.673,0.636,10,-7.431,1,0.0771,0.268,0.108,0.438,127.021,France
+116,16,Un jour je marierai un ange,Pierre de Maere,[],59,75,0.544,0.578,7,-9.49,0,0.18,0.216,0.0949,0.219,169.973,France
+117,17,THE LONELIEST,Måneskin,"['indie rock italiano', 'italian pop']",80,86,0.519,0.595,2,-5.001,1,0.0283,0.00151,0.0762,0.237,129.786,France
+118,18,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,"['lgbtq+ hip hop', 'pop']",83,89,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0892,0.308,141.872,France
+119,19,TOUT VA BIEN (feat. Ninho & Naps),Alonzo,"['francoton', 'french hip hop', 'french pop', 'pop urbaine', 'rap francais', 'rap marseille']",67,76,0.66,0.72,3,-5.874,0,0.0753,0.301,0.226,0.628,99.937,France
+120,20,FADE UP,ZEG P,[],59,76,0.758,0.599,4,-5.99,0,0.0877,0.57,0.129,0.557,129.96,France
+121,21,Miss You,Oliver Tree,['alternative hip hop'],83,93,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.146,0.199,145.007,France
+122,22,Coco,Lorenzo,"['french hip hop', 'rap conscient']",71,74,0.712,0.493,6,-7.778,1,0.075,0.591,0.135,0.549,132.827,France
+123,23,SNAP,Rosa Linn,['alt z'],77,49,0.565,0.636,0,-8.198,1,0.0638,0.107,0.447,0.525,170.01,France
+124,24,Meuda,Tiakola,['pop urbaine'],75,74,0.724,0.593,9,-6.498,1,0.0766,0.508,0.196,0.624,141.901,France
+125,25,Freed from Desire,Gala,"['eurodance', 'europop', 'hip house']",64,40,0.715,0.76,2,-7.534,0,0.0408,0.389,0.107,0.667,128.984,France
+126,26,CP_009_ Évidemment,Orelsan,"['french hip hop', 'old school rap francais', 'rap conscient']",73,73,0.713,0.67,9,-6.447,0,0.305,0.113,0.52,0.457,120.76,France
+127,27,Ma Came,Dertay,[],52,68,0.877,0.621,11,-7.161,0,0.104,0.475,0.241,0.876,118.005,France
+128,28,PETETE,Gambi,"['french hip hop', 'pop urbaine', 'rap francais']",62,75,0.752,0.669,10,-9.817,0,0.251,0.167,0.0795,0.627,155.997,France
+129,29,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,France
+130,30,RAPPEL,Gazo,"['drill francais', 'rap francais']",77,72,0.486,0.786,4,-6.468,0,0.209,0.441,0.077,0.534,94.644,France
+131,31,Namek,Jul,"['francoton', 'rap marseille']",82,68,0.64,0.541,7,-7.731,0,0.162,0.755,0.0966,0.765,88.127,France
+132,32,À peu près,Lomepal,"['french hip hop', 'rap conscient']",73,74,0.739,0.682,10,-6.811,1,0.0561,0.089,0.526,0.638,129.983,France
+133,33,Δ. Dieu ne ment jamais,Damso,"['belgian hip hop', 'french hip hop', 'pop urbaine', 'rap belge', 'rap conscient']",77,74,0.756,0.736,11,-7.719,1,0.0443,0.0597,0.0373,0.612,115.985,France
+134,34,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,France
+135,35,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,France
+136,36,Solitaire,Werenoi,"['french hip hop', 'pop urbaine', 'rap francais']",67,69,0.765,0.744,1,-9.147,0,0.0644,0.244,0.0966,0.523,117.989,France
+137,37,Doja,Central Cee,['melodic drill'],83,88,0.911,0.573,6,-7.43,1,0.288,0.38,0.403,0.972,140.04,France
+138,38,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,France
+139,39,Shining Light,Aime Simone,[],57,72,0.661,0.425,4,-11.185,0,0.0372,0.2,0.104,0.252,115.923,France
+140,40,Cœur blanc,Jul,"['francoton', 'rap marseille']",82,71,0.882,0.716,9,-7.061,0,0.0748,0.00973,0.0772,0.519,135.999,France
+141,41,Pas bête,Beendo Z,"['pop urbaine', 'rap francais']",61,73,0.734,0.532,7,-9.038,0,0.102,0.361,0.105,0.491,138.043,France
+142,42,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",90,77,0.247,0.299,9,-6.083,1,0.0315,0.899,0.131,0.172,177.115,France
+143,43,La vie qu'on mène,Ninho,"['french hip hop', 'pop urbaine']",80,73,0.8,0.756,7,-4.4,0,0.0367,0.687,0.111,0.456,113.204,France
+144,44,Gasolina (feat. Rsko),Tiakola,['pop urbaine'],75,73,0.684,0.493,6,-7.946,0,0.124,0.517,0.0672,0.501,119.087,France
+145,45,Sharks,Imagine Dragons,"['modern rock', 'rock']",89,74,0.927,0.642,10,-4.466,0,0.0657,0.00791,0.279,0.901,123.969,France
+146,46,"DANÇARINA (feat. Nicky Jam, MC Pedrinho) - Remix",PEDRO SAMPAIO,"['funk carioca', 'funk rj']",71,76,0.763,0.669,9,-4.402,0,0.0651,0.156,0.0867,0.609,135.028,France
+147,47,Salomé,Tayc,['pop urbaine'],74,71,0.657,0.538,0,-6.287,0,0.192,0.139,0.12,0.189,133.758,France
+148,48,Des milliers de je t'aime,Slimane,"['francoton', 'french pop']",65,70,0.545,0.552,6,-6.049,0,0.064,0.738,0.0814,0.276,134.8,France
+149,49,Peur (feat. Ziak),Kerchak,[],67,65,0.701,0.834,9,-5.024,1,0.364,0.196,0.0264,0.799,159.964,France
+150,0,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,Great Britain
+151,1,Escapism.,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,76,0.538,0.742,2,-5.355,1,0.114,0.138,0.0934,0.25,96.107,Great Britain
+152,2,LET GO,Central Cee,['melodic drill'],83,89,0.735,0.449,2,-9.933,0,0.383,0.859,0.213,0.514,146.016,Great Britain
+153,3,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,Great Britain
+154,4,Out Of Nowhere,Bugzy Malone,"['grime', 'manchester hip hop', 'uk hip hop']",68,79,0.724,0.815,8,-5.509,1,0.33,0.134,0.181,0.685,130.04,Great Britain
+155,5,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,Great Britain
+156,6,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,Great Britain
+157,7,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,Great Britain
+158,8,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,Great Britain
+159,9,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Great Britain
+160,10,messy in heaven,venbee,[],65,79,0.62,0.837,8,-4.356,0,0.13,0.128,0.242,0.433,172.081,Great Britain
+161,11,Miss You,Oliver Tree,['alternative hip hop'],83,93,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.146,0.199,145.007,Great Britain
+162,12,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,Great Britain
+163,13,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,Great Britain
+164,14,Bad Habit,Steve Lacy,['afrofuturism'],85,87,0.686,0.494,1,-7.093,1,0.0355,0.613,0.402,0.7,168.946,Great Britain
+165,15,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,Great Britain
+166,16,Sweater Weather,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",85,92,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.101,0.398,124.053,Great Britain
+167,17,Under The Influence,Chris Brown,"['dance pop', 'r&b']",89,94,0.733,0.69,9,-5.529,0,0.0427,0.0635,0.105,0.31,116.992,Great Britain
+168,18,Forget Me,Lewis Capaldi,"['pop', 'uk pop']",82,85,0.669,0.742,1,-3.518,0,0.0441,0.296,0.355,0.716,101.982,Great Britain
+169,19,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,Great Britain
+170,20,Doja,Central Cee,['melodic drill'],83,88,0.911,0.573,6,-7.43,1,0.288,0.38,0.403,0.972,140.04,Great Britain
+171,21,PSYCHO,Anne-Marie,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",78,81,0.62,0.681,9,-4.915,1,0.356,0.0138,0.0248,0.741,160.743,Great Britain
+172,22,B.O.T.A. (Baddest Of Them All) - Edit,Eliza Rose,['house'],69,85,0.736,0.906,0,-7.589,1,0.048,0.164,0.106,0.698,137.001,Great Britain
+173,23,Sure Thing,Miguel,"['dance pop', 'pop', 'r&b', 'urban contemporary']",80,87,0.684,0.607,11,-8.127,0,0.1,0.0267,0.191,0.498,81.001,Great Britain
+174,24,Mr. Brightside,The Killers,"['alternative rock', 'dance rock', 'permanent wave', 'rock']",78,85,0.352,0.911,1,-5.23,1,0.0747,0.00121,0.0995,0.236,148.033,Great Britain
+175,25,Shirt,SZA,"['pop', 'r&b']",94,85,0.848,0.512,3,-7.72,0,0.102,0.228,0.0879,0.572,120.009,Great Britain
+176,26,Escapism. - Sped Up,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,83,0.435,0.768,6,-5.352,0,0.201,0.0857,0.0918,0.378,107.588,Great Britain
+177,27,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,Great Britain
+178,28,Afraid To Feel,LF SYSTEM,[],67,82,0.578,0.912,1,-3.929,1,0.114,0.0166,0.273,0.68,127.87,Great Britain
+179,29,Mockingbird,Eminem,"['detroit hip hop', 'hip hop', 'rap']",92,92,0.637,0.678,0,-3.798,1,0.266,0.209,0.156,0.254,84.039,Great Britain
+180,30,I Wanna Be Yours,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,93,0.464,0.417,0,-9.345,0,0.0256,0.136,0.0974,0.479,67.528,Great Britain
+181,31,505,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,81,0.52,0.852,0,-5.866,1,0.0543,0.00237,0.0733,0.234,140.267,Great Britain
+182,32,Last Last,Burna Boy,"['afro dancehall', 'dancehall', 'nigerian hip hop', 'nigerian pop']",81,80,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0802,0.55,87.925,Great Britain
+183,33,Romantic Homicide,d4vd,['bedroom pop'],81,93,0.571,0.544,6,-10.613,1,0.0299,0.453,0.322,0.216,132.052,Great Britain
+184,34,Hide & Seek,Stormzy,"['grime', 'uk hip hop']",76,68,0.823,0.367,2,-7.834,1,0.0785,0.281,0.135,0.647,105.011,Great Britain
+185,35,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'shiver pop']",79,87,0.761,0.525,11,-6.9,1,0.0944,0.44,0.0921,0.531,80.87,Great Britain
+186,36,Nobody Gets Me,SZA,"['pop', 'r&b']",94,91,0.358,0.284,7,-8.285,1,0.0285,0.805,0.183,0.276,99.796,Great Britain
+187,37,Pointless,Lewis Capaldi,"['pop', 'uk pop']",82,82,0.325,0.59,4,-3.943,1,0.0495,0.0686,0.104,0.278,180.449,Great Britain
+188,38,Just Wanna Rock,Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",87,90,0.486,0.545,11,-7.924,1,0.0336,0.0652,0.0642,0.0385,150.187,Great Britain
+189,39,Rocket Science (feat. D-Block Europe),Clavish,"['uk drill', 'uk hip hop']",63,73,0.82,0.473,4,-8.158,0,0.456,0.165,0.0972,0.343,119.957,Great Britain
+190,40,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,"['gen z singer-songwriter', 'pop']",80,91,0.551,0.55,10,-5.339,1,0.0286,0.777,0.202,0.342,101.19,Great Britain
+191,41,Viva La Vida,Coldplay,"['permanent wave', 'pop']",89,85,0.486,0.617,5,-7.115,0,0.0287,0.0954,0.109,0.417,138.015,Great Britain
+192,42,Die For You,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,88,0.586,0.525,1,-7.163,0,0.0615,0.111,0.134,0.508,133.629,Great Britain
+193,43,The Color Violet,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']",82,86,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0863,0.463,105.02,Great Britain
+194,44,golden hour,JVKE,['modern indie pop'],81,89,0.515,0.593,4,-4.801,1,0.0322,0.653,0.25,0.153,94.467,Great Britain
+195,45,Christmas Drillings,Sidemen,[],64,78,0.686,0.661,5,-5.564,1,0.238,0.0764,0.054,0.349,139.858,Great Britain
+196,46,Why'd You Only Call Me When You're High?,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,87,0.691,0.631,2,-6.478,1,0.0368,0.0483,0.104,0.8,92.004,Great Britain
+197,47,Boy's a liar,PinkPantheress,[],76,84,0.656,0.838,5,-8.407,1,0.041,0.25,0.207,0.74,132.981,Great Britain
+198,48,Starlight,Dave,['uk hip hop'],76,78,0.954,0.367,4,-9.551,0,0.288,0.341,0.0979,0.372,124.026,Great Britain
+199,49,Running Up That Hill (A Deal With God),Kate Bush,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']",74,85,0.629,0.547,10,-13.123,0,0.055,0.72,0.0604,0.197,108.375,Great Britain
+200,0,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,United States
+201,1,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,United States
+202,2,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,United States
+203,3,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,United States
+204,4,Just Wanna Rock,Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",87,90,0.486,0.545,11,-7.924,1,0.0336,0.0652,0.0642,0.0385,150.187,United States
+205,5,Bad Habit,Steve Lacy,['afrofuturism'],85,87,0.686,0.494,1,-7.093,1,0.0355,0.613,0.402,0.7,168.946,United States
+206,6,Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,['rap'],92,88,0.526,0.606,5,-5.3,0,0.259,0.152,0.194,0.492,116.622,United States
+207,7,Nobody Gets Me,SZA,"['pop', 'r&b']",94,91,0.358,0.284,7,-8.285,1,0.0285,0.805,0.183,0.276,99.796,United States
+208,8,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,United States
+209,9,golden hour,JVKE,['modern indie pop'],81,89,0.515,0.593,4,-4.801,1,0.0322,0.653,0.25,0.153,94.467,United States
+210,10,Low,SZA,"['pop', 'r&b']",94,88,0.698,0.546,0,-7.234,0,0.0559,0.425,0.16,0.335,145.044,United States
+211,11,Something in the Orange,Zach Bryan,['oklahoma country'],84,88,0.369,0.192,4,-12.151,0,0.04,0.555,0.0954,0.148,175.212,United States
+212,12,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,United States
+213,13,Romantic Homicide,d4vd,['bedroom pop'],81,93,0.571,0.544,6,-10.613,1,0.0299,0.453,0.322,0.216,132.052,United States
+214,14,Shirt,SZA,"['pop', 'r&b']",94,85,0.848,0.512,3,-7.72,0,0.102,0.228,0.0879,0.572,120.009,United States
+215,15,Die For You,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,88,0.586,0.525,1,-7.163,0,0.0615,0.111,0.134,0.508,133.629,United States
+216,16,Blind,SZA,"['pop', 'r&b']",94,88,0.461,0.279,9,-11.776,0,0.0373,0.911,0.205,0.599,114.225,United States
+217,17,You Proof,Morgan Wallen,['contemporary country'],86,85,0.731,0.85,9,-4.913,1,0.0336,0.252,0.605,0.644,119.706,United States
+218,18,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,"['gen z singer-songwriter', 'pop']",80,91,0.551,0.55,10,-5.339,1,0.0286,0.777,0.202,0.342,101.19,United States
+219,19,Gato de Noche,Ñengo Flow,"['latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",82,85,0.892,0.662,8,-3.894,1,0.162,0.169,0.363,0.607,93.976,United States
+220,20,Jimmy Cooks (feat. 21 Savage),Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,89,0.529,0.673,0,-4.711,1,0.175,0.000307,0.093,0.366,165.921,United States
+221,21,Tití Me Preguntó,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,94,0.65,0.715,5,-5.198,0,0.253,0.0993,0.126,0.187,106.672,United States
+222,22,Here With Me,d4vd,['bedroom pop'],81,92,0.574,0.469,4,-8.209,1,0.0254,0.534,0.128,0.288,132.023,United States
+223,23,Sweater Weather,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",85,92,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.101,0.398,124.053,United States
+224,24,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,United States
+225,25,No Role Modelz,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",86,88,0.69,0.521,10,-8.492,0,0.339,0.324,0.0534,0.494,100.028,United States
+226,26,Lavender Haze,Taylor Swift,['pop'],99,88,0.733,0.436,10,-10.489,1,0.08,0.258,0.157,0.0976,96.985,United States
+227,27,Escapism.,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,76,0.538,0.742,2,-5.355,1,0.114,0.138,0.0934,0.25,96.107,United States
+228,28,Me Porto Bonito,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,95,0.911,0.712,1,-5.105,0,0.0817,0.0901,0.0933,0.425,92.005,United States
+229,29,Snooze,SZA,"['pop', 'r&b']",94,85,0.559,0.551,5,-7.231,1,0.132,0.141,0.11,0.392,143.008,United States
+230,30,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,United States
+231,31,Sure Thing,Miguel,"['dance pop', 'pop', 'r&b', 'urban contemporary']",80,87,0.684,0.607,11,-8.127,0,0.1,0.0267,0.191,0.498,81.001,United States
+232,32,Love Language,SZA,"['pop', 'r&b']",94,86,0.707,0.261,9,-10.139,0,0.0784,0.853,0.127,0.545,65.038,United States
+233,33,Wasted On You,Morgan Wallen,['contemporary country'],86,83,0.505,0.657,11,-5.24,0,0.0318,0.373,0.126,0.252,196.0,United States
+234,34,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,United States
+235,35,Rock and A Hard Place,Bailey Zimmerman,['contemporary country'],74,82,0.582,0.568,1,-7.3,1,0.0275,0.577,0.105,0.394,121.991,United States
+236,36,Too Many Nights (feat. Don Toliver & with Future),Metro Boomin,['rap'],92,85,0.684,0.671,7,-4.392,0,0.0464,0.189,0.122,0.156,88.048,United States
+237,37,Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],Metro Boomin,['rap'],92,86,0.671,0.658,2,-5.567,1,0.309,0.189,0.147,0.257,87.933,United States
+238,38,Dark Red,Steve Lacy,['afrofuturism'],85,88,0.603,0.784,6,-4.023,1,0.062,0.446,0.119,0.769,172.041,United States
+239,39,Seek & Destroy,SZA,"['pop', 'r&b']",94,86,0.651,0.647,1,-5.415,1,0.0654,0.437,0.205,0.345,152.069,United States
+240,40,Good Days,SZA,"['pop', 'r&b']",94,81,0.461,0.651,1,-8.81,0,0.0568,0.418,0.782,0.383,121.07,United States
+241,41,Ghost in the Machine (feat. Phoebe Bridgers),SZA,"['pop', 'r&b']",94,85,0.624,0.433,6,-9.572,1,0.0467,0.837,0.113,0.589,124.979,United States
+242,42,Midnight Rain,Taylor Swift,['pop'],99,88,0.643,0.363,0,-11.738,1,0.0767,0.69,0.115,0.23,139.865,United States
+243,43,Used (feat. Don Toliver),SZA,"['pop', 'r&b']",94,69,0.733,0.685,10,-6.228,0,0.0533,0.363,0.333,0.837,150.073,United States
+244,44,WAIT FOR U (feat. Drake & Tems),Future,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",90,87,0.463,0.642,1,-4.474,1,0.34,0.314,0.0686,0.339,83.389,United States
+245,45,The Color Violet,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']",82,86,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0863,0.463,105.02,United States
+246,46,Shut up My Moms Calling,Hotel Ugly,[],75,87,0.485,0.409,9,-10.711,0,0.101,0.325,0.103,0.376,138.419,United States
+247,47,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,United States
+248,48,I Like You (A Happier Song) (with Doja Cat),Post Malone,"['dfw rap', 'melodic rap', 'rap']",89,88,0.733,0.67,5,-6.009,1,0.0751,0.121,0.121,0.472,100.964,United States
+249,49,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'shiver pop']",79,87,0.761,0.525,11,-6.9,1,0.0944,0.44,0.0921,0.531,80.87,United States
+250,0,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,Canada
+251,1,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,Canada
+252,2,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,Canada
+253,3,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,Canada
+254,4,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,Canada
+255,5,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,Canada
+256,6,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Canada
+257,7,Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,['rap'],92,88,0.526,0.606,5,-5.3,0,0.259,0.152,0.194,0.492,116.622,Canada
+258,8,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,Canada
+259,9,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,Canada
+260,10,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,Canada
+261,11,Just Wanna Rock,Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",87,90,0.486,0.545,11,-7.924,1,0.0336,0.0652,0.0642,0.0385,150.187,Canada
+262,12,Something in the Orange,Zach Bryan,['oklahoma country'],84,88,0.369,0.192,4,-12.151,0,0.04,0.555,0.0954,0.148,175.212,Canada
+263,13,golden hour,JVKE,['modern indie pop'],81,89,0.515,0.593,4,-4.801,1,0.0322,0.653,0.25,0.153,94.467,Canada
+264,14,LET GO,Central Cee,['melodic drill'],83,89,0.735,0.449,2,-9.933,0,0.383,0.859,0.213,0.514,146.016,Canada
+265,15,Nobody Gets Me,SZA,"['pop', 'r&b']",94,91,0.358,0.284,7,-8.285,1,0.0285,0.805,0.183,0.276,99.796,Canada
+266,16,Die For You,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,88,0.586,0.525,1,-7.163,0,0.0615,0.111,0.134,0.508,133.629,Canada
+267,17,Escapism.,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,76,0.538,0.742,2,-5.355,1,0.114,0.138,0.0934,0.25,96.107,Canada
+268,18,Bad Habit,Steve Lacy,['afrofuturism'],85,87,0.686,0.494,1,-7.093,1,0.0355,0.613,0.402,0.7,168.946,Canada
+269,19,The Color Violet,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']",82,86,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0863,0.463,105.02,Canada
+270,20,Low,SZA,"['pop', 'r&b']",94,88,0.698,0.546,0,-7.234,0,0.0559,0.425,0.16,0.335,145.044,Canada
+271,21,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'shiver pop']",79,87,0.761,0.525,11,-6.9,1,0.0944,0.44,0.0921,0.531,80.87,Canada
+272,22,Jimmy Cooks (feat. 21 Savage),Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,89,0.529,0.673,0,-4.711,1,0.175,0.000307,0.093,0.366,165.921,Canada
+273,23,Shirt,SZA,"['pop', 'r&b']",94,85,0.848,0.512,3,-7.72,0,0.102,0.228,0.0879,0.572,120.009,Canada
+274,24,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,"['gen z singer-songwriter', 'pop']",80,91,0.551,0.55,10,-5.339,1,0.0286,0.777,0.202,0.342,101.19,Canada
+275,25,I Like You (A Happier Song) (with Doja Cat),Post Malone,"['dfw rap', 'melodic rap', 'rap']",89,88,0.733,0.67,5,-6.009,1,0.0751,0.121,0.121,0.472,100.964,Canada
+276,26,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,Canada
+277,27,10:35,Tiësto,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance', 'tropical house']",84,87,0.696,0.793,8,-5.733,1,0.097,0.0683,0.18,0.698,120.003,Canada
+278,28,Rock and A Hard Place,Bailey Zimmerman,['contemporary country'],74,82,0.582,0.568,1,-7.3,1,0.0275,0.577,0.105,0.394,121.991,Canada
+279,29,Romantic Homicide,d4vd,['bedroom pop'],81,93,0.571,0.544,6,-10.613,1,0.0299,0.453,0.322,0.216,132.052,Canada
+280,30,Under The Influence,Chris Brown,"['dance pop', 'r&b']",89,94,0.733,0.69,9,-5.529,0,0.0427,0.0635,0.105,0.31,116.992,Canada
+281,31,Sweater Weather,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",85,92,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.101,0.398,124.053,Canada
+282,32,Numb,Marshmello,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",83,84,0.912,0.774,0,-4.673,0,0.0455,0.121,0.101,0.632,119.966,Canada
+283,33,Miss You,Oliver Tree,['alternative hip hop'],83,93,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.146,0.199,145.007,Canada
+284,34,Bones,Imagine Dragons,"['modern rock', 'rock']",89,85,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.074,0.587,114.061,Canada
+285,35,Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],Metro Boomin,['rap'],92,86,0.671,0.658,2,-5.567,1,0.309,0.189,0.147,0.257,87.933,Canada
+286,36,The Kind of Love We Make,Luke Combs,"['contemporary country', 'country']",82,78,0.608,0.745,1,-4.13,1,0.0277,0.0226,0.0942,0.464,102.025,Canada
+287,37,You Proof,Morgan Wallen,['contemporary country'],86,85,0.731,0.85,9,-4.913,1,0.0336,0.252,0.605,0.644,119.706,Canada
+288,38,Here With Me,d4vd,['bedroom pop'],81,92,0.574,0.469,4,-8.209,1,0.0254,0.534,0.128,0.288,132.023,Canada
+289,39,Too Many Nights (feat. Don Toliver & with Future),Metro Boomin,['rap'],92,85,0.684,0.671,7,-4.392,0,0.0464,0.189,0.122,0.156,88.048,Canada
+290,40,Blind,SZA,"['pop', 'r&b']",94,88,0.461,0.279,9,-11.776,0,0.0373,0.911,0.205,0.599,114.225,Canada
+291,41,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,Canada
+292,42,About Damn Time,Lizzo,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",79,79,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.335,0.723,108.965,Canada
+293,43,Flowers Need Rain,Preston Pablo,[],58,71,0.655,0.539,1,-7.596,0,0.08,0.029,0.17,0.221,119.914,Canada
+294,44,STAY (with Justin Bieber),The Kid LAROI,"['australian hip hop', 'pop']",82,86,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.103,0.478,169.928,Canada
+295,45,Sunroof,Nicky Youre,['pop'],73,88,0.768,0.714,10,-5.11,1,0.0401,0.352,0.15,0.842,131.443,Canada
+296,46,No Role Modelz,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",86,88,0.69,0.521,10,-8.492,0,0.339,0.324,0.0534,0.494,100.028,Canada
+297,47,Wasted On You,Morgan Wallen,['contemporary country'],86,83,0.505,0.657,11,-5.24,0,0.0318,0.373,0.126,0.252,196.0,Canada
+298,48,Lavender Haze,Taylor Swift,['pop'],99,88,0.733,0.436,10,-10.489,1,0.08,0.258,0.157,0.0976,96.985,Canada
+299,49,Sure Thing,Miguel,"['dance pop', 'pop', 'r&b', 'urban contemporary']",80,87,0.684,0.607,11,-8.127,0,0.1,0.0267,0.191,0.498,81.001,Canada
+300,0,La Jumpa,Arcángel,"['latin hip hop', 'reggaeton', 'urbano latino']",87,85,0.887,0.234,9,-14.52,1,0.178,0.111,0.13,0.197,140.02,Mexico
+301,1,La Bachata,Manuel Turizo,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",85,97,0.835,0.679,7,-5.329,0,0.0364,0.583,0.218,0.85,124.98,Mexico
+302,2,Me Porto Bonito,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,95,0.911,0.712,1,-5.105,0,0.0817,0.0901,0.0933,0.425,92.005,Mexico
+303,3,Qué Agonía,Yuridia,"['latin arena pop', 'latin pop', 'mexican pop']",78,79,0.732,0.573,11,-5.733,1,0.0237,0.56,0.0543,0.882,97.502,Mexico
+304,4,Que Vuelvas,Carin Leon,"['corrido', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",83,81,0.491,0.643,10,-4.309,1,0.0442,0.187,0.109,0.779,162.469,Mexico
+305,5,Efecto,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.801,0.475,7,-8.797,0,0.0516,0.141,0.0639,0.234,98.047,Mexico
+306,6,No Se Va - En Vivo,Grupo Frontera,['nueva musica mexicana'],78,78,0.594,0.527,0,-9.335,1,0.0335,0.121,0.234,0.692,172.712,Mexico
+307,7,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",86,96,0.621,0.782,2,-5.548,1,0.044,0.0125,0.23,0.55,128.033,Mexico
+308,8,Bebe Dame,Fuerza Regida,"['corrido', 'corridos tumbados', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",81,75,0.537,0.602,7,-4.631,1,0.0458,0.296,0.0715,0.753,157.437,Mexico
+309,9,Gato de Noche,Ñengo Flow,"['latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",82,85,0.892,0.662,8,-3.894,1,0.162,0.169,0.363,0.607,93.976,Mexico
+310,10,Gatita,Bellakath,"['urbano latino', 'urbano mexicano']",72,79,0.895,0.847,7,-5.25,1,0.0519,0.16,0.338,0.735,101.006,Mexico
+311,11,Ojitos Lindos,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.647,0.686,3,-5.745,0,0.0413,0.08,0.528,0.268,79.928,Mexico
+312,12,Neverita,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,91,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.143,0.428,122.016,Mexico
+313,13,Tití Me Preguntó,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,94,0.65,0.715,5,-5.198,0,0.253,0.0993,0.126,0.187,106.672,Mexico
+314,14,AMG,Natanael Cano,"['corrido', 'corridos tumbados', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",80,82,0.772,0.73,11,-6.657,0,0.0972,0.152,0.274,0.786,136.175,Mexico
+315,15,El Rescate,Grupo Marca Registrada,"['corrido', 'norteno', 'nueva musica mexicana', 'sad sierreno']",80,86,0.794,0.594,7,-8.698,0,0.139,0.283,0.109,0.637,99.238,Mexico
+316,16,Siempre Pendientes,Peso Pluma,"['nueva musica mexicana', 'sad sierreno']",79,86,0.774,0.748,0,-7.086,1,0.0352,0.331,0.126,0.714,135.929,Mexico
+317,17,JGL,La Adictiva,"['banda', 'musica mexicana', 'nueva musica mexicana', 'ranchera']",75,85,0.702,0.586,8,-5.317,1,0.118,0.55,0.27,0.965,112.852,Mexico
+318,18,Hey Mor,Ozuna,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",90,91,0.901,0.589,1,-6.713,0,0.289,0.00302,0.0992,0.399,98.002,Mexico
+319,19,El Gavilán,Luis R Conriquez,"['corrido', 'nueva musica mexicana', 'sad sierreno']",84,83,0.724,0.684,11,-4.413,1,0.0705,0.144,0.302,0.729,144.117,Mexico
+320,20,Billete Grande (En Vivo),Fuerza Regida,"['corrido', 'corridos tumbados', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",81,85,0.751,0.601,5,-5.912,0,0.0828,0.533,0.377,0.56,100.994,Mexico
+321,21,LOKERA,Rauw Alejandro,"['puerto rican pop', 'trap latino', 'urbano latino']",91,85,0.836,0.826,11,-2.66,0,0.0461,0.213,0.0814,0.579,102.025,Mexico
+322,22,Ch y la Pizza,Fuerza Regida,"['corrido', 'corridos tumbados', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",81,81,0.661,0.6,8,-4.495,1,0.125,0.401,0.141,0.848,148.666,Mexico
+323,23,Los Collares,Oscar Maydon,"['corrido', 'corridos tumbados', 'musica mexicana', 'nueva musica mexicana']",69,81,0.645,0.712,1,-5.787,1,0.188,0.208,0.3,0.805,136.724,Mexico
+324,24,Calidad,Grupo Firme,"['musica mexicana', 'norteno', 'nueva musica mexicana', 'sierreno']",82,84,0.731,0.491,0,-3.116,1,0.029,0.609,0.262,0.781,132.891,Mexico
+325,25,Moscow Mule,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,91,0.804,0.674,5,-5.453,0,0.0333,0.294,0.115,0.292,99.968,Mexico
+326,26,Feliz Cumpleaños Ferxxo,Feid,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",91,87,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.305,0.563,94.999,Mexico
+327,27,El Hijo Mayor,Junior H,"['corridos tumbados', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",85,82,0.571,0.567,8,-6.873,1,0.0994,0.431,0.129,0.967,165.332,Mexico
+328,28,No Es Por Acá,Carin Leon,"['corrido', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",83,83,0.746,0.37,2,-6.309,1,0.0306,0.456,0.106,0.595,97.568,Mexico
+329,29,Si Fuera Fácil,Grupo Marca Registrada,"['corrido', 'norteno', 'nueva musica mexicana', 'sad sierreno']",80,84,0.794,0.677,10,-9.969,1,0.0713,0.446,0.076,0.611,101.467,Mexico
+330,30,Los Botones Azules,Junior H,"['corridos tumbados', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",85,84,0.784,0.737,5,-2.174,1,0.0758,0.0877,0.1,0.623,97.5,Mexico
+331,31,PROVENZA,KAROL G,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",87,90,0.87,0.516,1,-8.006,1,0.0541,0.656,0.11,0.53,111.005,Mexico
+332,32,Chale,Eden Muñoz,['nueva musica mexicana'],77,84,0.551,0.436,8,-8.029,1,0.0428,0.395,0.0719,0.862,188.651,Mexico
+333,33,DESPECHÁ,ROSALÍA,['r&b en espanol'],86,86,0.914,0.622,7,-6.538,1,0.0892,0.146,0.0632,0.77,130.04,Mexico
+334,34,Puro Campeón,Grupo Marca Registrada,"['corrido', 'norteno', 'nueva musica mexicana', 'sad sierreno']",80,83,0.851,0.542,10,-8.152,1,0.122,0.361,0.132,0.789,101.896,Mexico
+335,35,Por las Noches,Peso Pluma,"['nueva musica mexicana', 'sad sierreno']",79,79,0.807,0.595,0,-7.19,1,0.0325,0.31,0.0735,0.392,92.491,Mexico
+336,36,Monotonía,Shakira,"['colombian pop', 'dance pop', 'latin pop']",87,91,0.873,0.695,0,-4.207,0,0.0459,0.419,0.211,0.823,131.963,Mexico
+337,37,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Mexico
+338,38,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,Mexico
+339,39,Solita (En Vivo),Lenin Ramírez,"['corrido', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",74,80,0.677,0.657,1,-4.657,0,0.0596,0.498,0.0562,0.812,116.225,Mexico
+340,40,Vamos Para Arriba,Junior H,"['corridos tumbados', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",85,81,0.699,0.51,5,-7.153,0,0.0352,0.498,0.22,0.625,98.07,Mexico
+341,41,Como Quieras Quiero,Eden Muñoz,['nueva musica mexicana'],77,80,0.555,0.707,10,-7.665,1,0.12,0.644,0.101,0.963,185.914,Mexico
+342,42,LA CANCIÓN,J Balvin,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",88,88,0.754,0.646,7,-5.795,1,0.317,0.152,0.108,0.429,176.089,Mexico
+343,43,Yonaguni,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,87,0.644,0.648,1,-4.601,1,0.118,0.276,0.135,0.44,179.951,Mexico
+344,44,CAIRO,KAROL G,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",87,88,0.951,0.692,5,-4.038,0,0.312,0.472,0.0894,0.431,115.047,Mexico
+345,45,El Chamaquito,Virlan Garcia,"['corrido', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']",69,73,0.905,0.421,0,-9.433,1,0.0387,0.744,0.0763,0.955,103.992,Mexico
+346,46,Un Coco,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,86,0.839,0.69,11,-4.464,1,0.0615,0.207,0.176,0.744,151.991,Mexico
+347,47,Ya No Somos Ni Seremos,Christian Nodal,"['mariachi', 'musica mexicana', 'nueva musica mexicana', 'ranchera']",82,83,0.588,0.452,7,-4.75,1,0.0268,0.437,0.344,0.734,139.953,Mexico
+348,48,Party,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,88,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.242,0.471,97.013,Mexico
+349,49,Que Te Vaya Bien,Julión Álvarez y su Norteño Banda,"['banda', 'musica mexicana', 'norteno', 'sad sierreno']",80,71,0.667,0.467,7,-5.906,1,0.0276,0.237,0.271,0.406,97.99,Mexico
+350,0,Evoque Prata,MC MENOR HR,['funk rj'],72,89,0.872,0.519,7,-4.467,1,0.244,0.306,0.276,0.52,86.768,Brazil
+351,1,Bombonzinho - Ao Vivo,Israel & Rodolffo,"['arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",77,88,0.651,0.947,1,-3.669,1,0.0539,0.305,0.92,0.722,158.046,Brazil
+352,2,Eu Gosto Assim - Ao Vivo,Gustavo Mioto,"['arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",74,88,0.636,0.909,0,-3.685,1,0.0439,0.149,0.719,0.61,154.189,Brazil
+353,3,Haja Colírio (feat. Hugo & Guilherme) - Ao Vivo,Guilherme & Benuto,['arrocha'],79,86,0.714,0.748,11,-4.605,1,0.0679,0.59,0.626,0.698,105.031,Brazil
+354,4,Leão,Marília Mendonça,"['arrocha', 'sertanejo']",84,77,0.743,0.865,6,-3.897,1,0.0315,0.449,0.297,0.794,129.999,Brazil
+355,5,Roça Em Mim,Zé Felipe,"['arrocha', 'arrochadeira']",74,84,0.846,0.81,9,-3.332,0,0.0867,0.222,0.139,0.762,135.074,Brazil
+356,6,Agudo Mágico 3,MC K.K,"['funk mandelao', 'funk mtg']",63,78,0.649,0.797,6,-2.405,0,0.0504,0.221,0.0728,0.49,129.966,Brazil
+357,7,Pactos - Ao Vivo,Matheus & Kauan,"['arrocha', 'pop nacional', 'sertanejo pop', 'sertanejo universitario']",80,85,0.565,0.889,1,-2.976,1,0.0498,0.582,0.427,0.473,121.778,Brazil
+358,8,Assunto Delicado - Ao Vivo,Guilherme & Benuto,['arrocha'],79,85,0.569,0.941,4,-4.135,0,0.312,0.401,0.891,0.608,73.776,Brazil
+359,9,Sereia,Orochi,"['brazilian hip hop', 'funk carioca']",76,84,0.651,0.661,9,-5.08,1,0.147,0.276,0.105,0.505,114.528,Brazil
+360,10,Felina,WIU,['trap brasileiro'],77,85,0.585,0.662,5,-4.235,0,0.351,0.385,0.0966,0.533,169.239,Brazil
+361,11,Casei Com a Putaria,Mc Paiva ZS,"['funk carioca', 'funk rj']",79,85,0.585,0.6,10,-7.008,0,0.436,0.117,0.0504,0.617,160.635,Brazil
+362,12,Média Boa - Ao Vivo,Felipe e Rodrigo,['sertanejo pop'],66,83,0.676,0.824,9,-3.675,1,0.0657,0.382,0.529,0.73,118.071,Brazil
+363,13,Beijo de Glicose - Ao Vivo,Diego & Victor Hugo,"['arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",75,84,0.556,0.87,9,-3.738,0,0.101,0.409,0.896,0.59,100.002,Brazil
+364,14,Novinha do Onlyfans (Tchan Ran Tchan Tchan),Kadu Martins,[],68,82,0.767,0.684,11,-3.221,0,0.0431,0.508,0.0417,0.965,95.001,Brazil
+365,15,5 Regras - Ao Vivo,Jorge & Mateus,"['arrocha', 'sertanejo', 'sertanejo universitario']",84,84,0.761,0.574,11,-8.196,1,0.0675,0.78,0.459,0.605,124.185,Brazil
+366,16,É Só Um Lance Lero Lero,DJ Dozabri,"['funk mandelao', 'funk mtg']",67,82,0.905,0.713,7,-3.183,1,0.271,0.588,0.0981,0.756,130.193,Brazil
+367,17,Perdoou Nada - Ao Vivo,Israel & Rodolffo,"['arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",77,79,0.629,0.864,3,-4.179,1,0.059,0.105,0.431,0.678,153.937,Brazil
+368,18,Esse B.O é Meu - Ao Vivo,Guilherme & Benuto,['arrocha'],79,82,0.502,0.845,0,-4.349,0,0.138,0.411,0.784,0.649,139.728,Brazil
+369,19,Tubarão Te Amo,Dj LK da Escócia,"['funk carioca', 'funk rj']",70,86,0.889,0.742,4,-3.495,0,0.358,0.299,0.066,0.479,130.089,Brazil
+370,20,A Culpa É Nossa - Ao Vivo,Maiara & Maraisa,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",79,76,0.596,0.85,11,-4.528,1,0.0523,0.608,0.41,0.531,138.057,Brazil
+371,21,Mal Feito - Ao Vivo,Hugo & Guilherme,"['arrocha', 'sertanejo pop']",80,75,0.732,0.831,0,-3.791,0,0.0691,0.554,0.903,0.684,123.942,Brazil
+372,22,Ex dos Meus Sonhos - Ao Vivo,Gusttavo Lima,"['arrocha', 'sertanejo', 'sertanejo universitario']",82,83,0.75,0.748,9,-4.424,1,0.0331,0.554,0.921,0.607,105.989,Brazil
+373,23,Coração de Gelo,WIU,['trap brasileiro'],77,79,0.732,0.671,10,-4.276,0,0.082,0.124,0.128,0.836,159.907,Brazil
+374,24,MAMA.CITA (hasta la vista),Luísa Sonza,"['funk carioca', 'pop nacional']",76,73,0.778,0.706,6,-3.864,1,0.133,0.0607,0.0969,0.71,129.027,Brazil
+375,25,Namora Aí,MC Ryan SP,"['funk carioca', 'funk paulista']",84,77,0.556,0.659,11,-0.845,0,0.0942,0.148,0.294,0.754,86.634,Brazil
+376,26,Comunicação Falhou - Ao Vivo,Mari Fernandez,"['arrocha', 'arrochadeira']",80,81,0.612,0.882,5,-2.66,0,0.0501,0.416,0.676,0.793,145.974,Brazil
+377,27,Todo Seu - Ao Vivo,Jorge & Mateus,"['arrocha', 'sertanejo', 'sertanejo universitario']",84,74,0.631,0.819,7,-5.018,1,0.131,0.293,0.586,0.665,152.018,Brazil
+378,28,Pipoco,Ana Castela,"['funk rj', 'sertanejo pop']",80,82,0.774,0.742,8,-4.178,1,0.0766,0.473,0.342,0.736,134.991,Brazil
+379,29,Perfeito Pra Ficar Sozinho - Ao Vivo,Murilo Huff,"['arrocha', 'sertanejo pop']",75,81,0.586,0.734,5,-5.048,1,0.0474,0.708,0.492,0.572,90.551,Brazil
+380,30,Basiquinho - Ao Vivo,Matheus & Kauan,"['arrocha', 'pop nacional', 'sertanejo pop', 'sertanejo universitario']",80,81,0.504,0.827,1,-2.948,1,0.115,0.353,0.101,0.737,75.96,Brazil
+381,31,Ai Preto,L7NNON,"['funk rj', 'pop rap brasileiro']",78,82,0.953,0.57,6,-5.149,1,0.245,0.537,0.0993,0.834,129.947,Brazil
+382,32,Te Amo Demais,Marília Mendonça,"['arrocha', 'sertanejo']",84,81,0.713,0.625,0,-3.473,1,0.0268,0.573,0.11,0.687,114.023,Brazil
+383,33,Nem Namorado e Nem Ficante - Ao Vivo | Faixa Bônus,Israel & Rodolffo,"['arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",77,79,0.627,0.949,9,-4.16,0,0.0531,0.0568,0.645,0.682,146.079,Brazil
+384,34,Poesia Acústica 13,Pineapple StormTv,"['rap baiano', 'trap baiano', 'trap brasileiro']",74,81,0.572,0.579,10,-7.242,0,0.128,0.469,0.136,0.5,127.982,Brazil
+385,35,Gatilho - Ao Vivo,Matheus & Kauan,"['arrocha', 'pop nacional', 'sertanejo pop', 'sertanejo universitario']",80,80,0.48,0.93,2,-4.441,1,0.143,0.0302,0.689,0.641,160.063,Brazil
+386,36,Cara da Derrota - Ao Vivo,Gusttavo Lima,"['arrocha', 'sertanejo', 'sertanejo universitario']",82,77,0.778,0.804,7,-4.386,1,0.0412,0.462,0.834,0.605,122.074,Brazil
+387,37,Balanço da Rede,Matheus Fernandes,"['arrocha', 'forro', 'funk carioca', 'sertanejo pop']",69,80,0.764,0.796,6,-4.611,0,0.033,0.193,0.0853,0.924,140.072,Brazil
+388,38,Gostosinha é Ela,Felipe Amorim,"['arrocha', 'arrochadeira']",75,80,0.942,0.85,11,-1.821,0,0.0909,0.345,0.382,0.963,119.989,Brazil
+389,39,X1,MC Cabelinho,"['funk carioca', 'funk consciente', 'trap funk']",79,79,0.579,0.804,8,-5.024,1,0.0581,0.457,0.136,0.546,183.075,Brazil
+390,40,Toma Tapa,Mc Jacaré,"['arrochadeira', 'funk 150 bpm', 'funk carioca', 'funk mtg', 'funk rj', 'trap funk']",70,75,0.921,0.55,3,-4.736,0,0.369,0.196,0.0947,0.848,129.847,Brazil
+391,41,Imprevisto,Yago Oproprio,['brazilian hip hop'],66,79,0.697,0.588,3,-9.037,0,0.152,0.365,0.109,0.511,151.937,Brazil
+392,42,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Brazil
+393,43,Te Love - Ao Vivo,Kevi Jonny,"['arrocha', 'forro', 'sertanejo pop']",66,64,0.774,0.917,1,-3.007,1,0.049,0.259,0.355,0.891,130.003,Brazil
+394,44,Fala Mal de Mim - Ao Vivo,Gusttavo Lima,"['arrocha', 'sertanejo', 'sertanejo universitario']",82,79,0.672,0.957,7,-4.272,1,0.0485,0.197,0.386,0.895,160.005,Brazil
+395,45,Baile no Morro,MC Tairon,"['funk carioca', 'funk mtg']",68,80,0.714,0.404,3,-7.903,0,0.453,0.457,0.0701,0.782,130.088,Brazil
+396,46,No Ouvidinho,Felipe Amorim,"['arrocha', 'arrochadeira']",75,79,0.885,0.834,3,-3.374,1,0.0394,0.403,0.0865,0.84,124.018,Brazil
+397,47,NÉ SEGREDO,MC Cabelinho,"['funk carioca', 'funk consciente', 'trap funk']",79,79,0.654,0.71,3,-5.68,0,0.111,0.619,0.218,0.508,103.548,Brazil
+398,48,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,Brazil
+399,49,DONA DE MIM,Ana Castela,"['funk rj', 'sertanejo pop']",80,68,0.68,0.793,1,-4.726,1,0.234,0.437,0.11,0.728,167.922,Brazil
+400,0,La Bachata,Manuel Turizo,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",85,97,0.835,0.679,7,-5.329,0,0.0364,0.583,0.218,0.85,124.98,Argentina
+401,1,Marisola - Remix,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,81,0.765,0.872,1,-5.863,1,0.0498,0.173,0.0749,0.722,94.999,Argentina
+402,2,Dos Besitos,La Joaqui,"['argentine hip hop', 'rap latina']",74,80,0.864,0.667,5,-4.617,0,0.0833,0.245,0.0998,0.782,96.889,Argentina
+403,3,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",86,96,0.621,0.782,2,-5.548,1,0.044,0.0125,0.23,0.55,128.033,Argentina
+404,4,Punto G,Quevedo,"['rap canario', 'urbano latino']",87,89,0.751,0.761,11,-4.113,0,0.15,0.251,0.0991,0.553,92.032,Argentina
+405,5,Tu Turrito,Rei,['trap argentino'],73,82,0.838,0.545,9,-6.1,0,0.0604,0.0966,0.0927,0.428,90.023,Argentina
+406,6,CÓMO CHILLA ELLA,YSY A,"['argentine hip hop', 'trap argentino']",79,82,0.933,0.699,2,-8.0,0,0.177,0.197,0.0617,0.798,128.036,Argentina
+407,7,ARRANCARMELO,WOS,"['argentine indie', 'trap argentino']",74,81,0.654,0.354,5,-7.358,1,0.0738,0.724,0.134,0.262,81.956,Argentina
+408,8,Ya No Vuelvas (Versión Cuarteto),Luck Ra,"['trap argentino', 'trap triste']",64,74,0.736,0.9,1,-4.575,1,0.0825,0.224,0.375,0.562,149.947,Argentina
+409,9,Hey Mor,Ozuna,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",90,91,0.901,0.589,1,-6.713,0,0.289,0.00302,0.0992,0.399,98.002,Argentina
+410,10,Butakera,La Joaqui,"['argentine hip hop', 'rap latina']",74,81,0.871,0.563,1,-6.422,1,0.0618,0.56,0.0665,0.457,88.96,Argentina
+411,11,DESPECHÁ,ROSALÍA,['r&b en espanol'],86,86,0.914,0.622,7,-6.538,1,0.0892,0.146,0.0632,0.77,130.04,Argentina
+412,12,CALLEJERO FINO | DJ TAO Turreo Sessions #723,DJ Tao,"['cumbia 420', 'previa']",67,78,0.774,0.877,10,-4.054,1,0.0623,0.0304,0.429,0.648,92.997,Argentina
+413,13,Pa’ la Selección,La T y La M,['previa'],65,69,0.605,0.572,11,-6.06,0,0.0435,0.144,0.721,0.834,84.827,Argentina
+414,14,Vista Al Mar,Quevedo,"['rap canario', 'urbano latino']",87,89,0.759,0.561,0,-5.643,0,0.131,0.803,0.101,0.491,104.915,Argentina
+415,15,TU AMOR | E7,DJ Alex,"['cumbia 420', 'previa']",66,78,0.668,0.543,6,-10.298,0,0.0435,0.265,0.347,0.671,136.459,Argentina
+416,16,Besos Moja2,Wisin & Yandel,"['electro latino', 'latin hip hop', 'reggaeton', 'urbano latino']",83,82,0.736,0.727,5,-4.642,0,0.0571,0.0584,0.0976,0.644,94.048,Argentina
+417,17,Perfecta,Rusherking,"['trap argentino', 'trap triste']",72,78,0.649,0.487,5,-7.872,1,0.232,0.08,0.232,0.681,179.946,Argentina
+418,18,FERNET,Rei,['trap argentino'],73,79,0.71,0.738,6,-4.077,0,0.0861,0.156,0.0661,0.608,98.958,Argentina
+419,19,La Triple T,TINI,"['latin pop', 'pop argentino']",79,82,0.801,0.633,11,-2.785,0,0.0777,0.414,0.27,0.676,92.025,Argentina
+420,20,Me Porto Bonito,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,95,0.911,0.712,1,-5.105,0,0.0817,0.0901,0.0933,0.425,92.005,Argentina
+421,21,Ojitos Lindos,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.647,0.686,3,-5.745,0,0.0413,0.08,0.528,0.268,79.928,Argentina
+422,22,cómo dormiste?,Rels B,"['r&b en espanol', 'spanish hip hop', 'trap latino', 'urbano espanol', 'urbano latino']",82,86,0.627,0.429,1,-8.255,1,0.234,0.238,0.122,0.565,126.426,Argentina
+423,23,Monotonía,Shakira,"['colombian pop', 'dance pop', 'latin pop']",87,91,0.873,0.695,0,-4.207,0,0.0459,0.419,0.211,0.823,131.963,Argentina
+424,24,Ya No Quiero Verte,El Polaco,"['cumbia pop', 'cumbia villera']",63,75,0.619,0.731,7,-5.711,0,0.257,0.136,0.0444,0.604,139.875,Argentina
+425,25,AUTOMÁTICO,Maria Becerra,['pop argentino'],83,70,0.68,0.808,10,-3.854,0,0.224,0.0911,0.205,0.868,176.131,Argentina
+426,26,LA NENA DE ARGENTINA,Maria Becerra,['pop argentino'],83,79,0.531,0.58,5,-4.688,0,0.188,0.0984,0.101,0.887,169.865,Argentina
+427,27,A POR TODO,YSY A,"['argentine hip hop', 'trap argentino']",79,77,0.796,0.567,11,-8.32,0,0.199,0.0732,0.239,0.226,82.02,Argentina
+428,28,La Jumpa,Arcángel,"['latin hip hop', 'reggaeton', 'urbano latino']",87,85,0.887,0.234,9,-14.52,1,0.178,0.111,0.13,0.197,140.02,Argentina
+429,29,CALLEJERO FINO | Mission 10,Alan Gomez,['cumbia 420'],72,77,0.88,0.531,6,-7.738,1,0.147,0.584,0.114,0.522,92.957,Argentina
+430,30,"Duki: Bzrp Music Sessions, Vol. 50",Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",86,86,0.535,0.874,9,-2.248,0,0.137,0.371,0.192,0.323,140.006,Argentina
+431,31,GIVENCHY,Duki,"['argentine hip hop', 'trap argentino', 'trap latino', 'trap triste', 'urbano latino']",85,77,0.607,0.619,8,-6.726,1,0.396,0.142,0.231,0.377,102.974,Argentina
+432,32,Universo Paralelo,La K'onga,['cuarteto'],74,72,0.619,0.739,4,-5.743,1,0.167,0.464,0.285,0.672,149.975,Argentina
+433,33,"Muchachos, Ahora Nos Volvimos a Ilusionar",La Mosca Tse-Tse,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol', 'ska argentino']",67,76,0.699,0.871,7,-4.776,0,0.0621,0.283,0.0867,0.927,109.975,Argentina
+434,34,Te Mentiría,La K'onga,['cuarteto'],74,70,0.651,0.731,7,-6.889,1,0.0549,0.116,0.0708,0.653,153.104,Argentina
+435,35,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,[],72,73,0.419,0.711,11,-4.083,0,0.0488,0.0513,0.243,0.529,82.18,Argentina
+436,36,Tití Me Preguntó,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,94,0.65,0.715,5,-5.198,0,0.253,0.0993,0.126,0.187,106.672,Argentina
+437,37,Efecto,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.801,0.475,7,-8.797,0,0.0516,0.141,0.0639,0.234,98.047,Argentina
+438,38,Caile,Luar La L,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",73,86,0.704,0.756,0,-4.948,1,0.448,0.298,0.0852,0.461,121.737,Argentina
+439,39,CUÁNTO VALE HACER EL AMOR?,YSY A,"['argentine hip hop', 'trap argentino']",79,74,0.854,0.697,6,-8.538,0,0.207,0.387,0.101,0.499,104.982,Argentina
+440,40,Miénteme,TINI,"['latin pop', 'pop argentino']",79,81,0.85,0.541,2,-4.522,1,0.0674,0.161,0.286,0.916,92.003,Argentina
+441,41,Gato de Noche,Ñengo Flow,"['latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",82,85,0.892,0.662,8,-3.894,1,0.162,0.169,0.363,0.607,93.976,Argentina
+442,42,Rompe,El negro tecla,['rkt'],58,71,0.858,0.513,2,-7.819,1,0.109,0.0358,0.116,0.42,85.993,Argentina
+443,43,Éxtasis,Manuel Turizo,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",85,81,0.829,0.747,7,-3.511,1,0.149,0.276,0.339,0.576,98.03,Argentina
+444,44,Te Felicito,Shakira,"['colombian pop', 'dance pop', 'latin pop']",87,87,0.695,0.636,5,-4.654,1,0.317,0.234,0.081,0.575,174.14,Argentina
+445,45,Pechito Partido,Rei,['trap argentino'],73,73,0.829,0.633,0,-6.295,1,0.0723,0.169,0.207,0.598,89.961,Argentina
+446,46,PUNTO 40,Rauw Alejandro,"['puerto rican pop', 'trap latino', 'urbano latino']",91,80,0.857,0.829,0,-0.484,1,0.0842,0.00112,0.255,0.208,106.993,Argentina
+447,47,CUÁNTOS TÉRMINOS?,YSY A,"['argentine hip hop', 'trap argentino']",79,74,0.738,0.744,11,-5.605,0,0.103,0.0478,0.251,0.569,124.492,Argentina
+448,48,Mañosa,La Joaqui,"['argentine hip hop', 'rap latina']",74,69,0.902,0.62,5,-4.012,0,0.068,0.0797,0.0422,0.756,124.018,Argentina
+449,49,Hood - Remix,Trueno,"['argentine hip hop', 'bases de freestyle', 'trap argentino']",76,77,0.674,0.456,3,-6.253,1,0.0399,0.785,0.126,0.933,89.967,Argentina
+450,0,Llamame Bebe,Pailita,"['drill chileno', 'urbano chileno', 'urbano latino']",78,72,0.808,0.688,5,-6.78,1,0.106,0.232,0.149,0.351,105.034,Chile
+451,1,Hey Mor,Ozuna,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",90,91,0.901,0.589,1,-6.713,0,0.289,0.00302,0.0992,0.399,98.002,Chile
+452,2,La Bachata,Manuel Turizo,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",85,97,0.835,0.679,7,-5.329,0,0.0364,0.583,0.218,0.85,124.98,Chile
+453,3,Marisola - Remix,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,81,0.765,0.872,1,-5.863,1,0.0498,0.173,0.0749,0.722,94.999,Chile
+454,4,La Jumpa,Arcángel,"['latin hip hop', 'reggaeton', 'urbano latino']",87,85,0.887,0.234,9,-14.52,1,0.178,0.111,0.13,0.197,140.02,Chile
+455,5,Gato de Noche,Ñengo Flow,"['latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",82,85,0.892,0.662,8,-3.894,1,0.162,0.169,0.363,0.607,93.976,Chile
+456,6,Parcera,Pailita,"['drill chileno', 'urbano chileno', 'urbano latino']",78,76,0.731,0.848,1,-5.014,0,0.0547,0.026,0.0779,0.659,96.996,Chile
+457,7,Feliz Cumpleaños Ferxxo,Feid,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",91,87,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.305,0.563,94.999,Chile
+458,8,LOKOTRON REMIX,Harry Nach,"['trap chileno', 'urbano chileno', 'urbano latino']",67,69,0.844,0.53,10,-9.177,0,0.146,0.276,0.123,0.746,92.008,Chile
+459,9,Na Na Na - Remix,Pailita,"['drill chileno', 'urbano chileno', 'urbano latino']",78,77,0.831,0.83,3,-4.329,0,0.0865,0.0802,0.0442,0.938,98.003,Chile
+460,10,Mandame Tu Ubi,Jere Klein,['reggaeton chileno'],65,73,0.791,0.644,10,-6.603,0,0.0651,0.101,0.109,0.953,100.935,Chile
+461,11,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",86,96,0.621,0.782,2,-5.548,1,0.044,0.0125,0.23,0.55,128.033,Chile
+462,12,Me Porto Bonito,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,95,0.911,0.712,1,-5.105,0,0.0817,0.0901,0.0933,0.425,92.005,Chile
+463,13,Efecto,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.801,0.475,7,-8.797,0,0.0516,0.141,0.0639,0.234,98.047,Chile
+464,14,Vista Al Mar,Quevedo,"['rap canario', 'urbano latino']",87,89,0.759,0.561,0,-5.643,0,0.131,0.803,0.101,0.491,104.915,Chile
+465,15,Marisola,Stars Music Chile,[],70,82,0.806,0.85,1,-4.84,1,0.0967,0.155,0.201,0.728,95.014,Chile
+466,16,LOKERA,Rauw Alejandro,"['puerto rican pop', 'trap latino', 'urbano latino']",91,85,0.836,0.826,11,-2.66,0,0.0461,0.213,0.0814,0.579,102.025,Chile
+467,17,TU DIABLO,ITHAN NY,"['drill chileno', 'reggaeton flow', 'urbano chileno', 'urbano latino']",66,78,0.793,0.676,4,-9.003,0,0.0633,0.0335,0.304,0.461,99.009,Chile
+468,18,Ese Corte,Balbi El Chamako,"['mambo chileno', 'reggaeton chileno', 'reggaeton flow', 'urbano chileno']",63,70,0.685,0.829,11,-5.597,0,0.0456,0.00897,0.0512,0.509,95.115,Chile
+469,19,GANAS,Julianno Sosa,"['urbano chileno', 'urbano latino']",69,74,0.728,0.643,0,-8.016,1,0.0436,0.124,0.119,0.334,99.987,Chile
+470,20,Como Tu Ninguna - Remix,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,74,0.842,0.536,2,-6.669,1,0.0788,0.113,0.255,0.807,109.992,Chile
+471,21,DEBI LLEVARTE FLORES,Young Cister,"['trap chileno', 'urbano chileno', 'urbano latino']",72,69,0.86,0.654,1,-4.639,1,0.0472,0.12,0.464,0.183,110.031,Chile
+472,22,Ojitos Lindos,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.647,0.686,3,-5.745,0,0.0413,0.08,0.528,0.268,79.928,Chile
+473,23,Punto G,Quevedo,"['rap canario', 'urbano latino']",87,89,0.751,0.761,11,-4.113,0,0.15,0.251,0.0991,0.553,92.032,Chile
+474,24,BABY OTAKU,Pablito Pesadilla,[],68,84,0.835,0.747,9,-4.65,1,0.083,0.0492,0.055,0.432,102.003,Chile
+475,25,Mini Mini,Punto40,['reggaeton chileno'],67,83,0.862,0.739,6,-4.612,1,0.387,0.703,0.141,0.885,98.073,Chile
+476,26,LACONE,Polimá Westcoast,"['trap chileno', 'trap triste', 'urbano chileno', 'urbano latino']",78,82,0.798,0.718,8,-6.237,0,0.0443,0.263,0.142,0.727,126.01,Chile
+477,27,"ADICTO (feat. Best, Bayriton)",Jairo Vera,"['mambo chileno', 'urbano chileno', 'urbano latino']",68,72,0.627,0.56,7,-10.006,1,0.0521,0.149,0.0922,0.719,177.899,Chile
+478,28,Besos Moja2,Wisin & Yandel,"['electro latino', 'latin hip hop', 'reggaeton', 'urbano latino']",83,82,0.736,0.727,5,-4.642,0,0.0571,0.0584,0.0976,0.644,94.048,Chile
+479,29,Moscow Mule,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,91,0.804,0.674,5,-5.453,0,0.0333,0.294,0.115,0.292,99.968,Chile
+480,30,Tití Me Preguntó,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,94,0.65,0.715,5,-5.198,0,0.253,0.0993,0.126,0.187,106.672,Chile
+481,31,Fiera,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,66,0.821,0.768,0,-4.376,1,0.0454,0.124,0.0674,0.882,91.997,Chile
+482,32,Neverita,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,91,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.143,0.428,122.016,Chile
+483,33,CAIRO,KAROL G,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",87,88,0.951,0.692,5,-4.038,0,0.312,0.472,0.0894,0.431,115.047,Chile
+484,34,PUNTO 40,Rauw Alejandro,"['puerto rican pop', 'trap latino', 'urbano latino']",91,80,0.857,0.829,0,-0.484,1,0.0842,0.00112,0.255,0.208,106.993,Chile
+485,35,Muñeca,Marcianeke,"['reggaeton chileno', 'urbano chileno']",72,65,0.908,0.717,0,-6.161,1,0.132,0.0934,0.166,0.62,96.173,Chile
+486,36,ULTRA SOLO REMIX,Polimá Westcoast,"['trap chileno', 'trap triste', 'urbano chileno', 'urbano latino']",78,84,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.0638,0.585,109.97,Chile
+487,37,DESPECHÁ,ROSALÍA,['r&b en espanol'],86,86,0.914,0.622,7,-6.538,1,0.0892,0.146,0.0632,0.77,130.04,Chile
+488,38,Normal,Feid,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",91,83,0.709,0.56,4,-4.867,0,0.171,0.034,0.315,0.541,170.082,Chile
+489,39,LA TERAPIA,Young Cister,"['trap chileno', 'urbano chileno', 'urbano latino']",72,73,0.811,0.889,11,-4.5,1,0.0617,0.171,0.134,0.87,94.005,Chile
+490,40,Malibu,Feid,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",91,76,0.767,0.692,10,-6.269,0,0.0653,0.0223,0.0585,0.245,110.021,Chile
+491,41,Me Arrepentí,Ak4:20,"['urbano chileno', 'urbano latino']",70,73,0.861,0.786,0,-4.934,1,0.164,0.289,0.601,0.907,92.031,Chile
+492,42,Síntomas de Soltera,Paloma Mami,"['latin pop', 'reggaeton chileno', 'trap chileno']",71,70,0.72,0.811,1,-6.715,1,0.303,0.0975,0.103,0.757,199.914,Chile
+493,43,Monotonía,Shakira,"['colombian pop', 'dance pop', 'latin pop']",87,91,0.873,0.695,0,-4.207,0,0.0459,0.419,0.211,0.823,131.963,Chile
+494,44,Una Noche en Medellín,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,86,0.87,0.548,10,-5.253,0,0.077,0.0924,0.0534,0.832,96.018,Chile
+495,45,V16,Martinwhite,[],60,76,0.795,0.858,11,-4.302,0,0.0687,0.0151,0.0706,0.798,103.939,Chile
+496,46,Sin Seguro,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,71,0.826,0.793,1,-4.808,1,0.0432,0.00361,0.0836,0.308,97.005,Chile
+497,47,Salimos Del Tarro,Nickoog Clk,"['mambo chileno', 'urbano chileno']",74,70,0.805,0.48,5,-8.971,1,0.0465,0.328,0.0653,0.345,98.039,Chile
+498,48,Caminemos de la Mano,Pailita,"['drill chileno', 'urbano chileno', 'urbano latino']",78,71,0.735,0.752,1,-5.138,1,0.0855,0.318,0.331,0.647,92.915,Chile
+499,49,LA INOCENTE,Mora,"['trap latino', 'urbano latino']",86,87,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0717,0.464,91.911,Chile
+500,0,Alo Aleky,Mohammed Saeed,"['egyptian alternative', 'egyptian pop']",58,67,0.671,0.41,7,-8.192,0,0.183,0.921,0.102,0.51,165.955,Egypt
+501,1,البخت,Wegz,"['egyptian hip hop', 'egyptian trap']",61,66,0.78,0.59,3,-7.77,0,0.132,0.487,0.115,0.66,104.977,Egypt
+502,2,Aleb Fel Dafater,Muslim - مُسلِم,['egyptian alternative'],57,51,0.393,0.5,3,-9.22,0,0.14,0.53,0.171,0.367,81.882,Egypt
+503,3,عره فافي عامل مغامر - بت انتي حب حياتي,Essam Sasa,"['egyptian pop', 'mahraganat']",58,61,0.579,0.9,0,-2.534,0,0.158,0.435,0.365,0.741,186.088,Egypt
+504,4,Amira,Wegz,"['egyptian hip hop', 'egyptian trap']",61,63,0.755,0.594,6,-7.316,0,0.0422,0.12,0.0666,0.629,117.948,Egypt
+505,5,Brazil,Afroto,"['egyptian hip hop', 'egyptian trap']",54,62,0.947,0.732,9,-5.764,1,0.355,0.15,0.134,0.673,120.083,Egypt
+506,6,بأمارة مين,Farid,[],48,64,0.686,0.66,0,-5.947,0,0.0291,0.47,0.206,0.727,135.984,Egypt
+507,7,Etnaset,Muslim - مُسلِم,['egyptian alternative'],57,63,0.444,0.5,1,-7.706,0,0.0666,0.804,0.108,0.271,147.757,Egypt
+508,8,Stop - Magnolia,Husayn,"['egyptian hip hop', 'egyptian trap']",48,59,0.747,0.465,1,-14.081,1,0.355,0.612,0.113,0.616,143.068,Egypt
+509,9,MESAMA3EEN,FL EX,['egyptian trap'],54,53,0.738,0.705,4,-9.055,0,0.213,0.481,0.257,0.668,140.957,Egypt
+510,10,Konty 2olely,Mohammed Saeed,"['egyptian alternative', 'egyptian pop']",58,59,0.671,0.248,5,-14.674,0,0.143,0.936,0.115,0.396,140.033,Egypt
+511,11,El Youm El Helw Dah,Ahmed Saad,"['arab pop', 'egyptian pop', 'shaabi']",58,63,0.816,0.669,5,-5.336,0,0.0576,0.126,0.119,0.668,120.021,Egypt
+512,12,اه يا بخته اللي يزاملني ( روح بقلبك مش بجسمك ),Essam Sasa,"['egyptian pop', 'mahraganat']",58,53,0.689,0.906,9,-1.916,1,0.0886,0.484,0.335,0.667,98.007,Egypt
+513,13,On Fire,3enba,['mahraganat'],52,58,0.793,0.809,4,-2.463,0,0.286,0.189,0.0439,0.701,98.887,Egypt
+514,14,حدوته المانى,Marwan Moussa,"['egyptian hip hop', 'egyptian trap']",59,59,0.717,0.598,0,-10.042,1,0.17,0.413,0.148,0.699,107.0,Egypt
+515,15,جوب,Muslim,[],46,57,0.811,0.868,8,-8.457,1,0.18,0.168,0.135,0.779,99.976,Egypt
+516,16,وسط دموع وجراح,Essam Sasa,"['egyptian pop', 'mahraganat']",58,57,0.805,0.78,11,-3.463,0,0.0764,0.498,0.526,0.813,109.984,Egypt
+517,17,Mesh Nadman,Muslim - مُسلِم,['egyptian alternative'],57,59,0.566,0.332,10,-11.366,1,0.0658,0.769,0.0806,0.322,88.957,Egypt
+518,18,EZZ AL ARAB (Music from the FIFA World Cup Qatar 2022 Official Soundtrack),Wegz,"['egyptian hip hop', 'egyptian trap']",61,57,0.708,0.925,6,-5.211,0,0.135,0.0719,0.124,0.541,128.013,Egypt
+519,19,Basrah w Atooh,Cairokee,"['arab alternative', 'egyptian alternative', 'egyptian hip hop', 'egyptian pop']",58,59,0.74,0.507,3,-8.764,0,0.118,0.373,0.239,0.551,103.993,Egypt
+520,20,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,Egypt
+521,21,Ghasb Anny,Zap Tharwat,"['egyptian alternative', 'egyptian hip hop']",43,58,0.365,0.421,6,-10.082,0,0.0655,0.36,0.0709,0.201,179.516,Egypt
+522,22,LOGAN,FL EX,['egyptian trap'],54,57,0.652,0.558,11,-10.376,0,0.401,0.509,0.362,0.587,139.899,Egypt
+523,23,W El 7al Eh,Mohammed Saeed,"['egyptian alternative', 'egyptian pop']",58,46,0.643,0.269,6,-12.285,0,0.184,0.918,0.0903,0.541,166.081,Egypt
+524,24,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,Egypt
+525,25,Aloomek,Marwan Moussa,"['egyptian hip hop', 'egyptian trap']",59,57,0.84,0.327,6,-11.83,0,0.306,0.651,0.105,0.367,137.96,Egypt
+526,26,Khamsa,Wingii,['egyptian trap'],46,57,0.805,0.666,7,-10.741,1,0.36,0.3,0.613,0.502,142.974,Egypt
+527,27,بطل عالم,Marwan Moussa,"['egyptian hip hop', 'egyptian trap']",59,59,0.879,0.505,10,-6.658,1,0.0636,0.193,0.0894,0.71,110.991,Egypt
+528,28,لِلّي,Mohamed Mounir,"['arab pop', 'classic arab pop', 'egyptian pop']",50,58,0.741,0.819,7,-5.189,0,0.0708,0.104,0.427,0.86,92.332,Egypt
+529,29,James Dean,Cairokee,"['arab alternative', 'egyptian alternative', 'egyptian hip hop', 'egyptian pop']",58,56,0.795,0.669,11,-7.434,0,0.0315,0.124,0.188,0.54,113.982,Egypt
+530,30,Ta3ala Adalla3ak,Bahaa Sultan,"['arab pop', 'egyptian pop']",51,58,0.763,0.863,10,-4.395,1,0.0451,0.651,0.0815,0.9,123.911,Egypt
+531,31,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,Egypt
+532,32,Kan Fi Sora,Abyusif,"['egyptian hip hop', 'egyptian pop', 'egyptian trap']",53,51,0.391,0.385,1,-8.666,1,0.0399,0.458,0.105,0.0986,193.7,Egypt
+533,33,Wasa3 Wasa3,Ahmed Saad,"['arab pop', 'egyptian pop', 'shaabi']",58,62,0.762,0.837,9,-5.891,0,0.215,0.344,0.0909,0.497,136.825,Egypt
+534,34,Mehtag L Wogodk,Mohammed Saeed,"['egyptian alternative', 'egyptian pop']",58,56,0.789,0.464,6,-10.149,0,0.0752,0.957,0.132,0.339,130.006,Egypt
+535,35,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,Egypt
+536,36,Abl Mawsalek,Muslim - مُسلِم,['egyptian alternative'],57,56,0.438,0.323,4,-10.903,0,0.0406,0.749,0.106,0.329,115.627,Egypt
+537,37,Dawly,El Waili,"['egyptian hip hop', 'egyptian trap']",49,56,0.854,0.367,3,-14.477,0,0.328,0.421,0.0903,0.349,99.98,Egypt
+538,38,Ahmed Santa,Ahmed Santa,['egyptian hip hop'],43,55,0.883,0.675,9,-6.919,1,0.234,0.05,0.108,0.658,139.945,Egypt
+539,39,Min Awel Dekika,Elissa,"['arab pop', 'lebanese pop']",55,63,0.468,0.544,3,-6.755,0,0.0413,0.554,0.0864,0.296,72.957,Egypt
+540,40,EL HALAL,Marwan Pablo,"['egyptian hip hop', 'egyptian trap']",56,56,0.683,0.816,11,-5.178,0,0.0425,0.0113,0.107,0.269,121.001,Egypt
+541,41,هدي في قلبك طلقه ( لو عوزت تكلمني ),Essam Sasa,"['egyptian pop', 'mahraganat']",58,54,0.715,0.913,5,-2.315,0,0.0559,0.593,0.134,0.8,105.018,Egypt
+542,42,Eish'ha B Afia,Hassan El Shafei,"['egyptian alternative', 'egyptian pop']",42,57,0.766,0.841,11,-3.02,1,0.188,0.51,0.148,0.64,94.993,Egypt
+543,43,MAWAWEL,Mousv,"['egyptian hip hop', 'egyptian trap']",48,40,0.496,0.691,11,-8.775,0,0.033,0.0408,0.181,0.159,138.05,Egypt
+544,44,Aleky Eyoun,Ahmed Saad,"['arab pop', 'egyptian pop', 'shaabi']",58,60,0.695,0.391,10,-9.77,0,0.0441,0.734,0.14,0.355,117.948,Egypt
+545,45,Ana Negm,Cairokee,"['arab alternative', 'egyptian alternative', 'egyptian hip hop', 'egyptian pop']",58,57,0.68,0.487,6,-9.639,0,0.0415,0.767,0.133,0.26,91.966,Egypt
+546,46,سكرتي,Wegz,"['egyptian hip hop', 'egyptian trap']",61,56,0.769,0.503,2,-10.117,0,0.348,0.647,0.115,0.371,140.094,Egypt
+547,47,Mabahrbsh,Muslim - مُسلِم,['egyptian alternative'],57,55,0.401,0.36,1,-9.901,0,0.052,0.673,0.0967,0.319,100.923,Egypt
+548,48,Ana Ghaltan,Bahaa Sultan,"['arab pop', 'egyptian pop']",51,55,0.518,0.713,4,-7.644,0,0.0565,0.393,0.118,0.487,87.807,Egypt
+549,49,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,Egypt
+550,0,Ngeke,Big Nuz,"['afro soul', 'kwaito', 'south african house', 'south african pop']",46,49,0.831,0.818,1,-6.379,0,0.038,0.00756,0.239,0.775,127.013,South Africa
+551,1,Mina Nawe,Soa mattrix,"['afro soul', 'south african pop']",46,63,0.875,0.871,5,-10.757,0,0.0458,0.0202,0.146,0.779,112.006,South Africa
+552,2,SETE (feat. Young Stunna & Blxckie),K.O,"['afro soul', 'kasi rap', 'south african hip hop', 'south african pop', 'south african trap']",53,59,0.797,0.627,4,-7.096,0,0.0698,0.183,0.156,0.606,96.019,South Africa
+553,3,"Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",DJ Maphorisa,"['afro soul', 'amapiano', 'south african pop']",63,52,0.851,0.516,9,-12.79,1,0.0706,0.167,0.0861,0.365,112.013,South Africa
+554,4,"Tobetsa Remake (feat. Focalistic, Daliwonga, ShaunMusiq & Ftears)",Myztro,['amapiano'],52,58,0.793,0.497,4,-10.816,1,0.0921,0.0116,0.0788,0.543,113.001,South Africa
+555,5,Fatela,Aymos,"['afro soul', 'amapiano', 'south african pop']",53,59,0.875,0.36,1,-14.033,1,0.106,0.0139,0.103,0.407,112.013,South Africa
+556,6,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,South Africa
+557,7,ZoTata (feat. Mr JazziQ),Pcee,[],40,56,0.873,0.628,4,-9.516,0,0.0828,0.0308,0.166,0.387,111.998,South Africa
+558,8,Tobetsa,Myztro,['amapiano'],52,62,0.791,0.514,4,-11.384,1,0.0841,0.00194,0.0802,0.458,112.99,South Africa
+559,9,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,South Africa
+560,10,Sengizwile (feat. Aymos & Young Stunna),Mas Musiq,"['afro soul', 'south african pop']",52,61,0.813,0.632,3,-9.723,0,0.0482,0.0283,0.137,0.777,112.044,South Africa
+561,11,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,South Africa
+562,12,Under The Influence,Chris Brown,"['dance pop', 'r&b']",89,94,0.733,0.69,9,-5.529,0,0.0427,0.0635,0.105,0.31,116.992,South Africa
+563,13,Last Last,Burna Boy,"['afro dancehall', 'dancehall', 'nigerian hip hop', 'nigerian pop']",81,80,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0802,0.55,87.925,South Africa
+564,14,Fool Me,Kelvin Momo,"['afro soul', 'amapiano']",59,59,0.864,0.425,8,-18.824,1,0.102,0.0433,0.196,0.44,110.997,South Africa
+565,15,Stimela,2Point1,[],31,44,0.799,0.622,8,-8.008,1,0.0677,0.00617,0.346,0.785,113.002,South Africa
+566,16,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,South Africa
+567,17,Sukakude,Kelvin Momo,"['afro soul', 'amapiano']",59,57,0.879,0.435,5,-17.619,0,0.0716,0.0551,0.0822,0.261,111.976,South Africa
+568,18,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,South Africa
+569,19,Pele Pele,Ch'cco,['amapiano'],49,61,0.888,0.451,2,-9.957,1,0.0718,0.0079,0.0615,0.399,112.002,South Africa
+570,20,Hamba Wena,Deep London,[],49,63,0.861,0.598,7,-11.155,1,0.0665,0.00483,0.0306,0.417,113.006,South Africa
+571,21,AYE KUWA (feat. CK THE DJ),King Monada,"['afro soul', 'bolobedu house', 'south african pop']",48,55,0.87,0.788,1,-5.483,1,0.0318,0.0571,0.0401,0.592,112.977,South Africa
+572,22,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,South Africa
+573,23,"Xola (feat. Nobuhle, Ze2 & Young Stunna)",Kabza De Small,"['afro soul', 'amapiano']",63,58,0.782,0.748,6,-7.331,0,0.0366,0.0584,0.133,0.384,113.027,South Africa
+574,24,Nkantin,MacG,['afro soul'],44,47,0.83,0.803,0,-10.076,0,0.0631,0.103,0.0879,0.437,112.005,South Africa
+575,25,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,South Africa
+576,26,Rush,Ayra Starr,[],71,70,0.792,0.503,1,-8.044,1,0.0626,0.0369,0.0959,0.381,99.97,South Africa
+577,27,Crazy Vibez,Luxury SA,[],43,58,0.817,0.596,5,-11.92,0,0.131,0.0588,0.067,0.328,116.011,South Africa
+578,28,Waga Bietjie,Pabi Cooper,['amapiano'],49,56,0.838,0.438,1,-11.885,1,0.104,0.00382,0.0602,0.404,112.003,South Africa
+579,29,WAIT FOR U (feat. Drake & Tems),Future,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",90,87,0.463,0.642,1,-4.474,1,0.34,0.314,0.0686,0.339,83.389,South Africa
+580,30,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,South Africa
+581,31,Khusela (feat. Msaki),Kabza De Small,"['afro soul', 'amapiano']",63,54,0.755,0.811,11,-8.731,0,0.0413,0.129,0.0826,0.219,113.009,South Africa
+582,32,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,South Africa
+583,33,Thokoza,Sam Deep,['amapiano'],45,45,0.849,0.415,7,-18.836,0,0.0896,0.0437,0.112,0.572,113.003,South Africa
+584,34,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,South Africa
+585,35,Ncebeleka,TOSS,[],49,58,0.83,0.599,10,-10.883,0,0.07,0.0769,0.0898,0.629,112.025,South Africa
+586,36,Sure Thing,Miguel,"['dance pop', 'pop', 'r&b', 'urban contemporary']",80,87,0.684,0.607,11,-8.127,0,0.1,0.0267,0.191,0.498,81.001,South Africa
+587,37,For My Hand (feat. Ed Sheeran),Burna Boy,"['afro dancehall', 'dancehall', 'nigerian hip hop', 'nigerian pop']",81,81,0.87,0.479,9,-7.779,1,0.165,0.161,0.209,0.717,104.059,South Africa
+588,38,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",90,77,0.247,0.299,9,-6.083,1,0.0315,0.899,0.131,0.172,177.115,South Africa
+589,39,Calm Down,Rema,['nigerian pop'],81,80,0.814,0.789,11,-6.29,1,0.0405,0.365,0.137,0.842,107.003,South Africa
+590,40,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,South Africa
+591,41,Nobody Gets Me,SZA,"['pop', 'r&b']",94,91,0.358,0.284,7,-8.285,1,0.0285,0.805,0.183,0.276,99.796,South Africa
+592,42,Lemons (Lemonade),AKA,"['afro soul', 'kasi rap', 'south african hip hop', 'south african pop']",49,60,0.767,0.525,0,-10.225,1,0.232,0.0386,0.0951,0.478,98.101,South Africa
+593,43,Kancane,Konke,[],45,58,0.801,0.671,1,-11.076,1,0.0457,0.129,0.061,0.84,113.024,South Africa
+594,44,People,Libianca,[],55,64,0.573,0.422,10,-7.621,0,0.0678,0.551,0.102,0.693,124.357,South Africa
+595,45,Piano Ngijabulise,Deep London,[],49,55,0.835,0.454,8,-10.67,0,0.0628,0.0141,0.0241,0.433,112.01,South Africa
+596,46,Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,['rap'],92,88,0.526,0.606,5,-5.3,0,0.259,0.152,0.194,0.492,116.622,South Africa
+597,47,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'shiver pop']",79,87,0.761,0.525,11,-6.9,1,0.0944,0.44,0.0921,0.531,80.87,South Africa
+598,48,Just Wanna Rock,Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",87,90,0.486,0.545,11,-7.924,1,0.0336,0.0652,0.0642,0.0385,150.187,South Africa
+599,49,Where Are You Now,Lost Frequencies,"['belgian edm', 'edm', 'pop', 'pop dance', 'tropical house']",77,87,0.671,0.636,6,-8.117,0,0.103,0.515,0.172,0.262,120.966,South Africa
+600,0,Bem Doce,Preto Show,"['hip hop tuga', 'kizomba', 'musica angolana', 'rap angolano']",39,39,0.612,0.587,7,-5.754,0,0.291,0.153,0.0558,0.649,200.178,Angola
+601,1,Tratar Bem,Anselmo Ralph,"['kizomba', 'musica angolana', 'portuguese pop', 'semba']",51,45,0.657,0.51,5,-5.258,0,0.312,0.628,0.121,0.671,167.907,Angola
+602,2,Como Antes,Matias Damásio,"['kizomba', 'musica angolana', 'portuguese pop', 'semba']",51,62,0.574,0.776,2,-5.288,0,0.0491,0.392,0.211,0.516,171.932,Angola
+603,3,Spadja Pé,Neyna,"['kizomba', 'kizomba cabo-verdiana']",42,39,0.626,0.758,2,-6.446,1,0.161,0.037,0.111,0.407,190.041,Angola
+604,4,Calm Down,Rema,['nigerian pop'],81,84,0.811,0.781,11,-6.333,1,0.0428,0.376,0.121,0.824,107.007,Angola
+605,5,AVÉ,Djodje,"['kizomba', 'musica santomense', 'portuguese pop']",50,47,0.575,0.722,9,-7.172,0,0.211,0.0288,0.189,0.621,184.117,Angola
+606,6,Trompete,Soraia Ramos,"['kizomba', 'portuguese pop']",50,49,0.715,0.711,1,-8.262,0,0.226,0.203,0.439,0.674,115.023,Angola
+607,7,Versos & Poesias #4: Céu Azul,Dj Black Spygo,['trap angolano'],38,1,0.736,0.71,0,-5.025,0,0.229,0.541,0.11,0.787,95.222,Angola
+608,8,Collabo,June Freedom,['kizomba'],56,62,0.725,0.444,6,-9.704,0,0.133,0.56,0.124,0.821,91.992,Angola
+609,9,BKBN,Soraia Ramos,"['kizomba', 'portuguese pop']",50,46,0.695,0.691,1,-6.113,1,0.113,0.524,0.683,0.769,97.548,Angola
+610,10,Brabo,Brada,[],24,29,0.876,0.688,2,-6.881,1,0.0825,0.000909,0.038,0.41,125.965,Angola
+611,11,Ka nu komplika,Ricky Man,['kizomba cabo-verdiana'],23,30,0.793,0.524,2,-8.254,0,0.0633,0.223,0.0858,0.484,95.031,Angola
+612,12,Clima,Landrick,"['kizomba', 'musica angolana']",43,44,0.569,0.762,1,-4.697,1,0.237,0.21,0.0657,0.81,191.976,Angola
+613,13,Paké,Loony Johnson,"['kizomba', 'kizomba cabo-verdiana', 'zouk']",44,37,0.769,0.634,0,-6.472,1,0.137,0.0843,0.229,0.517,93.031,Angola
+614,14,Repite,Tony Fika,['funana'],29,31,0.591,0.675,5,-8.558,1,0.0388,0.123,0.126,0.383,94.009,Angola
+615,15,Toda Hora,Brada,[],24,26,0.832,0.806,11,-7.058,0,0.186,0.0137,0.0548,0.46,125.971,Angola
+616,16,GOD MODE,Mizzy Miles,['hip hop tuga'],51,42,0.542,0.66,0,-5.606,0,0.297,0.421,0.12,0.563,135.36,Angola
+617,17,Como Se Te Fosse Perder,Anselmo Ralph,"['kizomba', 'musica angolana', 'portuguese pop', 'semba']",51,51,0.611,0.445,1,-10.903,1,0.0464,0.597,0.107,0.288,135.949,Angola
+618,18,My Queen,Helio Baiano,[],33,47,0.65,0.493,7,-4.9,1,0.36,0.169,0.0802,0.568,179.888,Angola
+619,19,Bater (Afrotrap Freestyle),Sean P,[],26,13,0.859,0.844,11,-6.943,1,0.286,0.16,0.0677,0.402,95.985,Angola
+620,20,Cuidar de Mim,Messias Maricoa,"['kizomba', 'portuguese pop']",37,31,0.588,0.569,2,-10.361,1,0.0704,0.182,0.197,0.217,176.031,Angola
+621,21,Relationship Goals,Prodigio,"['hip hop tuga', 'trap angolano']",43,40,0.678,0.809,11,-5.266,1,0.336,0.367,0.104,0.72,97.763,Angola
+622,22,Manxeda,Djodje,"['kizomba', 'musica santomense', 'portuguese pop']",50,26,0.891,0.677,11,-6.544,0,0.0495,0.000737,0.0807,0.449,126.08,Angola
+623,23,Tá Tipo,Sean P,[],26,15,0.911,0.856,3,-9.34,0,0.271,0.337,0.134,0.222,132.072,Angola
+624,24,VIP,Aya Nakamura,"['basshall', 'francoton', 'pop urbaine']",70,67,0.889,0.436,5,-9.576,0,0.172,0.0485,0.106,0.411,92.998,Angola
+625,25,Suleban,William Araujo,"['kizomba', 'kizomba cabo-verdiana', 'musica angolana']",36,46,0.764,0.524,10,-8.178,1,0.211,0.139,0.105,0.461,97.025,Angola
+626,26,Mbappé - Afro Tropical,IVANN,['rap ivoire'],45,45,0.821,0.612,6,-7.123,1,0.191,0.374,0.119,0.698,119.918,Angola
+627,27,My Boy,Brada,[],24,29,0.787,0.429,4,-11.967,0,0.0503,0.721,0.158,0.261,105.07,Angola
+628,28,Não Vai Lá,Pérola,"['kizomba', 'musica angolana', 'semba']",41,35,0.736,0.623,8,-8.267,1,0.076,0.405,0.173,0.878,104.933,Angola
+629,29,Sodadi Bo,Neyna,"['kizomba', 'kizomba cabo-verdiana']",42,38,0.741,0.705,0,-7.54,1,0.0803,0.315,0.0868,0.322,95.032,Angola
+630,30,Tamu a Brilhar - Remix,CEF Tanzy,"['kizomba', 'musica angolana']",40,23,0.713,0.841,10,-3.607,0,0.424,0.172,0.111,0.571,139.305,Angola
+631,31,Pecado,Brada,[],24,25,0.914,0.568,5,-7.134,0,0.0687,0.00293,0.0609,0.662,126.035,Angola
+632,32,MR.AGENT,Dj Doraemon,[],19,12,0.924,0.747,2,-10.305,1,0.066,0.00145,0.0866,0.0509,129.999,Angola
+633,33,Só Mais Uma Vez,Anselmo Ralph,"['kizomba', 'musica angolana', 'portuguese pop', 'semba']",51,30,0.718,0.646,4,-7.317,1,0.0564,0.47,0.123,0.514,95.051,Angola
+634,34,Momentos,Kizomba da Boa,['kizomba'],29,33,0.527,0.72,7,-5.87,1,0.215,0.508,0.127,0.582,93.953,Angola
+635,35,Medo,Brada,[],24,24,0.795,0.564,11,-7.418,1,0.15,0.000376,0.0659,0.168,126.015,Angola
+636,36,Dança Pra Rir,KM-Beats,[],9,15,0.793,0.863,5,-2.917,0,0.299,0.13,0.136,0.575,131.877,Angola
+637,37,Tudo de Novo,Eva Rapdiva,['rap angolano'],28,43,0.632,0.609,4,-5.998,0,0.201,0.0723,0.336,0.23,179.857,Angola
+638,38,Poporó,Preto Show,"['hip hop tuga', 'kizomba', 'musica angolana', 'rap angolano']",39,0,0.777,0.712,11,-8.96,1,0.155,0.0402,0.11,0.574,140.973,Angola
+639,39,Assume,Brada,[],24,26,0.542,0.569,8,-7.934,1,0.333,0.00175,0.0738,0.036,189.057,Angola
+640,40,Ai Trabalha,Ingomblock,[],29,34,0.944,0.563,0,-5.706,0,0.119,0.0217,0.0669,0.368,131.979,Angola
+641,41,Lua,Ivandro,['trap tuga'],59,64,0.629,0.348,3,-10.154,0,0.0854,0.843,0.117,0.35,152.088,Angola
+642,42,Bolacha De Nuvem (Nha Cretcheu),Biura,['rap angolano'],22,30,0.636,0.657,5,-5.172,1,0.238,0.0552,0.161,0.494,179.852,Angola
+643,43,Brabo - Instrumental Mix,Brada,[],24,17,0.921,0.719,2,-7.131,1,0.0436,0.000195,0.0371,0.218,126.039,Angola
+644,44,Preto No Branco,Yola Araújo,"['kizomba', 'musica angolana']",31,24,0.589,0.77,0,-3.853,0,0.0621,0.318,0.0932,0.408,89.759,Angola
+645,45,Sentimento,Kizomba da Boa,['kizomba'],29,34,0.661,0.823,1,-6.585,0,0.0954,0.134,0.106,0.698,97.754,Angola
+646,46,Origins - Cap. I,Brada,[],24,17,0.812,0.7,5,-9.319,0,0.115,0.0193,0.337,0.668,126.103,Angola
+647,47,Cabelos Brancos,Prodigio,"['hip hop tuga', 'trap angolano']",43,20,0.576,0.655,7,-3.759,1,0.252,0.319,0.127,0.522,74.818,Angola
+648,48,Adoro,CEF Tanzy,"['kizomba', 'musica angolana']",40,38,0.682,0.859,10,-3.374,0,0.0606,0.0483,0.18,0.476,100.042,Angola
+649,49,Vô Te Daa,Scró Q Cuia,[],17,26,0.935,0.8,9,-5.101,1,0.247,0.00107,0.063,0.885,128.05,Angola
+650,0,Subtitle,OFFICIAL HIGE DANDISM,"['anime', 'anime rock', 'j-pop']",74,82,0.649,0.683,6,-6.49,1,0.0424,0.0313,0.118,0.381,130.0,Japan
+651,1,KICK BACK,Kenshi Yonezu,"['anime', 'j-pop']",76,87,0.577,0.941,1,-5.17,1,0.105,0.00207,0.0891,0.292,101.921,Japan
+652,2,W / X / Y,Tani Yuuki,"['j-pop', 'japanese teen pop']",67,75,0.628,0.775,2,-4.479,1,0.0535,0.159,0.33,0.674,106.382,Japan
+653,3,Overdose,natori,[],64,81,0.733,0.598,4,-9.453,0,0.0377,0.0307,0.218,0.831,118.012,Japan
+654,4,新時代,Ado,['japanese teen pop'],76,74,0.49,0.987,7,-2.279,1,0.253,0.049,0.406,0.451,175.064,Japan
+655,5,ダンスホール,Mrs. GREEN APPLE,"['anime rock', 'j-pop', 'j-rock']",72,76,0.736,0.695,7,-3.87,1,0.0468,0.0209,0.0517,0.784,109.976,Japan
+656,6,シンデレラボーイ,Saucy Dog,"['j-indie', 'j-pop', 'japanese alternative rock']",69,75,0.596,0.735,9,-6.362,1,0.0332,0.0748,0.269,0.524,108.106,Japan
+657,7,第ゼロ感,10-FEET,"['j-pop', 'j-poprock', 'j-rock', 'japanese alternative rock', 'japanese punk rock', 'japanese ska']",59,64,0.445,0.94,7,-4.16,1,0.175,2.77e-05,0.32,0.349,150.082,Japan
+658,8,ベテルギウス,Yuuri,"['j-pop', 'japanese singer-songwriter', 'japanese teen pop']",70,73,0.367,0.671,5,-4.604,1,0.0478,0.222,0.494,0.691,179.833,Japan
+659,9,ミックスナッツ,OFFICIAL HIGE DANDISM,"['anime', 'anime rock', 'j-pop']",74,73,0.542,0.918,6,-5.074,1,0.0937,0.0101,0.259,0.784,150.094,Japan
+660,10,私は最強,Ado,['japanese teen pop'],76,73,0.577,0.864,4,-2.92,1,0.0447,0.208,0.355,0.698,96.04,Japan
+661,11,綺羅キラー,ZUTOMAYO,['j-pop'],68,71,0.634,0.977,7,-2.078,0,0.118,0.372,0.35,0.672,142.048,Japan
+662,12,なんでもないよ、,Macaroni Empitsu,"['anime', 'j-pop', 'japanese alternative rock', 'japanese teen pop']",66,72,0.598,0.511,4,-6.015,1,0.0423,0.245,0.0732,0.652,171.845,Japan
+663,13,愛とか恋とか,Novelbright,"['j-pop', 'j-rock']",63,72,0.697,0.556,6,-5.089,1,0.0364,0.698,0.0991,0.404,89.987,Japan
+664,14,水平線,back number,"['j-pop', 'j-rock']",74,74,0.419,0.75,10,-3.546,1,0.0316,0.011,0.159,0.436,145.867,Japan
+665,15,Ditto,NewJeans,"['k-pop', 'k-pop girl group']",79,88,0.814,0.641,6,-5.957,0,0.111,0.027,0.0993,0.183,133.854,Japan
+666,16,もう一度,Tani Yuuki,"['j-pop', 'japanese teen pop']",67,74,0.571,0.724,11,-5.381,1,0.0381,0.00408,0.361,0.315,131.975,Japan
+667,17,カナタハルカ,RADWIMPS,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']",73,69,0.474,0.535,0,-6.566,1,0.0354,0.626,0.413,0.324,79.95,Japan
+668,18,怪獣の花唄,Vaundy,"['j-pop', 'japanese soul']",73,73,0.425,0.939,2,-3.498,1,0.054,0.00361,0.331,0.638,150.015,Japan
+669,19,Soranji,Mrs. GREEN APPLE,"['anime rock', 'j-pop', 'j-rock']",72,70,0.476,0.661,5,-5.197,1,0.044,0.0604,0.144,0.406,156.057,Japan
+670,20,祝福,YOASOBI,"['j-pop', 'japanese teen pop']",76,77,0.553,0.958,4,-3.159,0,0.073,0.0186,0.297,0.541,170.045,Japan
+671,21,ドライフラワー,Yuuri,"['j-pop', 'japanese singer-songwriter', 'japanese teen pop']",70,71,0.463,0.603,7,-5.464,1,0.0276,0.495,0.167,0.477,148.089,Japan
+672,22,アイラブユー,back number,"['j-pop', 'j-rock']",74,73,0.468,0.624,1,-3.629,1,0.0281,0.296,0.142,0.462,77.988,Japan
+673,23,色彩,yama,"['j-pop', 'japanese teen pop']",66,76,0.581,0.926,7,-3.268,0,0.0662,0.176,0.251,0.874,117.04,Japan
+674,24,ANTIFRAGILE,LE SSERAFIM,[],78,89,0.882,0.797,10,-3.299,0,0.0819,0.0821,0.113,0.824,105.025,Japan
+675,25,Habit,SEKAI NO OWARI,"['anime', 'j-pop']",66,73,0.749,0.85,10,-5.39,0,0.126,0.203,0.18,0.912,117.968,Japan
+676,26,115万キロのフィルム,OFFICIAL HIGE DANDISM,"['anime', 'anime rock', 'j-pop']",74,73,0.516,0.791,3,-1.927,1,0.0318,0.00345,0.141,0.48,96.921,Japan
+677,27,SOUVENIR,BUMP OF CHICKEN,"['j-pop', 'j-rock']",66,76,0.622,0.94,2,-4.997,1,0.0413,0.0094,0.0957,0.96,158.056,Japan
+678,28,きらり,Fujii Kaze,['japanese teen pop'],76,73,0.746,0.764,2,-6.833,1,0.0462,0.00803,0.357,0.701,116.982,Japan
+679,29,カメレオン,King Gnu,['j-pop'],70,73,0.628,0.533,0,-7.235,1,0.0417,0.643,0.0733,0.459,79.953,Japan
+680,30,Melody,8LOOM,[],61,58,0.763,0.6,2,-6.081,1,0.0374,0.281,0.239,0.754,143.044,Japan
+681,31,本当はね、,ヤングスキニー,['japanese alternative rock'],58,73,0.59,0.746,11,-5.313,1,0.041,0.178,0.0594,0.873,102.051,Japan
+682,32,Mela!,Ryokuoushoku Shakai,['j-pop'],63,72,0.619,0.941,8,-1.618,1,0.0584,0.0439,0.318,0.624,137.967,Japan
+683,33,逆光,Ado,['japanese teen pop'],76,70,0.564,0.896,10,-3.875,0,0.108,0.000387,0.374,0.713,145.023,Japan
+684,34,恋だろ,wacci,"['anime', 'j-division', 'j-pop']",59,67,0.599,0.546,4,-6.795,1,0.0333,0.17,0.113,0.336,143.91,Japan
+685,35,点描の唄,Mrs. GREEN APPLE,"['anime rock', 'j-pop', 'j-rock']",72,72,0.502,0.632,0,-4.612,1,0.0273,0.447,0.103,0.308,152.014,Japan
+686,36,群青,YOASOBI,"['j-pop', 'japanese teen pop']",76,74,0.725,0.853,10,-3.193,1,0.0516,0.305,0.115,0.707,134.991,Japan
+687,37,First Love,Hikaru Utada,"['anime', 'classic j-pop', 'j-pop', 'japanese singer-songwriter']",71,78,0.438,0.434,7,-8.37,1,0.0371,0.122,0.15,0.195,179.913,Japan
+688,38,ウタカタララバイ,Ado,['japanese teen pop'],76,71,0.524,0.914,6,-2.104,1,0.12,0.179,0.17,0.63,89.015,Japan
+689,39,クリスマスソング,back number,"['j-pop', 'j-rock']",74,73,0.404,0.705,4,-3.324,1,0.0315,0.128,0.123,0.42,154.02,Japan
+690,40,トウキョウ・シャンディ・ランデヴ,MAISONdes,"['j-pop', 'japanese teen pop']",60,68,0.734,0.973,6,-1.789,0,0.0754,0.0435,0.0718,0.91,137.024,Japan
+691,41,シャッター,Yuuri,"['j-pop', 'japanese singer-songwriter', 'japanese teen pop']",70,70,0.606,0.579,5,-5.582,1,0.033,0.512,0.381,0.661,149.988,Japan
+692,42,すずめ,RADWIMPS,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']",73,67,0.565,0.41,2,-6.616,0,0.0311,0.65,0.309,0.36,78.01,Japan
+693,43,Dynamite,BTS,"['k-pop', 'k-pop boy group']",92,84,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0936,0.737,114.044,Japan
+694,44,grace,Fujii Kaze,['japanese teen pop'],76,73,0.668,0.685,7,-8.765,1,0.0472,0.0822,0.319,0.637,108.971,Japan
+695,45,CHAINSAW BLOOD,Vaundy,"['j-pop', 'japanese soul']",73,76,0.528,0.855,0,-5.229,1,0.0953,7.38e-05,0.281,0.549,146.987,Japan
+696,46,ベルベットの詩,back number,"['j-pop', 'j-rock']",74,71,0.495,0.71,10,-3.965,1,0.0606,0.00947,0.0577,0.609,147.955,Japan
+697,47,First Love - 2022 Mix,Hikaru Utada,"['anime', 'classic j-pop', 'j-pop', 'japanese singer-songwriter']",71,68,0.4,0.517,7,-6.447,1,0.0282,0.17,0.138,0.136,179.883,Japan
+698,48,クリスマスイブ,Yuuri,"['j-pop', 'japanese singer-songwriter', 'japanese teen pop']",70,70,0.558,0.521,3,-5.515,1,0.0258,0.0885,0.108,0.43,145.992,Japan
+699,49,Shinunoga E-Wa,Fujii Kaze,['japanese teen pop'],76,89,0.6,0.76,6,-6.124,0,0.0452,0.166,0.189,0.519,158.078,Japan
+700,0,Maan Meri Jaan,King,"['desi pop', 'hindi hip hop']",79,88,0.698,0.505,6,-8.242,0,0.0356,0.354,0.0995,0.396,95.868,India
+701,1,"Apna Bana Le (From ""Bhediya"")",Arijit Singh,"['desi pop', 'filmi', 'modern bollywood']",89,83,0.586,0.562,9,-7.399,1,0.0267,0.803,0.063,0.436,93.982,India
+702,2,Kesariya,Pritam,"['filmi', 'indian instrumental', 'modern bollywood']",87,78,0.577,0.574,0,-6.525,1,0.0278,0.572,0.1,0.436,94.009,India
+703,3,"Besharam Rang (From ""Pathaan"")",Vishal-Shekhar,"['desi pop', 'filmi', 'modern bollywood']",76,80,0.773,0.795,8,-5.537,0,0.0412,0.0587,0.154,0.649,115.997,India
+704,4,Tu Aake Dekhle,King,"['desi pop', 'hindi hip hop']",79,84,0.77,0.84,11,-4.022,1,0.107,0.515,0.145,0.192,96.012,India
+705,5,Daku,Chani Nattan,"['desi hip hop', 'desi pop', 'punjabi pop']",67,82,0.847,0.558,8,-5.855,0,0.0663,0.325,0.135,0.495,98.062,India
+706,6,No Love,Shubh,['punjabi hip hop'],75,83,0.768,0.487,4,-8.936,0,0.0431,0.24,0.175,0.722,137.034,India
+707,7,Players,Badshah,"['desi hip hop', 'desi pop', 'desi trap', 'haryanvi pop', 'modern bollywood']",77,70,0.833,0.678,9,-3.711,0,0.141,0.464,0.107,0.576,109.969,India
+708,8,"Manike (From ""Thank God"")",Yohani,['sinhala indie'],68,82,0.551,0.578,1,-7.005,0,0.0732,0.522,0.073,0.509,106.772,India
+709,9,Baller,Shubh,['punjabi hip hop'],75,82,0.711,0.702,5,-10.048,1,0.233,0.00487,0.0932,0.674,180.219,India
+710,10,"Ranjithame (From ""Varisu"")",Thalapathy Vijay,[],65,80,0.545,0.98,9,-6.464,1,0.129,0.666,0.0788,0.658,124.96,India
+711,11,Chaand Baaliyan,Aditya A,"['desi pop', 'hindi indie']",65,81,0.729,0.396,0,-8.98,1,0.0359,0.796,0.104,0.886,97.281,India
+712,12,Kali Kali Zulfon Ke (Lo-Fi),Madhur Sharma,"['desi pop', 'modern bollywood']",68,79,0.464,0.491,7,-7.039,1,0.0392,0.837,0.111,0.106,76.739,India
+713,13,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,India
+714,14,Pasoori,Shae Gill,[],65,81,0.714,0.596,11,-6.206,0,0.043,0.0657,0.0625,0.669,91.991,India
+715,15,Excuses,AP Dhillon,"['punjabi hip hop', 'punjabi pop']",79,81,0.837,0.717,5,-7.749,0,0.0822,0.0842,0.149,0.494,94.984,India
+716,16,Ram Ram,MC SQUARE,"['desi hip hop', 'haryanvi hip hop']",67,77,0.718,0.655,8,-6.419,0,0.0751,0.187,0.498,0.569,100.012,India
+717,17,"Raataan Lambiyan (From ""Shershaah"")",Tanishk Bagchi,"['desi pop', 'modern bollywood']",81,78,0.72,0.63,10,-5.549,1,0.0413,0.615,0.108,0.512,81.009,India
+718,18,"Agar Tum Saath Ho (From ""Tamasha"")",Alka Yagnik,"['classic bollywood', 'desi pop', 'filmi', 'hare krishna', 'modern bollywood']",79,75,0.562,0.519,3,-8.744,1,0.0326,0.557,0.172,0.415,122.925,India
+719,19,Kho Gaye,Taaruk Raina,[],63,79,0.478,0.374,8,-11.627,0,0.0361,0.628,0.0979,0.218,76.163,India
+720,20,Under The Influence,Chris Brown,"['dance pop', 'r&b']",89,94,0.733,0.69,9,-5.529,0,0.0427,0.0635,0.105,0.31,116.992,India
+721,21,Heer Ranjha,Rito Riba,[],63,79,0.576,0.72,9,-3.842,1,0.0409,0.438,0.0814,0.6,140.031,India
+722,22,Jaadugar,Paradox,"['desi hip hop', 'desi trap']",69,75,0.674,0.566,5,-8.551,0,0.0802,0.77,0.181,0.186,95.045,India
+723,23,Jhoome Jo Pathaan,Vishal-Shekhar,"['desi pop', 'filmi', 'modern bollywood']",76,70,0.817,0.738,7,-7.639,1,0.0748,0.0964,0.331,0.616,104.964,India
+724,24,We Rollin,Shubh,['punjabi hip hop'],75,79,0.82,0.504,4,-9.113,0,0.141,0.261,0.104,0.275,85.016,India
+725,25,Summer High,AP Dhillon,"['punjabi hip hop', 'punjabi pop']",79,80,0.86,0.541,1,-6.51,0,0.0325,0.165,0.0663,0.952,114.984,India
+726,26,"Jehda Nasha (From ""An Action Hero"")",Tanishk Bagchi,"['desi pop', 'modern bollywood']",81,74,0.881,0.676,1,-4.76,1,0.0812,0.0848,0.0693,0.843,119.965,India
+727,27,Dandelions,Ruth B.,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",76,89,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0864,0.454,116.959,India
+728,28,Shayad,Pritam,"['filmi', 'indian instrumental', 'modern bollywood']",87,76,0.483,0.468,8,-7.642,1,0.0341,0.784,0.152,0.319,135.875,India
+729,29,"Thee Thalapathy (From ""Varisu"")",Silambarasan TR,"['desi hip hop', 'filmi', 'tamil pop']",67,76,0.674,0.907,10,-5.078,0,0.122,0.567,0.259,0.828,130.011,India
+730,30,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,India
+731,31,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,"['gen z singer-songwriter', 'pop']",80,91,0.551,0.55,10,-5.339,1,0.0286,0.777,0.202,0.342,101.19,India
+732,32,Mockingbird,Eminem,"['detroit hip hop', 'hip hop', 'rap']",92,92,0.637,0.678,0,-3.798,1,0.266,0.209,0.156,0.254,84.039,India
+733,33,Deva Deva,Pritam,"['filmi', 'indian instrumental', 'modern bollywood']",87,70,0.539,0.729,0,-7.588,1,0.0412,0.627,0.128,0.435,112.074,India
+734,34,Her,Shubh,['punjabi hip hop'],75,76,0.676,0.447,11,-8.827,0,0.0942,0.201,0.135,0.567,84.715,India
+735,35,Todh,Prince Narula,[],57,72,0.549,0.748,9,-6.521,0,0.384,0.402,0.298,0.781,149.722,India
+736,36,"Dil Ko Karaar Aaya (From ""Sukoon"")",Yasser Desai,"['desi pop', 'filmi', 'modern bollywood']",70,78,0.55,0.448,11,-9.117,1,0.0366,0.777,0.111,0.388,147.986,India
+737,37,"Maiyya Mainu (From ""Jersey"")",Sachet-Parampara,"['desi pop', 'modern bollywood']",68,78,0.63,0.739,0,-3.942,1,0.0248,0.194,0.113,0.224,109.985,India
+738,38,Starboy,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,90,0.679,0.587,7,-7.015,1,0.276,0.141,0.137,0.486,186.003,India
+739,39,295,Sidhu Moose Wala,"['desi hip hop', 'pakistani hip hop', 'punjabi hip hop']",80,78,0.557,0.794,11,-5.698,0,0.2,0.179,0.106,0.432,91.366,India
+740,40,OOPS,King,"['desi pop', 'hindi hip hop']",79,73,0.918,0.673,0,-5.084,1,0.184,0.314,0.0555,0.828,99.952,India
+741,41,Kyun Dhunde,Vilen,"['desi hip hop', 'desi pop', 'modern bollywood']",66,76,0.711,0.346,7,-10.162,1,0.0291,0.766,0.212,0.771,91.993,India
+742,42,Jiske Aane Se Mukammal,Prashant Katheriya,"['desi pop', 'modern bollywood']",69,75,0.631,0.277,0,-6.119,0,0.0292,0.871,0.151,0.88,139.733,India
+743,43,Mann Mera,Gajendra Verma,"['desi pop', 'filmi', 'modern bollywood']",65,76,0.535,0.765,1,-7.862,0,0.0444,0.054,0.0921,0.373,191.827,India
+744,44,Channa Ve,Akhil Sachdeva,"['desi pop', 'modern bollywood']",67,76,0.676,0.696,9,-6.68,1,0.0452,0.666,0.0931,0.606,94.945,India
+745,45,"Chilla Chilla (From ""Thunivu"")",Ghibran,"['filmi', 'tamil pop']",66,75,0.609,0.865,7,-6.335,1,0.277,0.00538,0.309,0.514,161.848,India
+746,46,"Ghodey Pe Sawaar (From ""Qala"")",Amit Trivedi,"['desi pop', 'filmi', 'modern bollywood']",72,58,0.777,0.481,3,-6.127,1,0.0274,0.794,0.265,0.814,102.003,India
+747,47,Basti Ka Hasti,MC STAN,['desi hip hop'],71,75,0.726,0.624,9,-7.741,1,0.382,0.156,0.601,0.421,139.594,India
+748,48,TERE TE,AP Dhillon,"['punjabi hip hop', 'punjabi pop']",79,78,0.692,0.488,7,-10.96,0,0.135,0.0508,0.154,0.299,171.9,India
+749,49,On Top,Karan Aujla,"['desi hip hop', 'desi pop', 'punjabi pop']",74,72,0.831,0.75,10,-5.42,0,0.153,0.0188,0.111,0.662,139.979,India
+750,0,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,Endonesia
+751,1,Semata Karenamu,Mario G klau,"['indonesian pop', 'lagu timur']",66,81,0.603,0.325,3,-11.683,1,0.0456,0.35,0.113,0.323,123.759,Endonesia
+752,2,Kau Rumahku,raissa anggiani,"['indonesian lo-fi pop', 'indonesian pop']",67,80,0.35,0.323,1,-8.982,1,0.0369,0.873,0.103,0.278,169.513,Endonesia
+753,3,Tak Kan Hilang,Budi Doremi,['indonesian pop'],69,81,0.527,0.258,4,-9.499,1,0.0319,0.821,0.148,0.347,139.928,Endonesia
+754,4,Tertawan Hati,Awdella,['indonesian pop'],63,80,0.319,0.432,6,-5.831,1,0.0317,0.661,0.108,0.244,128.244,Endonesia
+755,5,Here With Me,d4vd,['bedroom pop'],81,92,0.574,0.469,4,-8.209,1,0.0254,0.534,0.128,0.288,132.023,Endonesia
+756,6,Evaluasi,Hindia,[],70,81,0.609,0.966,7,-4.469,1,0.0571,0.00194,0.304,0.505,102.014,Endonesia
+757,7,Runtuh,Feby Putri,['indonesian pop'],68,80,0.593,0.287,3,-13.164,1,0.0289,0.876,0.119,0.191,127.783,Endonesia
+758,8,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,"['gen z singer-songwriter', 'pop']",80,91,0.551,0.55,10,-5.339,1,0.0286,0.777,0.202,0.342,101.19,Endonesia
+759,9,Ditto,NewJeans,"['k-pop', 'k-pop girl group']",79,88,0.814,0.641,6,-5.957,0,0.111,0.027,0.0993,0.183,133.854,Endonesia
+760,10,Serana,For Revenge,"['bandung indie', 'indonesian emo', 'indonesian post-hardcore']",64,74,0.429,0.709,2,-5.54,1,0.0297,0.0264,0.135,0.26,130.046,Endonesia
+761,11,"Andaikan Kau Datang - From ""Miracle in Cell No. 7""",Andmesh,['indonesian pop'],68,79,0.323,0.126,9,-12.562,1,0.034,0.937,0.11,0.322,84.881,Endonesia
+762,12,Hati-Hati di Jalan,Tulus,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",76,79,0.643,0.436,6,-11.322,1,0.0357,0.702,0.115,0.755,71.969,Endonesia
+763,13,Asmalibrasi,Soegi Bornean,"['indonesian folk', 'indonesian pop', 'semarang indie']",64,79,0.721,0.565,4,-6.208,1,0.0292,0.855,0.0973,0.794,139.941,Endonesia
+764,14,Duka,Last Child,"['indonesian pop punk', 'indonesian rock']",68,77,0.566,0.885,0,-4.664,1,0.0355,0.122,0.049,0.31,135.015,Endonesia
+765,15,Sisa Rasa,Mahalini,['indonesian pop'],71,79,0.488,0.405,8,-6.324,0,0.0302,0.503,0.108,0.152,122.049,Endonesia
+766,16,Right Now,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",85,81,0.645,0.78,8,-5.165,1,0.0319,0.218,0.0919,0.372,120.008,Endonesia
+767,17,Rumah Singgah,Fabio Asher,['indonesian pop'],67,80,0.466,0.228,8,-10.666,1,0.0305,0.717,0.107,0.366,77.982,Endonesia
+768,18,Selamat (Selamat Tinggal),Virgoun,"['indonesian pop', 'malaysian pop']",66,77,0.361,0.581,0,-8.502,1,0.0302,0.523,0.118,0.372,79.59,Endonesia
+769,19,Tak Ingin Usai,Keisya Levronka,['indonesian pop'],65,79,0.49,0.398,0,-7.712,1,0.0266,0.815,0.114,0.136,129.772,Endonesia
+770,20,Fall In Love Alone,Stacey Ryan,[],70,84,0.676,0.625,7,-5.455,0,0.0711,0.316,0.127,0.522,171.883,Endonesia
+771,21,Sang Dewi,Lyodra,['indonesian pop'],68,79,0.339,0.58,6,-5.426,1,0.0319,0.554,0.421,0.319,81.857,Endonesia
+772,22,Bertaut,Nadin Amizah,['indonesian pop'],66,77,0.47,0.131,6,-13.29,1,0.0362,0.933,0.109,0.115,118.836,Endonesia
+773,23,Monokrom,Tulus,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",76,78,0.534,0.462,6,-9.383,1,0.0326,0.573,0.0974,0.519,88.046,Endonesia
+774,24,Kisah Sempurna,Mahalini,['indonesian pop'],71,78,0.537,0.486,11,-8.521,1,0.0336,0.51,0.0817,0.0861,122.099,Endonesia
+775,25,Sempurna,Andra & The Backbone,"['classic indonesian rock', 'indonesian pop', 'indonesian pop rock', 'indonesian rock']",64,78,0.358,0.32,4,-9.946,1,0.0308,0.726,0.105,0.384,115.499,Endonesia
+776,26,L,Hal,"['indonesian folk', 'indonesian pop']",64,78,0.656,0.364,2,-6.877,1,0.0325,0.834,0.0982,0.487,152.959,Endonesia
+777,27,Lantas,Juicy Luicy,['indonesian pop'],68,76,0.588,0.311,8,-8.143,1,0.025,0.791,0.352,0.545,86.022,Endonesia
+778,28,I Wanna Be Yours,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,93,0.464,0.417,0,-9.345,0,0.0256,0.136,0.0974,0.479,67.528,Endonesia
+779,29,Dunia Tipu-Tipu,Yura Yunita,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",69,77,0.48,0.325,1,-8.513,1,0.0354,0.907,0.112,0.619,111.774,Endonesia
+780,30,Glimpse of Us,Joji,['viral pop'],87,83,0.44,0.317,8,-9.258,1,0.0531,0.891,0.141,0.268,169.914,Endonesia
+781,31,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Endonesia
+782,32,Anything You Want,Reality Club,"['indonesian indie', 'indonesian pop']",64,77,0.21,0.58,5,-7.766,1,0.0307,0.00576,0.391,0.313,175.769,Endonesia
+783,33,Mesin Waktu,Budi Doremi,['indonesian pop'],69,71,0.448,0.309,9,-9.328,1,0.0283,0.845,0.13,0.385,139.977,Endonesia
+784,34,Tutur Batin,Yura Yunita,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",69,77,0.576,0.329,10,-8.87,1,0.0487,0.813,0.108,0.397,72.91,Endonesia
+785,35,Old Love,yuji,[],66,82,0.478,0.367,11,-10.513,1,0.0283,0.716,0.124,0.359,141.95,Endonesia
+786,36,I Love You So,The Walters,['chicago indie'],72,88,0.575,0.648,10,-4.891,1,0.0358,0.583,0.115,0.466,75.977,Endonesia
+787,37,THE SHADE,Rex Orange County,"['bedroom pop', 'pop']",79,83,0.898,0.509,5,-7.973,1,0.062,0.391,0.0876,0.727,119.869,Endonesia
+788,38,Pilihan Yang Terbaik,Ziva Magnolya,['indonesian pop'],67,77,0.49,0.287,3,-9.003,1,0.0394,0.923,0.131,0.197,120.702,Endonesia
+789,39,Tampar,Juicy Luicy,['indonesian pop'],68,76,0.459,0.377,6,-9.024,1,0.0314,0.652,0.0947,0.433,169.896,Endonesia
+790,40,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,Endonesia
+791,41,Merasa Indah,Tiara Andini,['indonesian pop'],70,76,0.386,0.416,4,-10.543,1,0.0306,0.766,0.119,0.345,122.536,Endonesia
+792,42,18,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",85,80,0.681,0.582,6,-7.76,0,0.0313,0.22,0.119,0.221,124.038,Endonesia
+793,43,Those Eyes,New West,['toronto indie'],72,86,0.597,0.351,4,-8.043,1,0.0281,0.727,0.319,0.243,119.948,Endonesia
+794,44,Dandelions,Ruth B.,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",76,89,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0864,0.454,116.959,Endonesia
+795,45,Usai,Tiara Andini,['indonesian pop'],70,72,0.461,0.36,7,-8.99,1,0.0269,0.863,0.0914,0.131,109.236,Endonesia
+796,46,Bertahan Terluka,Fabio Asher,['indonesian pop'],67,77,0.325,0.345,5,-9.536,1,0.0311,0.495,0.0726,0.135,77.835,Endonesia
+797,47,Night Changes,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",85,87,0.672,0.52,8,-7.747,1,0.0353,0.859,0.115,0.37,120.001,Endonesia
+798,48,Seandainya,Vierra,['indonesian pop'],66,74,0.252,0.827,2,-4.971,1,0.0321,0.0836,0.219,0.477,93.968,Endonesia
+799,49,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,Endonesia

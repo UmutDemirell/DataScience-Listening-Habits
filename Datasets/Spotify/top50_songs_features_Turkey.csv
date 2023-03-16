@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Antidepresan,Mert Demir,['turkish alt pop'],70,86,0.7,0.589,11,-9.974,0,0.0281,0.0297,0.0987,0.915,100.014,Turkey
+1,Fırtınadayım,Mabel Matiz,['turkish pop'],75,80,0.489,0.684,9,-5.73,0,0.0334,0.122,0.222,0.382,109.941,Turkey
+2,Bi' Tek Ben Anlarım,KÖFN,['turkish alt pop'],66,81,0.66,0.529,7,-10.502,1,0.0762,0.0828,0.099,0.318,96.009,Turkey
+3,TALIBANA,DEHA INC.,"['new school turkce rap', 'turkce trap metal']",60,69,0.841,0.683,1,-7.759,0,0.214,0.0766,0.0953,0.511,123.016,Turkey
+4,Belki,Dedublüman,['turkce slow sarkilar'],72,80,0.388,0.496,1,-8.707,1,0.03,0.317,0.153,0.34,183.965,Turkey
+5,Unutmak Öyle Kolay Mı Sandın,Semicenk,[],72,79,0.719,0.643,8,-7.001,1,0.111,0.606,0.0804,0.615,91.963,Turkey
+6,10MG,Motive,['turkish trap'],72,79,0.737,0.488,1,-9.751,1,0.196,0.595,0.103,0.248,127.124,Turkey
+7,SENIN UGRUNA,UZI,['turkish trap'],77,80,0.785,0.638,1,-7.081,1,0.109,0.357,0.0982,0.348,127.058,Turkey
+8,NKBİ,Güneş,['turkce kadin rap'],70,78,0.633,0.647,2,-6.129,0,0.03,0.00373,0.122,0.115,100.033,Turkey
+9,Ölümle Yaşam Arasında,Mavi Gri,['turkish alt pop'],69,78,0.44,0.624,8,-7.12,0,0.0347,0.547,0.096,0.479,152.185,Turkey
+10,ZOR,UZI,['turkish trap'],77,73,0.685,0.661,4,-9.014,0,0.208,0.838,0.626,0.0643,103.964,Turkey
+11,Gökyüzünü Tutamam,Can Koç,['turkce slow sarkilar'],61,77,0.471,0.671,2,-9.569,0,0.16,0.0801,0.136,0.637,176.104,Turkey
+12,Aşkın Olayım,Simge,"['deep turkish pop', 'persian pop', 'turkish pop']",65,77,0.556,0.582,5,-8.368,0,0.0414,0.23,0.327,0.561,75.976,Turkey
+13,Altüst Olmuşum,Mavi Gri,['turkish alt pop'],69,77,0.479,0.527,9,-11.482,0,0.0271,0.247,0.243,0.245,82.933,Turkey
+14,Olur Mu,Gazapizm,['turkish hip hop'],66,78,0.579,0.736,2,-7.786,0,0.0449,0.308,0.283,0.156,139.788,Turkey
+15,Kor,Emir Can İğrek,['turkish alt pop'],71,77,0.655,0.472,0,-10.506,0,0.0422,0.408,0.285,0.362,92.995,Turkey
+16,25,Ati242,[],66,73,0.735,0.743,11,-8.21,0,0.153,0.318,0.131,0.414,120.031,Turkey
+17,VUR,BLOK3,"['new school turkce rap', 'turkce drill']",59,72,0.613,0.566,1,-13.714,1,0.153,0.355,0.121,0.697,143.011,Turkey
+18,Seni Dert Etmeler,Madrigal,['turkish alt pop'],68,76,0.552,0.608,5,-11.211,0,0.0274,0.148,0.332,0.835,88.002,Turkey
+19,Belki - Akustik,Dedublüman,['turkce slow sarkilar'],72,77,0.449,0.711,8,-5.851,0,0.0282,0.111,0.0917,0.443,91.91,Turkey
+20,Yalanı Bırak,Sakiler,[],63,75,0.413,0.677,0,-7.303,0,0.0433,0.301,0.348,0.613,78.892,Turkey
+21,Diğer Yarım,ATE,[],60,77,0.676,0.758,1,-6.92,0,0.124,0.133,0.0565,0.28,95.06,Turkey
+22,Suçlarımdan Biri,Güneş,['turkce kadin rap'],70,77,0.763,0.733,5,-6.534,0,0.113,0.138,0.0827,0.587,94.977,Turkey
+23,Ara,Zeynep Bastık,['turkish pop'],67,63,0.621,0.674,0,-5.777,0,0.0472,0.241,0.116,0.304,163.917,Turkey
+24,"deniyorum, ama",Mavi,['turkish trap pop'],68,71,0.456,0.24,7,-14.923,0,0.0349,0.769,0.351,0.327,145.522,Turkey
+25,Nerdesin,Ezhel,"['turkish hip hop', 'turkish trap']",73,65,0.816,0.696,8,-6.75,0,0.153,0.201,0.13,0.81,100.004,Turkey
+26,Bir Derdim Var,mor ve ötesi,"['turkish alternative', 'turkish alternative rock', 'turkish rock']",66,75,0.586,0.89,11,-1.988,0,0.0369,0.012,0.114,0.426,119.062,Turkey
+27,Dip,Madrigal,['turkish alt pop'],68,75,0.544,0.809,7,-10.232,0,0.032,0.485,0.0988,0.549,85.025,Turkey
+28,Diyardan Diyara,cakal,['turkce drill'],69,66,0.789,0.703,4,-5.437,0,0.0969,0.052,0.386,0.191,105.037,Turkey
+29,Ağlaya Ağlaya,Tekir,['turkish trap pop'],63,73,0.612,0.461,10,-11.736,0,0.22,0.65,0.332,0.654,79.975,Turkey
+30,ARASAN DA,UZI,['turkish trap'],77,68,0.742,0.832,10,-6.812,1,0.156,0.425,0.108,0.441,105.978,Turkey
+31,Masal Gibi,Semicenk,[],72,74,0.669,0.417,10,-14.185,1,0.0655,0.381,0.125,0.304,83.034,Turkey
+32,Sakladığın Bir Şeyler Var,Dedublüman,['turkce slow sarkilar'],72,74,0.473,0.839,1,-7.837,0,0.0399,0.19,0.0714,0.411,100.033,Turkey
+33,kördüğüm,Sefo,['turkish trap'],70,75,0.651,0.804,7,-5.488,0,0.248,0.275,0.104,0.311,180.207,Turkey
+34,Olmazlara İnat,Berkay Altunyay,['turkish singer-songwriter'],61,75,0.581,0.495,4,-13.087,0,0.0658,0.185,0.0479,0.184,85.043,Turkey
+35,Gitme,Dolu Kadehi Ters Tut,['turkish alt pop'],68,73,0.685,0.416,9,-8.609,0,0.0317,0.352,0.106,0.696,119.992,Turkey
+36,Hep De Yorgun,Yaşlı Amca,['turkish alternative rock'],64,72,0.669,0.433,10,-11.234,0,0.0517,0.787,0.242,0.355,78.043,Turkey
+37,XXL,UZI,['turkish trap'],77,74,0.704,0.697,10,-7.276,0,0.286,0.0676,0.467,0.278,136.036,Turkey
+38,Herkes Gibisin,Semicenk,[],72,74,0.686,0.493,8,-9.845,1,0.142,0.0296,0.111,0.236,90.069,Turkey
+39,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,Turkey
+40,Ah Canım Sevgilim - Demo,Rei 6,['turkish alt pop'],62,74,0.471,0.227,0,-11.568,1,0.0539,0.873,0.159,0.3,116.871,Turkey
+41,Mockingbird,Eminem,"['detroit hip hop', 'hip hop', 'rap']",92,92,0.637,0.678,0,-3.798,1,0.266,0.209,0.156,0.254,84.039,Turkey
+42,Aşk Şarkısı - Live,Şanışer,['turkish hip hop'],65,74,0.534,0.551,5,-7.275,1,0.053,0.185,0.106,0.146,91.046,Turkey
+43,GELMEZSEN GELME,Lvbel C5,"['turkce drill', 'turkish trap']",71,73,0.76,0.555,11,-12.659,0,0.0599,0.185,0.0916,0.269,120.003,Turkey
+44,Sevmiş Gibi,Eftalya Yağcı,[],58,74,0.816,0.543,8,-9.358,0,0.093,0.207,0.0927,0.314,110.025,Turkey
+45,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,Turkey
+46,Bu Saatten Sonra,İkilem,"['turkish alt pop', 'turkish pop']",61,73,0.378,0.631,9,-9.049,0,0.113,0.0414,0.0975,0.451,84.221,Turkey
+47,Mahşer,Gökhan Türkmen,['turkish pop'],63,72,0.551,0.632,9,-8.2,0,0.026,0.234,0.0944,0.471,97.919,Turkey
+48,Dinle Beni Bi',Yüzyüzeyken Konuşuruz,['turkish alternative rock'],67,73,0.558,0.68,9,-9.301,0,0.0476,0.56,0.107,0.542,91.967,Turkey
+49,UNUTTUM,UZI,['turkish trap'],77,73,0.699,0.701,0,-6.966,1,0.245,0.0302,0.502,0.762,141.043,Turkey

@@ -1,0 +1,1882 @@
+[
+    {
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 9459985
+                },
+                "genres": [
+                    "latin hip hop",
+                    "reggaeton",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4SsVbpTthjScTS7U2hmr1X",
+                "id": "4SsVbpTthjScTS7U2hmr1X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebe963e7ad5259c34a7ca54319",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174e963e7ad5259c34a7ca54319",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178e963e7ad5259c34a7ca54319",
+                        "width": 160
+                    }
+                ],
+                "name": "Arcángel",
+                "popularity": 87,
+                "type": "artist",
+                "uri": "spotify:artist:4SsVbpTthjScTS7U2hmr1X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 11071187
+                },
+                "genres": [
+                    "colombian pop",
+                    "reggaeton",
+                    "reggaeton colombiano",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0tmwSHipWxN12fsoLcFU3B",
+                "id": "0tmwSHipWxN12fsoLcFU3B",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebf062dac9d2b2e8b732965599",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174f062dac9d2b2e8b732965599",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178f062dac9d2b2e8b732965599",
+                        "width": 160
+                    }
+                ],
+                "name": "Manuel Turizo",
+                "popularity": 85,
+                "type": "artist",
+                "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 61758600
+                },
+                "genres": [
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Bunny",
+                "popularity": 100,
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3185679
+                },
+                "genres": [
+                    "latin arena pop",
+                    "latin pop",
+                    "mexican pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5B8ApeENp4bE4EE3LI8jK2",
+                "id": "5B8ApeENp4bE4EE3LI8jK2",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba27e04ae91ea1d6507bdcbf2",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a27e04ae91ea1d6507bdcbf2",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a27e04ae91ea1d6507bdcbf2",
+                        "width": 160
+                    }
+                ],
+                "name": "Yuridia",
+                "popularity": 78,
+                "type": "artist",
+                "uri": "spotify:artist:5B8ApeENp4bE4EE3LI8jK2"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 5051964
+                },
+                "genres": [
+                    "corrido",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/66ihevNkSYNzRAl44dx6jJ",
+                "id": "66ihevNkSYNzRAl44dx6jJ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc04209dc81bd9d0d6ed09f11",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c04209dc81bd9d0d6ed09f11",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c04209dc81bd9d0d6ed09f11",
+                        "width": 160
+                    }
+                ],
+                "name": "Carin Leon",
+                "popularity": 83,
+                "type": "artist",
+                "uri": "spotify:artist:66ihevNkSYNzRAl44dx6jJ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 61758600
+                },
+                "genres": [
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Bunny",
+                "popularity": 100,
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 167148
+                },
+                "genres": [
+                    "nueva musica mexicana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW",
+                "id": "6XkjpgcEsYab502Vr1bBeW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb45bf70f0efb91282d75c070d",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517445bf70f0efb91282d75c070d",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17845bf70f0efb91282d75c070d",
+                        "width": 160
+                    }
+                ],
+                "name": "Grupo Frontera",
+                "popularity": 78,
+                "type": "artist",
+                "uri": "spotify:artist:6XkjpgcEsYab502Vr1bBeW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 8282572
+                },
+                "genres": [
+                    "argentine hip hop",
+                    "pop venezolano",
+                    "trap argentino",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+                "id": "716NhGYqD1jl2wI1Qkgq36",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517412085fdb28f314e01ef73a19",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
+                        "width": 160
+                    }
+                ],
+                "name": "Bizarrap",
+                "popularity": 86,
+                "type": "artist",
+                "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2168719
+                },
+                "genres": [
+                    "corrido",
+                    "corridos tumbados",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
+                "id": "0ys2OFYzWYB5hRDLCsBqxt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebeb9c852bc6587528a4c9cb85",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174eb9c852bc6587528a4c9cb85",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178eb9c852bc6587528a4c9cb85",
+                        "width": 160
+                    }
+                ],
+                "name": "Fuerza Regida",
+                "popularity": 81,
+                "type": "artist",
+                "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3976710
+                },
+                "genres": [
+                    "latin hip hop",
+                    "reggaeton",
+                    "reggaeton flow",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/12vb80Km0Ew53ABfJOepVz",
+                "id": "12vb80Km0Ew53ABfJOepVz",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb88b99535ed74688cf963d8c8",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517488b99535ed74688cf963d8c8",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17888b99535ed74688cf963d8c8",
+                        "width": 160
+                    }
+                ],
+                "name": "Ñengo Flow",
+                "popularity": 82,
+                "type": "artist",
+                "uri": "spotify:artist:12vb80Km0Ew53ABfJOepVz"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 84988
+                },
+                "genres": [
+                    "urbano latino",
+                    "urbano mexicano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4yjm4SvYqC5FFuLbB6TyHr",
+                "id": "4yjm4SvYqC5FFuLbB6TyHr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebcc9719457660f209e067a10b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174cc9719457660f209e067a10b",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178cc9719457660f209e067a10b",
+                        "width": 160
+                    }
+                ],
+                "name": "Bellakath",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:4yjm4SvYqC5FFuLbB6TyHr"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 61758600
+                },
+                "genres": [
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Bunny",
+                "popularity": 100,
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 61758600
+                },
+                "genres": [
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Bunny",
+                "popularity": 100,
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 61758600
+                },
+                "genres": [
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Bunny",
+                "popularity": 100,
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 5294756
+                },
+                "genres": [
+                    "corrido",
+                    "corridos tumbados",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
+                "id": "0elWFr7TW8piilVRYJUe4P",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebf0a8ce9a84144d76e7d76032",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174f0a8ce9a84144d76e7d76032",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178f0a8ce9a84144d76e7d76032",
+                        "width": 160
+                    }
+                ],
+                "name": "Natanael Cano",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1688571
+                },
+                "genres": [
+                    "corrido",
+                    "norteno",
+                    "nueva musica mexicana",
+                    "sad sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1gW6pz5n1aK249L0GvfQCC",
+                "id": "1gW6pz5n1aK249L0GvfQCC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb25e03a5533582f35e8d6f7a6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517425e03a5533582f35e8d6f7a6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17825e03a5533582f35e8d6f7a6",
+                        "width": 160
+                    }
+                ],
+                "name": "Grupo Marca Registrada",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:1gW6pz5n1aK249L0GvfQCC"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 324096
+                },
+                "genres": [
+                    "nueva musica mexicana",
+                    "sad sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+                "id": "12GqGscKJx3aE4t07u7eVZ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebec0107493cb053eebdd4419b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ec0107493cb053eebdd4419b",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ec0107493cb053eebdd4419b",
+                        "width": 160
+                    }
+                ],
+                "name": "Peso Pluma",
+                "popularity": 79,
+                "type": "artist",
+                "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4695319
+                },
+                "genres": [
+                    "banda",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "ranchera"
+                ],
+                "href": "https://api.spotify.com/v1/artists/49EE6lVLgU8sp7dFgPshgM",
+                "id": "49EE6lVLgU8sp7dFgPshgM",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb18129b218ae9c07848ddc759",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517418129b218ae9c07848ddc759",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17818129b218ae9c07848ddc759",
+                        "width": 160
+                    }
+                ],
+                "name": "La Adictiva",
+                "popularity": 75,
+                "type": "artist",
+                "uri": "spotify:artist:49EE6lVLgU8sp7dFgPshgM"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 34880100
+                },
+                "genres": [
+                    "puerto rican pop",
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+                "id": "1i8SpTcr7yvPOmcqrbnVXY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb39ce949d62ff47fc1de1a2d9",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517439ce949d62ff47fc1de1a2d9",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17839ce949d62ff47fc1de1a2d9",
+                        "width": 160
+                    }
+                ],
+                "name": "Ozuna",
+                "popularity": 90,
+                "type": "artist",
+                "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1839589
+                },
+                "genres": [
+                    "corrido",
+                    "nueva musica mexicana",
+                    "sad sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0pePYDrJGk8gqMRbXrLJC8",
+                "id": "0pePYDrJGk8gqMRbXrLJC8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebfebaefd2a213c01cab62a61b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174febaefd2a213c01cab62a61b",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178febaefd2a213c01cab62a61b",
+                        "width": 160
+                    }
+                ],
+                "name": "Luis R Conriquez",
+                "popularity": 84,
+                "type": "artist",
+                "uri": "spotify:artist:0pePYDrJGk8gqMRbXrLJC8"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2168719
+                },
+                "genres": [
+                    "corrido",
+                    "corridos tumbados",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
+                "id": "0ys2OFYzWYB5hRDLCsBqxt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebeb9c852bc6587528a4c9cb85",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174eb9c852bc6587528a4c9cb85",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178eb9c852bc6587528a4c9cb85",
+                        "width": 160
+                    }
+                ],
+                "name": "Fuerza Regida",
+                "popularity": 81,
+                "type": "artist",
+                "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 14890249
+                },
+                "genres": [
+                    "puerto rican pop",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb923e85a0eefbab49fd8d4920",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174923e85a0eefbab49fd8d4920",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178923e85a0eefbab49fd8d4920",
+                        "width": 160
+                    }
+                ],
+                "name": "Rauw Alejandro",
+                "popularity": 91,
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2168719
+                },
+                "genres": [
+                    "corrido",
+                    "corridos tumbados",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
+                "id": "0ys2OFYzWYB5hRDLCsBqxt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebeb9c852bc6587528a4c9cb85",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174eb9c852bc6587528a4c9cb85",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178eb9c852bc6587528a4c9cb85",
+                        "width": 160
+                    }
+                ],
+                "name": "Fuerza Regida",
+                "popularity": 81,
+                "type": "artist",
+                "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 97521
+                },
+                "genres": [
+                    "corrido",
+                    "corridos tumbados",
+                    "musica mexicana",
+                    "nueva musica mexicana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3l9G1G9MxH6DaRhwLklaf5",
+                "id": "3l9G1G9MxH6DaRhwLklaf5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb11a0227f9c8e3a70d2ce9b4c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517411a0227f9c8e3a70d2ce9b4c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17811a0227f9c8e3a70d2ce9b4c",
+                        "width": 160
+                    }
+                ],
+                "name": "Oscar Maydon",
+                "popularity": 69,
+                "type": "artist",
+                "uri": "spotify:artist:3l9G1G9MxH6DaRhwLklaf5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 8345379
+                },
+                "genres": [
+                    "musica mexicana",
+                    "norteno",
+                    "nueva musica mexicana",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+                "id": "1dKdetem2xEmjgvyymzytS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb41c3d8abffb85249548ee2f9",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517441c3d8abffb85249548ee2f9",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17841c3d8abffb85249548ee2f9",
+                        "width": 160
+                    }
+                ],
+                "name": "Grupo Firme",
+                "popularity": 82,
+                "type": "artist",
+                "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 61758600
+                },
+                "genres": [
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Bunny",
+                "popularity": 100,
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3063496
+                },
+                "genres": [
+                    "colombian pop",
+                    "pop reggaeton",
+                    "reggaeton colombiano",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2LRoIwlKmHjgvigdNGBHNo",
+                "id": "2LRoIwlKmHjgvigdNGBHNo",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebbf108de19539a11669610d67",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174bf108de19539a11669610d67",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178bf108de19539a11669610d67",
+                        "width": 160
+                    }
+                ],
+                "name": "Feid",
+                "popularity": 91,
+                "type": "artist",
+                "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4844877
+                },
+                "genres": [
+                    "corridos tumbados",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+                "id": "7Gi6gjaWy3DxyilpF1a8Is",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb16c368126de1ac35eee5362",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b16c368126de1ac35eee5362",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b16c368126de1ac35eee5362",
+                        "width": 160
+                    }
+                ],
+                "name": "Junior H",
+                "popularity": 85,
+                "type": "artist",
+                "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 5051964
+                },
+                "genres": [
+                    "corrido",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/66ihevNkSYNzRAl44dx6jJ",
+                "id": "66ihevNkSYNzRAl44dx6jJ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc04209dc81bd9d0d6ed09f11",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c04209dc81bd9d0d6ed09f11",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c04209dc81bd9d0d6ed09f11",
+                        "width": 160
+                    }
+                ],
+                "name": "Carin Leon",
+                "popularity": 83,
+                "type": "artist",
+                "uri": "spotify:artist:66ihevNkSYNzRAl44dx6jJ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1688571
+                },
+                "genres": [
+                    "corrido",
+                    "norteno",
+                    "nueva musica mexicana",
+                    "sad sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1gW6pz5n1aK249L0GvfQCC",
+                "id": "1gW6pz5n1aK249L0GvfQCC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb25e03a5533582f35e8d6f7a6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517425e03a5533582f35e8d6f7a6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17825e03a5533582f35e8d6f7a6",
+                        "width": 160
+                    }
+                ],
+                "name": "Grupo Marca Registrada",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:1gW6pz5n1aK249L0GvfQCC"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4844877
+                },
+                "genres": [
+                    "corridos tumbados",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+                "id": "7Gi6gjaWy3DxyilpF1a8Is",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb16c368126de1ac35eee5362",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b16c368126de1ac35eee5362",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b16c368126de1ac35eee5362",
+                        "width": 160
+                    }
+                ],
+                "name": "Junior H",
+                "popularity": 85,
+                "type": "artist",
+                "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 30980009
+                },
+                "genres": [
+                    "reggaeton",
+                    "reggaeton colombiano",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+                "id": "790FomKkXshlbRYZFtlgla",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb0403f4e5b7cb258665d2ed3d",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051740403f4e5b7cb258665d2ed3d",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1780403f4e5b7cb258665d2ed3d",
+                        "width": 160
+                    }
+                ],
+                "name": "KAROL G",
+                "popularity": 87,
+                "type": "artist",
+                "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 267463
+                },
+                "genres": [
+                    "nueva musica mexicana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1gJdf4Yybu4X5A2xYV3NMV",
+                "id": "1gJdf4Yybu4X5A2xYV3NMV",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb837907981113b938598c697f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174837907981113b938598c697f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178837907981113b938598c697f",
+                        "width": 160
+                    }
+                ],
+                "name": "Eden Muñoz",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:1gJdf4Yybu4X5A2xYV3NMV"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 6500135
+                },
+                "genres": [
+                    "r&b en espanol"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
+                "id": "7ltDVBr6mKbRvohxheJ9h1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d7bb678bef6d2f26110cae49",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d7bb678bef6d2f26110cae49",
+                        "width": 160
+                    }
+                ],
+                "name": "ROSALÍA",
+                "popularity": 86,
+                "type": "artist",
+                "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1688571
+                },
+                "genres": [
+                    "corrido",
+                    "norteno",
+                    "nueva musica mexicana",
+                    "sad sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1gW6pz5n1aK249L0GvfQCC",
+                "id": "1gW6pz5n1aK249L0GvfQCC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb25e03a5533582f35e8d6f7a6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517425e03a5533582f35e8d6f7a6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17825e03a5533582f35e8d6f7a6",
+                        "width": 160
+                    }
+                ],
+                "name": "Grupo Marca Registrada",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:1gW6pz5n1aK249L0GvfQCC"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 324096
+                },
+                "genres": [
+                    "nueva musica mexicana",
+                    "sad sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+                "id": "12GqGscKJx3aE4t07u7eVZ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebec0107493cb053eebdd4419b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ec0107493cb053eebdd4419b",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ec0107493cb053eebdd4419b",
+                        "width": 160
+                    }
+                ],
+                "name": "Peso Pluma",
+                "popularity": 79,
+                "type": "artist",
+                "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 26011348
+                },
+                "genres": [
+                    "colombian pop",
+                    "dance pop",
+                    "latin pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "id": "0EmeFodog0BfCgMzAIvKQp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174284894d68fe2f80cad555110",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178284894d68fe2f80cad555110",
+                        "width": 160
+                    }
+                ],
+                "name": "Shakira",
+                "popularity": 87,
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 25192634
+                },
+                "genres": [
+                    "pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                "id": "6KImCVD70vtIoJWnq6nGn3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178f7db7c8ede90a019c54590bb",
+                        "width": 160
+                    }
+                ],
+                "name": "Harry Styles",
+                "popularity": 90,
+                "type": "artist",
+                "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1611495
+                },
+                "genres": [
+                    "nigerian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/46pWGuE3dSwY3bMMXGBvVS",
+                "id": "46pWGuE3dSwY3bMMXGBvVS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5c77b5deaf9aef3e9ccec31c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745c77b5deaf9aef3e9ccec31c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785c77b5deaf9aef3e9ccec31c",
+                        "width": 160
+                    }
+                ],
+                "name": "Rema",
+                "popularity": 81,
+                "type": "artist",
+                "uri": "spotify:artist:46pWGuE3dSwY3bMMXGBvVS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2345462
+                },
+                "genres": [
+                    "corrido",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3hTffafUYLLgO4yuPAxb5U",
+                "id": "3hTffafUYLLgO4yuPAxb5U",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebf76b29c174b08ff721d97a0c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174f76b29c174b08ff721d97a0c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178f76b29c174b08ff721d97a0c",
+                        "width": 160
+                    }
+                ],
+                "name": "Lenin Ramírez",
+                "popularity": 74,
+                "type": "artist",
+                "uri": "spotify:artist:3hTffafUYLLgO4yuPAxb5U"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4844877
+                },
+                "genres": [
+                    "corridos tumbados",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+                "id": "7Gi6gjaWy3DxyilpF1a8Is",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb16c368126de1ac35eee5362",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b16c368126de1ac35eee5362",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b16c368126de1ac35eee5362",
+                        "width": 160
+                    }
+                ],
+                "name": "Junior H",
+                "popularity": 85,
+                "type": "artist",
+                "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 267463
+                },
+                "genres": [
+                    "nueva musica mexicana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1gJdf4Yybu4X5A2xYV3NMV",
+                "id": "1gJdf4Yybu4X5A2xYV3NMV",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb837907981113b938598c697f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174837907981113b938598c697f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178837907981113b938598c697f",
+                        "width": 160
+                    }
+                ],
+                "name": "Eden Muñoz",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:1gJdf4Yybu4X5A2xYV3NMV"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 36196634
+                },
+                "genres": [
+                    "reggaeton",
+                    "reggaeton colombiano",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+                "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745d0fc400392250a750a9403e",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785d0fc400392250a750a9403e",
+                        "width": 160
+                    }
+                ],
+                "name": "J Balvin",
+                "popularity": 88,
+                "type": "artist",
+                "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 61758600
+                },
+                "genres": [
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Bunny",
+                "popularity": 100,
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 30980009
+                },
+                "genres": [
+                    "reggaeton",
+                    "reggaeton colombiano",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+                "id": "790FomKkXshlbRYZFtlgla",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb0403f4e5b7cb258665d2ed3d",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051740403f4e5b7cb258665d2ed3d",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1780403f4e5b7cb258665d2ed3d",
+                        "width": 160
+                    }
+                ],
+                "name": "KAROL G",
+                "popularity": 87,
+                "type": "artist",
+                "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3885552
+                },
+                "genres": [
+                    "corrido",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "sad sierreno",
+                    "sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0vjeBgTzYTwmYoVySJzXGD",
+                "id": "0vjeBgTzYTwmYoVySJzXGD",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebf8143107702a891aea823dbc",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174f8143107702a891aea823dbc",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178f8143107702a891aea823dbc",
+                        "width": 160
+                    }
+                ],
+                "name": "Virlan Garcia",
+                "popularity": 69,
+                "type": "artist",
+                "uri": "spotify:artist:0vjeBgTzYTwmYoVySJzXGD"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 61758600
+                },
+                "genres": [
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Bunny",
+                "popularity": 100,
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 12660823
+                },
+                "genres": [
+                    "mariachi",
+                    "musica mexicana",
+                    "nueva musica mexicana",
+                    "ranchera"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0XwVARXT135rw8lyw1EeWP",
+                "id": "0XwVARXT135rw8lyw1EeWP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba83122d3649879afd7bf319a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a83122d3649879afd7bf319a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a83122d3649879afd7bf319a",
+                        "width": 160
+                    }
+                ],
+                "name": "Christian Nodal",
+                "popularity": 82,
+                "type": "artist",
+                "uri": "spotify:artist:0XwVARXT135rw8lyw1EeWP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 61758600
+                },
+                "genres": [
+                    "reggaeton",
+                    "trap latino",
+                    "urbano latino"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748ee9a6f54dcbd4bc95126b14",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788ee9a6f54dcbd4bc95126b14",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Bunny",
+                "popularity": 100,
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2038036
+                },
+                "genres": [
+                    "banda",
+                    "musica mexicana",
+                    "norteno",
+                    "sad sierreno"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1bfl0AU8SqmLkElptOprhC",
+                "id": "1bfl0AU8SqmLkElptOprhC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb804e806cfc99ff9cb676a8cd",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174804e806cfc99ff9cb676a8cd",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178804e806cfc99ff9cb676a8cd",
+                        "width": 160
+                    }
+                ],
+                "name": "Julión Álvarez y su Norteño Banda",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:1bfl0AU8SqmLkElptOprhC"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1754 @@
+[
+    {
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 31563
+                },
+                "genres": [
+                    "turkish alt pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1Zj4GtouAnxHq4qw7ooLfm",
+                "id": "1Zj4GtouAnxHq4qw7ooLfm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc587a25851fa17e282412b7d",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c587a25851fa17e282412b7d",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c587a25851fa17e282412b7d",
+                        "width": 160
+                    }
+                ],
+                "name": "Mert Demir",
+                "popularity": 70,
+                "type": "artist",
+                "uri": "spotify:artist:1Zj4GtouAnxHq4qw7ooLfm"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2479096
+                },
+                "genres": [
+                    "turkish pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1dpqJqIuNqideTvmxBsSku",
+                "id": "1dpqJqIuNqideTvmxBsSku",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb15457aeb9f5160d822aa69f0",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517415457aeb9f5160d822aa69f0",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17815457aeb9f5160d822aa69f0",
+                        "width": 160
+                    }
+                ],
+                "name": "Mabel Matiz",
+                "popularity": 75,
+                "type": "artist",
+                "uri": "spotify:artist:1dpqJqIuNqideTvmxBsSku"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 236809
+                },
+                "genres": [
+                    "turkish alt pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3ZKkHPTZTq8z8pokwZiInd",
+                "id": "3ZKkHPTZTq8z8pokwZiInd",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebef0be6b94f46a43934499b15",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ef0be6b94f46a43934499b15",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ef0be6b94f46a43934499b15",
+                        "width": 160
+                    }
+                ],
+                "name": "KÖFN",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:3ZKkHPTZTq8z8pokwZiInd"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 34523
+                },
+                "genres": [
+                    "new school turkce rap",
+                    "turkce trap metal"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2qW4eDZVrF6mlcuaTBEMjh",
+                "id": "2qW4eDZVrF6mlcuaTBEMjh",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb00079aed92f2260c31a33f51",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517400079aed92f2260c31a33f51",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17800079aed92f2260c31a33f51",
+                        "width": 160
+                    }
+                ],
+                "name": "DEHA INC.",
+                "popularity": 60,
+                "type": "artist",
+                "uri": "spotify:artist:2qW4eDZVrF6mlcuaTBEMjh"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 246598
+                },
+                "genres": [
+                    "turkce slow sarkilar"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5PRW6j58xEEWL4DDVEITKT",
+                "id": "5PRW6j58xEEWL4DDVEITKT",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6f290747bef83b68a2939af6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051746f290747bef83b68a2939af6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1786f290747bef83b68a2939af6",
+                        "width": 160
+                    }
+                ],
+                "name": "Dedublüman",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:5PRW6j58xEEWL4DDVEITKT"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 273047
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/1CcZoULzFHa8Uhwo6OlQcp",
+                "id": "1CcZoULzFHa8Uhwo6OlQcp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb2b839eece9cc94de13269c8",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b2b839eece9cc94de13269c8",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b2b839eece9cc94de13269c8",
+                        "width": 160
+                    }
+                ],
+                "name": "Semicenk",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:1CcZoULzFHa8Uhwo6OlQcp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 420174
+                },
+                "genres": [
+                    "turkish trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6sBSLIunx1Je0Y2T77wpkP",
+                "id": "6sBSLIunx1Je0Y2T77wpkP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb1187ec9732c0be3a6ba3299f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051741187ec9732c0be3a6ba3299f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1781187ec9732c0be3a6ba3299f",
+                        "width": 160
+                    }
+                ],
+                "name": "Motive",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:6sBSLIunx1Je0Y2T77wpkP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2279387
+                },
+                "genres": [
+                    "turkish trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/51DevdOxIJin6DB1FXJpD1",
+                "id": "51DevdOxIJin6DB1FXJpD1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebcc943671af2c56498c81c731",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174cc943671af2c56498c81c731",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178cc943671af2c56498c81c731",
+                        "width": 160
+                    }
+                ],
+                "name": "UZI",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 257393
+                },
+                "genres": [
+                    "turkce kadin rap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0L3wrFI3QcbXAvFL7IaPQX",
+                "id": "0L3wrFI3QcbXAvFL7IaPQX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb29b1cba034d9686806add1d6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517429b1cba034d9686806add1d6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17829b1cba034d9686806add1d6",
+                        "width": 160
+                    }
+                ],
+                "name": "Güneş",
+                "popularity": 70,
+                "type": "artist",
+                "uri": "spotify:artist:0L3wrFI3QcbXAvFL7IaPQX"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 706122
+                },
+                "genres": [
+                    "turkish alt pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4otJVkrLLqDF8OxFJOigme",
+                "id": "4otJVkrLLqDF8OxFJOigme",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba64fa4fcc8b525afa08ae8ef",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a64fa4fcc8b525afa08ae8ef",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a64fa4fcc8b525afa08ae8ef",
+                        "width": 160
+                    }
+                ],
+                "name": "Mavi Gri",
+                "popularity": 69,
+                "type": "artist",
+                "uri": "spotify:artist:4otJVkrLLqDF8OxFJOigme"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2279387
+                },
+                "genres": [
+                    "turkish trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/51DevdOxIJin6DB1FXJpD1",
+                "id": "51DevdOxIJin6DB1FXJpD1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebcc943671af2c56498c81c731",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174cc943671af2c56498c81c731",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178cc943671af2c56498c81c731",
+                        "width": 160
+                    }
+                ],
+                "name": "UZI",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 30815
+                },
+                "genres": [
+                    "turkce slow sarkilar"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3O6mcOK5C1hkMfwrSkNPMM",
+                "id": "3O6mcOK5C1hkMfwrSkNPMM",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8c6505d5779f884ec40860b7",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748c6505d5779f884ec40860b7",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788c6505d5779f884ec40860b7",
+                        "width": 160
+                    }
+                ],
+                "name": "Can Koç",
+                "popularity": 61,
+                "type": "artist",
+                "uri": "spotify:artist:3O6mcOK5C1hkMfwrSkNPMM"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 777436
+                },
+                "genres": [
+                    "deep turkish pop",
+                    "persian pop",
+                    "turkish pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4StjyzjcmZ7a9QncHVf0pu",
+                "id": "4StjyzjcmZ7a9QncHVf0pu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6cbbee874a1caf4dae56cd80",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051746cbbee874a1caf4dae56cd80",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1786cbbee874a1caf4dae56cd80",
+                        "width": 160
+                    }
+                ],
+                "name": "Simge",
+                "popularity": 65,
+                "type": "artist",
+                "uri": "spotify:artist:4StjyzjcmZ7a9QncHVf0pu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 706122
+                },
+                "genres": [
+                    "turkish alt pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4otJVkrLLqDF8OxFJOigme",
+                "id": "4otJVkrLLqDF8OxFJOigme",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba64fa4fcc8b525afa08ae8ef",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a64fa4fcc8b525afa08ae8ef",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a64fa4fcc8b525afa08ae8ef",
+                        "width": 160
+                    }
+                ],
+                "name": "Mavi Gri",
+                "popularity": 69,
+                "type": "artist",
+                "uri": "spotify:artist:4otJVkrLLqDF8OxFJOigme"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3509731
+                },
+                "genres": [
+                    "turkish hip hop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2boacFGRX1WIo7NFS8B0F2",
+                "id": "2boacFGRX1WIo7NFS8B0F2",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5b6dcaf9686ba4167b454e37",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745b6dcaf9686ba4167b454e37",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785b6dcaf9686ba4167b454e37",
+                        "width": 160
+                    }
+                ],
+                "name": "Gazapizm",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:2boacFGRX1WIo7NFS8B0F2"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1972429
+                },
+                "genres": [
+                    "turkish alt pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4XP7cGw4t8BqZ8Du5q3bHg",
+                "id": "4XP7cGw4t8BqZ8Du5q3bHg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebdbb9c3d699d2aade408e055c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174dbb9c3d699d2aade408e055c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178dbb9c3d699d2aade408e055c",
+                        "width": 160
+                    }
+                ],
+                "name": "Emir Can İğrek",
+                "popularity": 71,
+                "type": "artist",
+                "uri": "spotify:artist:4XP7cGw4t8BqZ8Du5q3bHg"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 373822
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/6bGOmNBU1AOgttgOjh0ldf",
+                "id": "6bGOmNBU1AOgttgOjh0ldf",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb259e1bb4aaa5aa63c5dfd2af",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174259e1bb4aaa5aa63c5dfd2af",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178259e1bb4aaa5aa63c5dfd2af",
+                        "width": 160
+                    }
+                ],
+                "name": "Ati242",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:6bGOmNBU1AOgttgOjh0ldf"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 23441
+                },
+                "genres": [
+                    "new school turkce rap",
+                    "turkce drill"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1GMwSpFzrLd12jUX15bHB6",
+                "id": "1GMwSpFzrLd12jUX15bHB6",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc7e4a03bad68e9b17bcf5146",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c7e4a03bad68e9b17bcf5146",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c7e4a03bad68e9b17bcf5146",
+                        "width": 160
+                    }
+                ],
+                "name": "BLOK3",
+                "popularity": 59,
+                "type": "artist",
+                "uri": "spotify:artist:1GMwSpFzrLd12jUX15bHB6"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 888743
+                },
+                "genres": [
+                    "turkish alt pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2aZlYOswKNlrwqpuTsckKd",
+                "id": "2aZlYOswKNlrwqpuTsckKd",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb32505eca29cd91a448e21db7",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517432505eca29cd91a448e21db7",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17832505eca29cd91a448e21db7",
+                        "width": 160
+                    }
+                ],
+                "name": "Madrigal",
+                "popularity": 68,
+                "type": "artist",
+                "uri": "spotify:artist:2aZlYOswKNlrwqpuTsckKd"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 246598
+                },
+                "genres": [
+                    "turkce slow sarkilar"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5PRW6j58xEEWL4DDVEITKT",
+                "id": "5PRW6j58xEEWL4DDVEITKT",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6f290747bef83b68a2939af6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051746f290747bef83b68a2939af6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1786f290747bef83b68a2939af6",
+                        "width": 160
+                    }
+                ],
+                "name": "Dedublüman",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:5PRW6j58xEEWL4DDVEITKT"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 128730
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/25gzpFRLdteuie1gW4a4hK",
+                "id": "25gzpFRLdteuie1gW4a4hK",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb10b8e7b7472fd8c482f555d6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517410b8e7b7472fd8c482f555d6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17810b8e7b7472fd8c482f555d6",
+                        "width": 160
+                    }
+                ],
+                "name": "Sakiler",
+                "popularity": 63,
+                "type": "artist",
+                "uri": "spotify:artist:25gzpFRLdteuie1gW4a4hK"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 22398
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/1gta8KxWev006kmzUCM0a5",
+                "id": "1gta8KxWev006kmzUCM0a5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc8c6440ed1c8e0cc1a08e95b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c8c6440ed1c8e0cc1a08e95b",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c8c6440ed1c8e0cc1a08e95b",
+                        "width": 160
+                    }
+                ],
+                "name": "ATE",
+                "popularity": 60,
+                "type": "artist",
+                "uri": "spotify:artist:1gta8KxWev006kmzUCM0a5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 257393
+                },
+                "genres": [
+                    "turkce kadin rap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0L3wrFI3QcbXAvFL7IaPQX",
+                "id": "0L3wrFI3QcbXAvFL7IaPQX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb29b1cba034d9686806add1d6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517429b1cba034d9686806add1d6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17829b1cba034d9686806add1d6",
+                        "width": 160
+                    }
+                ],
+                "name": "Güneş",
+                "popularity": 70,
+                "type": "artist",
+                "uri": "spotify:artist:0L3wrFI3QcbXAvFL7IaPQX"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1757608
+                },
+                "genres": [
+                    "turkish pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1mpOD8ZwHnbsryIuXWq0R1",
+                "id": "1mpOD8ZwHnbsryIuXWq0R1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba45ccb59fe03d5a2c9527554",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a45ccb59fe03d5a2c9527554",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a45ccb59fe03d5a2c9527554",
+                        "width": 160
+                    }
+                ],
+                "name": "Zeynep Bastık",
+                "popularity": 67,
+                "type": "artist",
+                "uri": "spotify:artist:1mpOD8ZwHnbsryIuXWq0R1"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 117883
+                },
+                "genres": [
+                    "turkish trap pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3BVPc9s4JXzM6O1InlLxED",
+                "id": "3BVPc9s4JXzM6O1InlLxED",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7d1302a1f2cdd316474bf8b5",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747d1302a1f2cdd316474bf8b5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787d1302a1f2cdd316474bf8b5",
+                        "width": 160
+                    }
+                ],
+                "name": "Mavi",
+                "popularity": 68,
+                "type": "artist",
+                "uri": "spotify:artist:3BVPc9s4JXzM6O1InlLxED"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 5392306
+                },
+                "genres": [
+                    "turkish hip hop",
+                    "turkish trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6LnJKrtFnTEGdbWQ2riWCL",
+                "id": "6LnJKrtFnTEGdbWQ2riWCL",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb107a201f2039a163564972cf",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174107a201f2039a163564972cf",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178107a201f2039a163564972cf",
+                        "width": 160
+                    }
+                ],
+                "name": "Ezhel",
+                "popularity": 73,
+                "type": "artist",
+                "uri": "spotify:artist:6LnJKrtFnTEGdbWQ2riWCL"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1859010
+                },
+                "genres": [
+                    "turkish alternative",
+                    "turkish alternative rock",
+                    "turkish rock"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5ixQSDvAMa5O758xG8MWXT",
+                "id": "5ixQSDvAMa5O758xG8MWXT",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb32c198a198e8efe489b8948a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517432c198a198e8efe489b8948a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17832c198a198e8efe489b8948a",
+                        "width": 160
+                    }
+                ],
+                "name": "mor ve ötesi",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:5ixQSDvAMa5O758xG8MWXT"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 888743
+                },
+                "genres": [
+                    "turkish alt pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2aZlYOswKNlrwqpuTsckKd",
+                "id": "2aZlYOswKNlrwqpuTsckKd",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb32505eca29cd91a448e21db7",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517432505eca29cd91a448e21db7",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17832505eca29cd91a448e21db7",
+                        "width": 160
+                    }
+                ],
+                "name": "Madrigal",
+                "popularity": 68,
+                "type": "artist",
+                "uri": "spotify:artist:2aZlYOswKNlrwqpuTsckKd"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1338471
+                },
+                "genres": [
+                    "turkce drill"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6CPZWzcKiOKkHn4L2XI4i2",
+                "id": "6CPZWzcKiOKkHn4L2XI4i2",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb258ed0ff267925bbf207dc2d",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174258ed0ff267925bbf207dc2d",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178258ed0ff267925bbf207dc2d",
+                        "width": 160
+                    }
+                ],
+                "name": "cakal",
+                "popularity": 69,
+                "type": "artist",
+                "uri": "spotify:artist:6CPZWzcKiOKkHn4L2XI4i2"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 22180
+                },
+                "genres": [
+                    "turkish trap pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2SqjgMx7edUilMzPosMR1P",
+                "id": "2SqjgMx7edUilMzPosMR1P",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5d0b6898473780c3f1938dbf",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745d0b6898473780c3f1938dbf",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785d0b6898473780c3f1938dbf",
+                        "width": 160
+                    }
+                ],
+                "name": "Tekir",
+                "popularity": 63,
+                "type": "artist",
+                "uri": "spotify:artist:2SqjgMx7edUilMzPosMR1P"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2279387
+                },
+                "genres": [
+                    "turkish trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/51DevdOxIJin6DB1FXJpD1",
+                "id": "51DevdOxIJin6DB1FXJpD1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebcc943671af2c56498c81c731",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174cc943671af2c56498c81c731",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178cc943671af2c56498c81c731",
+                        "width": 160
+                    }
+                ],
+                "name": "UZI",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 273047
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/1CcZoULzFHa8Uhwo6OlQcp",
+                "id": "1CcZoULzFHa8Uhwo6OlQcp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb2b839eece9cc94de13269c8",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b2b839eece9cc94de13269c8",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b2b839eece9cc94de13269c8",
+                        "width": 160
+                    }
+                ],
+                "name": "Semicenk",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:1CcZoULzFHa8Uhwo6OlQcp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 246598
+                },
+                "genres": [
+                    "turkce slow sarkilar"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5PRW6j58xEEWL4DDVEITKT",
+                "id": "5PRW6j58xEEWL4DDVEITKT",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6f290747bef83b68a2939af6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051746f290747bef83b68a2939af6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1786f290747bef83b68a2939af6",
+                        "width": 160
+                    }
+                ],
+                "name": "Dedublüman",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:5PRW6j58xEEWL4DDVEITKT"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1544857
+                },
+                "genres": [
+                    "turkish trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1ITjgqpqMDJlqZGAK3mlPQ",
+                "id": "1ITjgqpqMDJlqZGAK3mlPQ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb49fb3740c4388d2121ae5f82",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517449fb3740c4388d2121ae5f82",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17849fb3740c4388d2121ae5f82",
+                        "width": 160
+                    }
+                ],
+                "name": "Sefo",
+                "popularity": 70,
+                "type": "artist",
+                "uri": "spotify:artist:1ITjgqpqMDJlqZGAK3mlPQ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 114564
+                },
+                "genres": [
+                    "turkish singer-songwriter"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7DDrfx7EEOeHSZUkpTIn59",
+                "id": "7DDrfx7EEOeHSZUkpTIn59",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7336d1c81a00443c3a4002cf",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747336d1c81a00443c3a4002cf",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787336d1c81a00443c3a4002cf",
+                        "width": 160
+                    }
+                ],
+                "name": "Berkay Altunyay",
+                "popularity": 61,
+                "type": "artist",
+                "uri": "spotify:artist:7DDrfx7EEOeHSZUkpTIn59"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1921281
+                },
+                "genres": [
+                    "turkish alt pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0PhqM7UAxtvWYi5j4MwxSl",
+                "id": "0PhqM7UAxtvWYi5j4MwxSl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7b2465112b4b855f2e66ead6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747b2465112b4b855f2e66ead6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787b2465112b4b855f2e66ead6",
+                        "width": 160
+                    }
+                ],
+                "name": "Dolu Kadehi Ters Tut",
+                "popularity": 68,
+                "type": "artist",
+                "uri": "spotify:artist:0PhqM7UAxtvWYi5j4MwxSl"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 956000
+                },
+                "genres": [
+                    "turkish alternative rock"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4Vr0nv4nM4aqWfj76zDTTp",
+                "id": "4Vr0nv4nM4aqWfj76zDTTp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba14fd21d411cb52a266bb69c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a14fd21d411cb52a266bb69c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a14fd21d411cb52a266bb69c",
+                        "width": 160
+                    }
+                ],
+                "name": "Yaşlı Amca",
+                "popularity": 64,
+                "type": "artist",
+                "uri": "spotify:artist:4Vr0nv4nM4aqWfj76zDTTp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2279387
+                },
+                "genres": [
+                    "turkish trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/51DevdOxIJin6DB1FXJpD1",
+                "id": "51DevdOxIJin6DB1FXJpD1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebcc943671af2c56498c81c731",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174cc943671af2c56498c81c731",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178cc943671af2c56498c81c731",
+                        "width": 160
+                    }
+                ],
+                "name": "UZI",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 273047
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/1CcZoULzFHa8Uhwo6OlQcp",
+                "id": "1CcZoULzFHa8Uhwo6OlQcp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb2b839eece9cc94de13269c8",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b2b839eece9cc94de13269c8",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b2b839eece9cc94de13269c8",
+                        "width": 160
+                    }
+                ],
+                "name": "Semicenk",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:1CcZoULzFHa8Uhwo6OlQcp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2719051
+                },
+                "genres": [
+                    "chill pop",
+                    "pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+                "id": "2txHhyCwHjUEpJjWrEyqyX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7e75420ae58cf25941cb2cd4",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747e75420ae58cf25941cb2cd4",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787e75420ae58cf25941cb2cd4",
+                        "width": 160
+                    }
+                ],
+                "name": "Tom Odell",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2hiKZUSxd7c4Ab57KAQ3SW"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 167848
+                },
+                "genres": [
+                    "turkish alt pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2hiKZUSxd7c4Ab57KAQ3SW",
+                "id": "2hiKZUSxd7c4Ab57KAQ3SW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebf53bff983e851bd3db564046",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174f53bff983e851bd3db564046",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178f53bff983e851bd3db564046",
+                        "width": 160
+                    }
+                ],
+                "name": "Rei 6",
+                "popularity": 62,
+                "type": "artist",
+                "uri": "spotify:artist:2hiKZUSxd7c4Ab57KAQ3SW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 63753089
+                },
+                "genres": [
+                    "detroit hip hop",
+                    "hip hop",
+                    "rap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+                "id": "7dGJo4pcD2V6oG8kP0tJRR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a00b11c129b27a88fc72f36b",
+                        "width": 160
+                    }
+                ],
+                "name": "Eminem",
+                "popularity": 92,
+                "type": "artist",
+                "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1070300
+                },
+                "genres": [
+                    "turkish hip hop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5LUxu287CsPM7jy3yS3l86",
+                "id": "5LUxu287CsPM7jy3yS3l86",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb655759d93a8fdc582afc3565",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174655759d93a8fdc582afc3565",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178655759d93a8fdc582afc3565",
+                        "width": 160
+                    }
+                ],
+                "name": "Şanışer",
+                "popularity": 65,
+                "type": "artist",
+                "uri": "spotify:artist:5LUxu287CsPM7jy3yS3l86"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1034121
+                },
+                "genres": [
+                    "turkce drill",
+                    "turkish trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0V2oXYR7DtrZAEFeILRW2r",
+                "id": "0V2oXYR7DtrZAEFeILRW2r",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc9c4776898beb7a32befc35c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c9c4776898beb7a32befc35c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c9c4776898beb7a32befc35c",
+                        "width": 160
+                    }
+                ],
+                "name": "Lvbel C5",
+                "popularity": 71,
+                "type": "artist",
+                "uri": "spotify:artist:0V2oXYR7DtrZAEFeILRW2r"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4935
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/27JkefjyyNpoRTWGDIt6Tc",
+                "id": "27JkefjyyNpoRTWGDIt6Tc",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebbe0f3c6c5d0a5fb31d3f2087",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174be0f3c6c5d0a5fb31d3f2087",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178be0f3c6c5d0a5fb31d3f2087",
+                        "width": 160
+                    }
+                ],
+                "name": "Eftalya Yağcı",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:27JkefjyyNpoRTWGDIt6Tc"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3481893
+                },
+                "genres": [
+                    "rap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebdf9a1555f53a20087b8c5a5c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174df9a1555f53a20087b8c5a5c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178df9a1555f53a20087b8c5a5c",
+                        "width": 160
+                    }
+                ],
+                "name": "Metro Boomin",
+                "popularity": 92,
+                "type": "artist",
+                "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 126608
+                },
+                "genres": [
+                    "turkish alt pop",
+                    "turkish pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4hjJDrv2KkIEW1AslTEtv3",
+                "id": "4hjJDrv2KkIEW1AslTEtv3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb11145b7886310a9c957dbf8",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b11145b7886310a9c957dbf8",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b11145b7886310a9c957dbf8",
+                        "width": 160
+                    }
+                ],
+                "name": "İkilem",
+                "popularity": 61,
+                "type": "artist",
+                "uri": "spotify:artist:4hjJDrv2KkIEW1AslTEtv3"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 928902
+                },
+                "genres": [
+                    "turkish pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4uGB0nZ5d1iCXS3sHR3pzm",
+                "id": "4uGB0nZ5d1iCXS3sHR3pzm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb2efa7f8e0d418ce1ec5ad848",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051742efa7f8e0d418ce1ec5ad848",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1782efa7f8e0d418ce1ec5ad848",
+                        "width": 160
+                    }
+                ],
+                "name": "Gökhan Türkmen",
+                "popularity": 63,
+                "type": "artist",
+                "uri": "spotify:artist:4uGB0nZ5d1iCXS3sHR3pzm"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2399144
+                },
+                "genres": [
+                    "turkish alternative rock"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7gobcoscOfsY0nOeqqFzvU",
+                "id": "7gobcoscOfsY0nOeqqFzvU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb66711988f3b06cb8f5adf8cc",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517466711988f3b06cb8f5adf8cc",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17866711988f3b06cb8f5adf8cc",
+                        "width": 160
+                    }
+                ],
+                "name": "Yüzyüzeyken Konuşuruz",
+                "popularity": 67,
+                "type": "artist",
+                "uri": "spotify:artist:7gobcoscOfsY0nOeqqFzvU"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2279387
+                },
+                "genres": [
+                    "turkish trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/51DevdOxIJin6DB1FXJpD1",
+                "id": "51DevdOxIJin6DB1FXJpD1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebcc943671af2c56498c81c731",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174cc943671af2c56498c81c731",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178cc943671af2c56498c81c731",
+                        "width": 160
+                    }
+                ],
+                "name": "UZI",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1"
+            }
+        ]
+    }
+]

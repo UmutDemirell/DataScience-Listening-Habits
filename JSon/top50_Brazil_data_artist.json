@@ -1,0 +1,1827 @@
+[
+    {
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 12451
+                },
+                "genres": [
+                    "funk rj"
+                ],
+                "href": "https://api.spotify.com/v1/artists/33yjk1kQbu7otNngO5pQb8",
+                "id": "33yjk1kQbu7otNngO5pQb8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb545ae30d232314ae9452dcfe",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174545ae30d232314ae9452dcfe",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178545ae30d232314ae9452dcfe",
+                        "width": 160
+                    }
+                ],
+                "name": "MC MENOR HR",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:33yjk1kQbu7otNngO5pQb8"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1776618
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo pop",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/41QLxRXlc2NwfJZkHGHKid",
+                "id": "41QLxRXlc2NwfJZkHGHKid",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5f31d00c3256627c0d2aaed0",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745f31d00c3256627c0d2aaed0",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785f31d00c3256627c0d2aaed0",
+                        "width": 160
+                    }
+                ],
+                "name": "Israel & Rodolffo",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:41QLxRXlc2NwfJZkHGHKid"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4501387
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo pop",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1X6ORK7IekgmyjV6IFPszP",
+                "id": "1X6ORK7IekgmyjV6IFPszP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb42da94a559cf363db5da042f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517442da94a559cf363db5da042f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17842da94a559cf363db5da042f",
+                        "width": 160
+                    }
+                ],
+                "name": "Gustavo Mioto",
+                "popularity": 74,
+                "type": "artist",
+                "uri": "spotify:artist:1X6ORK7IekgmyjV6IFPszP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 411033
+                },
+                "genres": [
+                    "arrocha"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6m6e7D2TnV0aYMllFFwMxu",
+                "id": "6m6e7D2TnV0aYMllFFwMxu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb241286a34067402eeae5c6be",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174241286a34067402eeae5c6be",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178241286a34067402eeae5c6be",
+                        "width": 160
+                    }
+                ],
+                "name": "Guilherme & Benuto",
+                "popularity": 79,
+                "type": "artist",
+                "uri": "spotify:artist:6m6e7D2TnV0aYMllFFwMxu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 27827605
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1yR65psqiazQpeM79CcGh8",
+                "id": "1yR65psqiazQpeM79CcGh8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb48623d366b07c1aa59e1b077",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517448623d366b07c1aa59e1b077",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17848623d366b07c1aa59e1b077",
+                        "width": 160
+                    }
+                ],
+                "name": "Marília Mendonça",
+                "popularity": 84,
+                "type": "artist",
+                "uri": "spotify:artist:1yR65psqiazQpeM79CcGh8"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3932416
+                },
+                "genres": [
+                    "arrocha",
+                    "arrochadeira"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7cmuxPnXRJxwuYDHfbD8Eu",
+                "id": "7cmuxPnXRJxwuYDHfbD8Eu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb9c2fd8e5d758e93c79f8bd41",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051749c2fd8e5d758e93c79f8bd41",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1789c2fd8e5d758e93c79f8bd41",
+                        "width": 160
+                    }
+                ],
+                "name": "Zé Felipe",
+                "popularity": 74,
+                "type": "artist",
+                "uri": "spotify:artist:7cmuxPnXRJxwuYDHfbD8Eu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 5803
+                },
+                "genres": [
+                    "funk mandelao",
+                    "funk mtg"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6TtI28JVtV3RufOCwLvHod",
+                "id": "6TtI28JVtV3RufOCwLvHod",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba095de789c3bbb51897405b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a095de789c3bbb51897405b0",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a095de789c3bbb51897405b0",
+                        "width": 160
+                    }
+                ],
+                "name": "MC K.K",
+                "popularity": 63,
+                "type": "artist",
+                "uri": "spotify:artist:6TtI28JVtV3RufOCwLvHod"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 10490939
+                },
+                "genres": [
+                    "arrocha",
+                    "pop nacional",
+                    "sertanejo pop",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2Z0lRIqr997lIUiPtrpKCr",
+                "id": "2Z0lRIqr997lIUiPtrpKCr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebffac2fe24ab82078542d09f4",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ffac2fe24ab82078542d09f4",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ffac2fe24ab82078542d09f4",
+                        "width": 160
+                    }
+                ],
+                "name": "Matheus & Kauan",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:2Z0lRIqr997lIUiPtrpKCr"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 411033
+                },
+                "genres": [
+                    "arrocha"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6m6e7D2TnV0aYMllFFwMxu",
+                "id": "6m6e7D2TnV0aYMllFFwMxu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb241286a34067402eeae5c6be",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174241286a34067402eeae5c6be",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178241286a34067402eeae5c6be",
+                        "width": 160
+                    }
+                ],
+                "name": "Guilherme & Benuto",
+                "popularity": 79,
+                "type": "artist",
+                "uri": "spotify:artist:6m6e7D2TnV0aYMllFFwMxu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2472932
+                },
+                "genres": [
+                    "brazilian hip hop",
+                    "funk carioca"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3rfM2cGqF6DB0kUyytMkXx",
+                "id": "3rfM2cGqF6DB0kUyytMkXx",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7dc917cc804738976cc31aec",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747dc917cc804738976cc31aec",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787dc917cc804738976cc31aec",
+                        "width": 160
+                    }
+                ],
+                "name": "Orochi",
+                "popularity": 76,
+                "type": "artist",
+                "uri": "spotify:artist:3rfM2cGqF6DB0kUyytMkXx"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 393996
+                },
+                "genres": [
+                    "trap brasileiro"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3MrDVzg7ZXaYMyQmbDInr7",
+                "id": "3MrDVzg7ZXaYMyQmbDInr7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebcb14cefe150687b9ae98094f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174cb14cefe150687b9ae98094f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178cb14cefe150687b9ae98094f",
+                        "width": 160
+                    }
+                ],
+                "name": "WIU",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:3MrDVzg7ZXaYMyQmbDInr7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1073724
+                },
+                "genres": [
+                    "funk carioca",
+                    "funk rj"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0gHj4MPwwcZ8Zl9CY0hqT5",
+                "id": "0gHj4MPwwcZ8Zl9CY0hqT5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8a414d998977e1c0a8e95a4a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748a414d998977e1c0a8e95a4a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788a414d998977e1c0a8e95a4a",
+                        "width": 160
+                    }
+                ],
+                "name": "Mc Paiva ZS",
+                "popularity": 79,
+                "type": "artist",
+                "uri": "spotify:artist:0gHj4MPwwcZ8Zl9CY0hqT5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3147
+                },
+                "genres": [
+                    "sertanejo pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7gZu6kPnY9enEi5FvgTO4F",
+                "id": "7gZu6kPnY9enEi5FvgTO4F",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb1b0e60e87fbcb118d2de237c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051741b0e60e87fbcb118d2de237c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1781b0e60e87fbcb118d2de237c",
+                        "width": 160
+                    }
+                ],
+                "name": "Felipe e Rodrigo",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:7gZu6kPnY9enEi5FvgTO4F"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2354818
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo pop",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3k68C6mNMJL6OaAdWeW2ZF",
+                "id": "3k68C6mNMJL6OaAdWeW2ZF",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb9787153d29a4723500537dbf",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051749787153d29a4723500537dbf",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1789787153d29a4723500537dbf",
+                        "width": 160
+                    }
+                ],
+                "name": "Diego & Victor Hugo",
+                "popularity": 75,
+                "type": "artist",
+                "uri": "spotify:artist:3k68C6mNMJL6OaAdWeW2ZF"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 44678
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/57VQCKnZ9nhS7bvoviXuZK",
+                "id": "57VQCKnZ9nhS7bvoviXuZK",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb0a88ac7ab9d12985028628d",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b0a88ac7ab9d12985028628d",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b0a88ac7ab9d12985028628d",
+                        "width": 160
+                    }
+                ],
+                "name": "Kadu Martins",
+                "popularity": 68,
+                "type": "artist",
+                "uri": "spotify:artist:57VQCKnZ9nhS7bvoviXuZK"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 17793432
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1elUiq4X7pxej6FRlrEzjM",
+                "id": "1elUiq4X7pxej6FRlrEzjM",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb1df3e178779c6a9bf8303719",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051741df3e178779c6a9bf8303719",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1781df3e178779c6a9bf8303719",
+                        "width": 160
+                    }
+                ],
+                "name": "Jorge & Mateus",
+                "popularity": 84,
+                "type": "artist",
+                "uri": "spotify:artist:1elUiq4X7pxej6FRlrEzjM"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 5269
+                },
+                "genres": [
+                    "funk mandelao",
+                    "funk mtg"
+                ],
+                "href": "https://api.spotify.com/v1/artists/06e0gXtUpvgPUZFrR2ywsg",
+                "id": "06e0gXtUpvgPUZFrR2ywsg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5189b6e6a6e786eb1657b4dc",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745189b6e6a6e786eb1657b4dc",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785189b6e6a6e786eb1657b4dc",
+                        "width": 160
+                    }
+                ],
+                "name": "DJ Dozabri",
+                "popularity": 67,
+                "type": "artist",
+                "uri": "spotify:artist:06e0gXtUpvgPUZFrR2ywsg"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1776618
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo pop",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/41QLxRXlc2NwfJZkHGHKid",
+                "id": "41QLxRXlc2NwfJZkHGHKid",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5f31d00c3256627c0d2aaed0",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745f31d00c3256627c0d2aaed0",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785f31d00c3256627c0d2aaed0",
+                        "width": 160
+                    }
+                ],
+                "name": "Israel & Rodolffo",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:41QLxRXlc2NwfJZkHGHKid"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 411033
+                },
+                "genres": [
+                    "arrocha"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6m6e7D2TnV0aYMllFFwMxu",
+                "id": "6m6e7D2TnV0aYMllFFwMxu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb241286a34067402eeae5c6be",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174241286a34067402eeae5c6be",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178241286a34067402eeae5c6be",
+                        "width": 160
+                    }
+                ],
+                "name": "Guilherme & Benuto",
+                "popularity": 79,
+                "type": "artist",
+                "uri": "spotify:artist:6m6e7D2TnV0aYMllFFwMxu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 12372
+                },
+                "genres": [
+                    "funk carioca",
+                    "funk rj"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6WIjKbyqeO9MkfNMFJsF50",
+                "id": "6WIjKbyqeO9MkfNMFJsF50",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb277629317ffdadb1e6186681",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174277629317ffdadb1e6186681",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178277629317ffdadb1e6186681",
+                        "width": 160
+                    }
+                ],
+                "name": "Dj LK da Escócia",
+                "popularity": 70,
+                "type": "artist",
+                "uri": "spotify:artist:6WIjKbyqeO9MkfNMFJsF50"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 11789242
+                },
+                "genres": [
+                    "sertanejo",
+                    "sertanejo pop",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/59jlthNnbmim5l9tmNA7se",
+                "id": "59jlthNnbmim5l9tmNA7se",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb04924318f642b72d0ac29dbd",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517404924318f642b72d0ac29dbd",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17804924318f642b72d0ac29dbd",
+                        "width": 160
+                    }
+                ],
+                "name": "Maiara & Maraisa",
+                "popularity": 79,
+                "type": "artist",
+                "uri": "spotify:artist:59jlthNnbmim5l9tmNA7se"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 890314
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1LIuN7ov1IBQDdLsU83ojl",
+                "id": "1LIuN7ov1IBQDdLsU83ojl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd1503bf56fff0048e17aba8a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d1503bf56fff0048e17aba8a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d1503bf56fff0048e17aba8a",
+                        "width": 160
+                    }
+                ],
+                "name": "Hugo & Guilherme",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:1LIuN7ov1IBQDdLsU83ojl"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 18062743
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7MiDcPa6UiV3In7lIM71IN",
+                "id": "7MiDcPa6UiV3In7lIM71IN",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8e4f6a938d9eeab0c2fa40a2",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748e4f6a938d9eeab0c2fa40a2",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788e4f6a938d9eeab0c2fa40a2",
+                        "width": 160
+                    }
+                ],
+                "name": "Gusttavo Lima",
+                "popularity": 82,
+                "type": "artist",
+                "uri": "spotify:artist:7MiDcPa6UiV3In7lIM71IN"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 393996
+                },
+                "genres": [
+                    "trap brasileiro"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3MrDVzg7ZXaYMyQmbDInr7",
+                "id": "3MrDVzg7ZXaYMyQmbDInr7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebcb14cefe150687b9ae98094f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174cb14cefe150687b9ae98094f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178cb14cefe150687b9ae98094f",
+                        "width": 160
+                    }
+                ],
+                "name": "WIU",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:3MrDVzg7ZXaYMyQmbDInr7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4125530
+                },
+                "genres": [
+                    "funk carioca",
+                    "pop nacional"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4PzYKhC14sTJNEr0dzoo0d",
+                "id": "4PzYKhC14sTJNEr0dzoo0d",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb9ac9751193c7c49b97db7b60",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051749ac9751193c7c49b97db7b60",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1789ac9751193c7c49b97db7b60",
+                        "width": 160
+                    }
+                ],
+                "name": "Luísa Sonza",
+                "popularity": 76,
+                "type": "artist",
+                "uri": "spotify:artist:4PzYKhC14sTJNEr0dzoo0d"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1800280
+                },
+                "genres": [
+                    "funk carioca",
+                    "funk paulista"
+                ],
+                "href": "https://api.spotify.com/v1/artists/75i9GaW2MJUgt4BkdUnuUY",
+                "id": "75i9GaW2MJUgt4BkdUnuUY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb2623d5be17306a57c64293b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b2623d5be17306a57c64293b",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b2623d5be17306a57c64293b",
+                        "width": 160
+                    }
+                ],
+                "name": "MC Ryan SP",
+                "popularity": 84,
+                "type": "artist",
+                "uri": "spotify:artist:75i9GaW2MJUgt4BkdUnuUY"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1174472
+                },
+                "genres": [
+                    "arrocha",
+                    "arrochadeira"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0BHm7qbh3ENxvXzkQAG7MP",
+                "id": "0BHm7qbh3ENxvXzkQAG7MP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba35ce400eb796e06344630fa",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a35ce400eb796e06344630fa",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a35ce400eb796e06344630fa",
+                        "width": 160
+                    }
+                ],
+                "name": "Mari Fernandez",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:0BHm7qbh3ENxvXzkQAG7MP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 17793432
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1elUiq4X7pxej6FRlrEzjM",
+                "id": "1elUiq4X7pxej6FRlrEzjM",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb1df3e178779c6a9bf8303719",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051741df3e178779c6a9bf8303719",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1781df3e178779c6a9bf8303719",
+                        "width": 160
+                    }
+                ],
+                "name": "Jorge & Mateus",
+                "popularity": 84,
+                "type": "artist",
+                "uri": "spotify:artist:1elUiq4X7pxej6FRlrEzjM"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 472927
+                },
+                "genres": [
+                    "funk rj",
+                    "sertanejo pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2CKOmarVWvWqkNWUatHCex",
+                "id": "2CKOmarVWvWqkNWUatHCex",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb4c5b02a445540a9203ab334",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b4c5b02a445540a9203ab334",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b4c5b02a445540a9203ab334",
+                        "width": 160
+                    }
+                ],
+                "name": "Ana Castela",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:2CKOmarVWvWqkNWUatHCex"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 466565
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3hq7WoPJsrRP0KMSLhUgRz",
+                "id": "3hq7WoPJsrRP0KMSLhUgRz",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb19694d3f49e3d69a8420f7e6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517419694d3f49e3d69a8420f7e6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17819694d3f49e3d69a8420f7e6",
+                        "width": 160
+                    }
+                ],
+                "name": "Murilo Huff",
+                "popularity": 75,
+                "type": "artist",
+                "uri": "spotify:artist:3hq7WoPJsrRP0KMSLhUgRz"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 10490939
+                },
+                "genres": [
+                    "arrocha",
+                    "pop nacional",
+                    "sertanejo pop",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2Z0lRIqr997lIUiPtrpKCr",
+                "id": "2Z0lRIqr997lIUiPtrpKCr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebffac2fe24ab82078542d09f4",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ffac2fe24ab82078542d09f4",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ffac2fe24ab82078542d09f4",
+                        "width": 160
+                    }
+                ],
+                "name": "Matheus & Kauan",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:2Z0lRIqr997lIUiPtrpKCr"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2596528
+                },
+                "genres": [
+                    "funk rj",
+                    "pop rap brasileiro"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0JjPiLQNgAFaEkwoy56B1C",
+                "id": "0JjPiLQNgAFaEkwoy56B1C",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb92e1322639e47d8cb8469ae5",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517492e1322639e47d8cb8469ae5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17892e1322639e47d8cb8469ae5",
+                        "width": 160
+                    }
+                ],
+                "name": "L7NNON",
+                "popularity": 78,
+                "type": "artist",
+                "uri": "spotify:artist:0JjPiLQNgAFaEkwoy56B1C"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 27827605
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1yR65psqiazQpeM79CcGh8",
+                "id": "1yR65psqiazQpeM79CcGh8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb48623d366b07c1aa59e1b077",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517448623d366b07c1aa59e1b077",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17848623d366b07c1aa59e1b077",
+                        "width": 160
+                    }
+                ],
+                "name": "Marília Mendonça",
+                "popularity": 84,
+                "type": "artist",
+                "uri": "spotify:artist:1yR65psqiazQpeM79CcGh8"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1776618
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo pop",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/41QLxRXlc2NwfJZkHGHKid",
+                "id": "41QLxRXlc2NwfJZkHGHKid",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5f31d00c3256627c0d2aaed0",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745f31d00c3256627c0d2aaed0",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785f31d00c3256627c0d2aaed0",
+                        "width": 160
+                    }
+                ],
+                "name": "Israel & Rodolffo",
+                "popularity": 77,
+                "type": "artist",
+                "uri": "spotify:artist:41QLxRXlc2NwfJZkHGHKid"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 6633905
+                },
+                "genres": [
+                    "rap baiano",
+                    "trap baiano",
+                    "trap brasileiro"
+                ],
+                "href": "https://api.spotify.com/v1/artists/09U6hmCerKcIJrixubiBjm",
+                "id": "09U6hmCerKcIJrixubiBjm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebe915b03e0d384550b452d024",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174e915b03e0d384550b452d024",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178e915b03e0d384550b452d024",
+                        "width": 160
+                    }
+                ],
+                "name": "Pineapple StormTv",
+                "popularity": 74,
+                "type": "artist",
+                "uri": "spotify:artist:09U6hmCerKcIJrixubiBjm"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 10490939
+                },
+                "genres": [
+                    "arrocha",
+                    "pop nacional",
+                    "sertanejo pop",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2Z0lRIqr997lIUiPtrpKCr",
+                "id": "2Z0lRIqr997lIUiPtrpKCr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebffac2fe24ab82078542d09f4",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ffac2fe24ab82078542d09f4",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ffac2fe24ab82078542d09f4",
+                        "width": 160
+                    }
+                ],
+                "name": "Matheus & Kauan",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:2Z0lRIqr997lIUiPtrpKCr"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 18062743
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7MiDcPa6UiV3In7lIM71IN",
+                "id": "7MiDcPa6UiV3In7lIM71IN",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8e4f6a938d9eeab0c2fa40a2",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748e4f6a938d9eeab0c2fa40a2",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788e4f6a938d9eeab0c2fa40a2",
+                        "width": 160
+                    }
+                ],
+                "name": "Gusttavo Lima",
+                "popularity": 82,
+                "type": "artist",
+                "uri": "spotify:artist:7MiDcPa6UiV3In7lIM71IN"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 587767
+                },
+                "genres": [
+                    "arrocha",
+                    "forro",
+                    "funk carioca",
+                    "sertanejo pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/37mqXU98U5GmH5ZDtlHM1c",
+                "id": "37mqXU98U5GmH5ZDtlHM1c",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb17b431f2dd3fbae38ffd3fe5",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517417b431f2dd3fbae38ffd3fe5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17817b431f2dd3fbae38ffd3fe5",
+                        "width": 160
+                    }
+                ],
+                "name": "Matheus Fernandes",
+                "popularity": 69,
+                "type": "artist",
+                "uri": "spotify:artist:37mqXU98U5GmH5ZDtlHM1c"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 452287
+                },
+                "genres": [
+                    "arrocha",
+                    "arrochadeira"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3CIIaeZuFYrAD6PRVyuO4U",
+                "id": "3CIIaeZuFYrAD6PRVyuO4U",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5af41452ee23fd77f62ceaae",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745af41452ee23fd77f62ceaae",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785af41452ee23fd77f62ceaae",
+                        "width": 160
+                    }
+                ],
+                "name": "Felipe Amorim",
+                "popularity": 75,
+                "type": "artist",
+                "uri": "spotify:artist:3CIIaeZuFYrAD6PRVyuO4U"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2029723
+                },
+                "genres": [
+                    "funk carioca",
+                    "funk consciente",
+                    "trap funk"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1WQBwwssN6r8DSjUlkyUGW",
+                "id": "1WQBwwssN6r8DSjUlkyUGW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7119087998f75d2b1b6bae78",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747119087998f75d2b1b6bae78",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787119087998f75d2b1b6bae78",
+                        "width": 160
+                    }
+                ],
+                "name": "MC Cabelinho",
+                "popularity": 79,
+                "type": "artist",
+                "uri": "spotify:artist:1WQBwwssN6r8DSjUlkyUGW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 169764
+                },
+                "genres": [
+                    "arrochadeira",
+                    "funk 150 bpm",
+                    "funk carioca",
+                    "funk mtg",
+                    "funk rj",
+                    "trap funk"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6qrqAYlS6lUj2BVXax7SZW",
+                "id": "6qrqAYlS6lUj2BVXax7SZW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebfb8b12e46075b771fa360d89",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174fb8b12e46075b771fa360d89",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178fb8b12e46075b771fa360d89",
+                        "width": 160
+                    }
+                ],
+                "name": "Mc Jacaré",
+                "popularity": 70,
+                "type": "artist",
+                "uri": "spotify:artist:6qrqAYlS6lUj2BVXax7SZW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 57177
+                },
+                "genres": [
+                    "brazilian hip hop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7HoPy2YmahCCaYaFSFq497",
+                "id": "7HoPy2YmahCCaYaFSFq497",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb723fbe72f4ca50e398c22398",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174723fbe72f4ca50e398c22398",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178723fbe72f4ca50e398c22398",
+                        "width": 160
+                    }
+                ],
+                "name": "Yago Oproprio",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:7HoPy2YmahCCaYaFSFq497"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 25192634
+                },
+                "genres": [
+                    "pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                "id": "6KImCVD70vtIoJWnq6nGn3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178f7db7c8ede90a019c54590bb",
+                        "width": 160
+                    }
+                ],
+                "name": "Harry Styles",
+                "popularity": 90,
+                "type": "artist",
+                "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 331992
+                },
+                "genres": [
+                    "arrocha",
+                    "forro",
+                    "sertanejo pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3PVg0vaMUNTOu7C2GmYfSg",
+                "id": "3PVg0vaMUNTOu7C2GmYfSg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb569151ff092af3f025192d20",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174569151ff092af3f025192d20",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178569151ff092af3f025192d20",
+                        "width": 160
+                    }
+                ],
+                "name": "Kevi Jonny",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:3PVg0vaMUNTOu7C2GmYfSg"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 18062743
+                },
+                "genres": [
+                    "arrocha",
+                    "sertanejo",
+                    "sertanejo universitario"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7MiDcPa6UiV3In7lIM71IN",
+                "id": "7MiDcPa6UiV3In7lIM71IN",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8e4f6a938d9eeab0c2fa40a2",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748e4f6a938d9eeab0c2fa40a2",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788e4f6a938d9eeab0c2fa40a2",
+                        "width": 160
+                    }
+                ],
+                "name": "Gusttavo Lima",
+                "popularity": 82,
+                "type": "artist",
+                "uri": "spotify:artist:7MiDcPa6UiV3In7lIM71IN"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 76531
+                },
+                "genres": [
+                    "funk carioca",
+                    "funk mtg"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7ujbuq6hAjLSf7cGr6au0b",
+                "id": "7ujbuq6hAjLSf7cGr6au0b",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc3fcad60e75bb7db29d238b7",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c3fcad60e75bb7db29d238b7",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c3fcad60e75bb7db29d238b7",
+                        "width": 160
+                    }
+                ],
+                "name": "MC Tairon",
+                "popularity": 68,
+                "type": "artist",
+                "uri": "spotify:artist:7ujbuq6hAjLSf7cGr6au0b"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 452287
+                },
+                "genres": [
+                    "arrocha",
+                    "arrochadeira"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3CIIaeZuFYrAD6PRVyuO4U",
+                "id": "3CIIaeZuFYrAD6PRVyuO4U",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5af41452ee23fd77f62ceaae",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745af41452ee23fd77f62ceaae",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785af41452ee23fd77f62ceaae",
+                        "width": 160
+                    }
+                ],
+                "name": "Felipe Amorim",
+                "popularity": 75,
+                "type": "artist",
+                "uri": "spotify:artist:3CIIaeZuFYrAD6PRVyuO4U"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2029723
+                },
+                "genres": [
+                    "funk carioca",
+                    "funk consciente",
+                    "trap funk"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1WQBwwssN6r8DSjUlkyUGW",
+                "id": "1WQBwwssN6r8DSjUlkyUGW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7119087998f75d2b1b6bae78",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747119087998f75d2b1b6bae78",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787119087998f75d2b1b6bae78",
+                        "width": 160
+                    }
+                ],
+                "name": "MC Cabelinho",
+                "popularity": 79,
+                "type": "artist",
+                "uri": "spotify:artist:1WQBwwssN6r8DSjUlkyUGW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 21192502
+                },
+                "genres": [
+                    "dance pop",
+                    "pop",
+                    "uk pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+                "id": "2wY79sveU1sp5g7SokKOiI",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb10ca40ea0b0b5082dba0ff75",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517410ca40ea0b0b5082dba0ff75",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17810ca40ea0b0b5082dba0ff75",
+                        "width": 160
+                    }
+                ],
+                "name": "Sam Smith",
+                "popularity": 89,
+                "type": "artist",
+                "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 472927
+                },
+                "genres": [
+                    "funk rj",
+                    "sertanejo pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2CKOmarVWvWqkNWUatHCex",
+                "id": "2CKOmarVWvWqkNWUatHCex",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb4c5b02a445540a9203ab334",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b4c5b02a445540a9203ab334",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b4c5b02a445540a9203ab334",
+                        "width": 160
+                    }
+                ],
+                "name": "Ana Castela",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:2CKOmarVWvWqkNWUatHCex"
+            }
+        ]
+    }
+]

@@ -1,0 +1,216 @@
+,Country,2020
+0,Afghanistan,17.81
+1,Albania,33.636
+2,Algeria,30.333
+3,Angola,18.658
+4,Argentina,32.837
+5,Armenia,34.935
+6,Aruba,41.742
+7,Australia,39.6
+8,Australia/New Zealand,39.365
+9,Austria,44.785
+10,Azerbaijan,32.029
+11,Bahamas,33.386
+12,Bahrain,31.876
+13,Bangladesh,28.447
+14,Barbados,41.715
+15,Belarus,40.769
+16,Belgium,43.175
+17,Belize,25.899
+18,Benin,19.43
+19,Bhutan,28.516
+20,Bolivia,24.762
+21,Bosnia and Herzegovina,42.767
+22,Botswana,25.061
+23,Brazil,33.603
+24,Brunei,30.704
+25,Bulgaria,44.307
+26,Burkina Faso,17.317
+27,Burundi,22.297
+28,Cambodia,26.007
+29,Cameroon,20.622
+30,Canada,41.923
+31,Cape Verde,25.275
+32,Caribbean,32.553
+33,Central African Rep.,21.226
+34,Central America,29.866
+35,Chad,17.944
+36,Channel Islands,45.838
+37,Chile,35.176
+38,China,37.091
+39,"Hong Kong, China",45.58
+40,"Macao, China",43.81
+41,Colombia,29.926
+42,Comoros,22.7
+43,"Congo, Rep.",21.846
+44,Costa Rica,32.406
+45,Cote d'Ivoire,21.159
+46,Croatia,43.682
+47,Cuba,43.022
+48,Cyprus,38.998
+49,Czech Rep.,42.906
+50,"Korea, Dem. Rep.",35.838
+51,"Congo, Dem. Rep.",18.138
+52,Denmark,42.743
+53,Djibouti,24.356
+54,Dominican Rep.,28.0
+55,Eastern Africa,19.149
+56,Eastern Asia,38.155
+57,Eastern Europe,40.903
+58,Ecuador,28.712
+59,Egypt,26.999
+60,El Salvador,27.286
+61,Equatorial Guinea,20.051
+62,Eritrea,20.292
+63,Estonia,40.713
+64,Ethiopia,19.793
+65,Fiji,27.685
+66,Finland,43.043
+67,France,42.142
+68,French Guiana,26.545
+69,French Polynesia,32.144
+70,Gabon,24.392
+71,Gambia,20.148
+72,Georgia,39.768
+73,Germany,47.918
+74,Ghana,22.413
+75,Greece,44.978
+76,Grenada,29.341
+77,Guadeloupe,38.398
+78,Guam,31.131
+79,Guatemala,21.056
+80,Guinea,19.584
+81,Guinea-Bissau,19.23
+82,Guyana,29.713
+83,Haiti,24.062
+84,Honduras,24.284
+85,Hungary,42.594
+86,Iceland,38.008
+87,India,28.115
+88,Indonesia,31.975
+89,Iran,32.191
+90,Iraq,22.252
+91,Ireland,38.077
+92,Israel,31.671
+93,Italy,47.039
+94,Jamaica,28.73
+95,Japan,48.584
+96,Jordan,25.716
+97,Kazakhstan,31.887
+98,Kenya,19.313
+99,Kuwait,34.008
+100,Kyrgyzstan,28.508
+101,Laos,23.728
+102,Latvia,41.788
+103,Lebanon,32.835
+104,Lesotho,21.442
+105,Liberia,19.978
+106,Libya,29.319
+107,Lithuania,42.157
+108,Luxembourg,40.291
+109,Madagascar,20.475
+110,Malawi,18.301
+111,Malaysia,29.646
+112,Maldives,29.529
+113,Mali,18.455
+114,Malta,42.459
+115,Martinique,41.337
+116,Mauritania,21.967
+117,Mauritius,35.603
+118,Mayotte,24.154
+119,Melanesia,22.966
+120,Mexico,31.893
+121,Micronesia,27.98
+122,"Micronesia, Fed. Sts.",23.52
+123,Middle Africa,18.855
+124,Mongolia,31.0
+125,Montenegro,38.366
+126,Morocco,29.825
+127,Mozambique,19.071
+128,Myanmar,31.35
+129,Namibia,23.559
+130,Nepal,24.695
+131,Netherlands,43.184
+132,Netherlands Antilles,43.047
+133,New Caledonia,33.434
+134,New Zealand,38.172
+135,Nicaragua,25.686
+136,Niger,14.994
+137,Nigeria,20.009
+138,Northern Africa,27.452
+139,Northern Europe,40.824
+140,Norway,40.592
+141,West Bank and Gaza,19.798
+142,Oman,27.832
+143,Pakistan,23.703
+144,Panama,30.107
+145,Papua New Guinea,22.122
+146,Paraguay,26.085
+147,Peru,28.939
+148,Philippines,26.014
+149,Poland,41.738
+150,Polynesia,27.335
+151,Portugal,44.71
+152,Puerto Rico,39.298
+153,Qatar,33.615
+154,"Korea, Rep.",43.22
+155,Moldova,37.64
+156,Reunion,32.529
+157,Romania,42.18
+158,Russia,40.011
+159,Rwanda,19.143
+160,Saint Lucia,31.477
+161,Saint Vincent and the Grenadines,31.177
+162,Samoa,22.849
+163,Sao Tome and Principe,21.851
+164,Saudi Arabia,27.524
+165,Senegal,19.637
+166,Serbia,39.832
+167,Sierra Leone,18.752
+168,Singapore,45.71
+169,Slovak Republic,41.154
+170,Slovenia,44.555
+171,Solomon Islands,22.918
+172,Somalia,18.118
+173,South Africa,26.543
+174,South-Central Asia,27.655
+175,South-Eastern Asia,31.133
+176,Southern Africa,26.062
+177,Southern Europe,44.626
+178,Spain,43.794
+179,Sri Lanka,34.35
+180,Sudan,22.803
+181,Suriname,30.702
+182,Swaziland,21.57
+183,Sweden,41.961
+184,Switzerland,43.919
+185,Syria,24.778
+186,Tajikistan,23.847
+187,"Macedonia, FYR",39.537
+188,Thailand,36.188
+189,Timor-Leste,18.212
+190,Togo,21.968
+191,Tonga,22.42
+192,Trinidad and Tobago,35.551
+193,Tunisia,33.496
+194,Turkey,31.914
+195,Turkmenistan,28.689
+196,Uganda,16.567
+197,Ukraine,41.202
+198,United Arab Emirates,34.381
+199,United Kingdom,40.45
+200,Tanzania,17.971
+201,United States,37.868
+202,Virgin Islands (U.S.),39.49
+203,Uruguay,35.641
+204,Uzbekistan,28.753
+205,Vanuatu,22.899
+206,Venezuela,29.297
+207,Vietnam,32.298
+208,Western Africa,19.749
+209,Western Asia,27.688
+210,Western Europe,44.92
+211,Western Sahara,30.05
+212,"Yemen, Rep.",19.776
+213,Zambia,17.805
+214,Zimbabwe,22.144

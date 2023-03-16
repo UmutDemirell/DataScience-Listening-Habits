@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Ngeke,Big Nuz,"['afro soul', 'kwaito', 'south african house', 'south african pop']",46,49,0.831,0.818,1,-6.379,0,0.038,0.00756,0.239,0.775,127.013,South Africa
+1,Mina Nawe,Soa mattrix,"['afro soul', 'south african pop']",46,63,0.875,0.871,5,-10.757,0,0.0458,0.0202,0.146,0.779,112.006,South Africa
+2,SETE (feat. Young Stunna & Blxckie),K.O,"['afro soul', 'kasi rap', 'south african hip hop', 'south african pop', 'south african trap']",53,59,0.797,0.627,4,-7.096,0,0.0698,0.183,0.156,0.606,96.019,South Africa
+3,"Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",DJ Maphorisa,"['afro soul', 'amapiano', 'south african pop']",63,52,0.851,0.516,9,-12.79,1,0.0706,0.167,0.0861,0.365,112.013,South Africa
+4,"Tobetsa Remake (feat. Focalistic, Daliwonga, ShaunMusiq & Ftears)",Myztro,['amapiano'],52,58,0.793,0.497,4,-10.816,1,0.0921,0.0116,0.0788,0.543,113.001,South Africa
+5,Fatela,Aymos,"['afro soul', 'amapiano', 'south african pop']",53,59,0.875,0.36,1,-14.033,1,0.106,0.0139,0.103,0.407,112.013,South Africa
+6,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,South Africa
+7,ZoTata (feat. Mr JazziQ),Pcee,[],40,56,0.873,0.628,4,-9.516,0,0.0828,0.0308,0.166,0.387,111.998,South Africa
+8,Tobetsa,Myztro,['amapiano'],52,62,0.791,0.514,4,-11.384,1,0.0841,0.00194,0.0802,0.458,112.99,South Africa
+9,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,South Africa
+10,Sengizwile (feat. Aymos & Young Stunna),Mas Musiq,"['afro soul', 'south african pop']",52,61,0.813,0.632,3,-9.723,0,0.0482,0.0283,0.137,0.777,112.044,South Africa
+11,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,South Africa
+12,Under The Influence,Chris Brown,"['dance pop', 'r&b']",89,94,0.733,0.69,9,-5.529,0,0.0427,0.0635,0.105,0.31,116.992,South Africa
+13,Last Last,Burna Boy,"['afro dancehall', 'dancehall', 'nigerian hip hop', 'nigerian pop']",81,80,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0802,0.55,87.925,South Africa
+14,Fool Me,Kelvin Momo,"['afro soul', 'amapiano']",59,59,0.864,0.425,8,-18.824,1,0.102,0.0433,0.196,0.44,110.997,South Africa
+15,Stimela,2Point1,[],31,44,0.799,0.622,8,-8.008,1,0.0677,0.00617,0.346,0.785,113.002,South Africa
+16,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,South Africa
+17,Sukakude,Kelvin Momo,"['afro soul', 'amapiano']",59,57,0.879,0.435,5,-17.619,0,0.0716,0.0551,0.0822,0.261,111.976,South Africa
+18,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,South Africa
+19,Pele Pele,Ch'cco,['amapiano'],49,61,0.888,0.451,2,-9.957,1,0.0718,0.0079,0.0615,0.399,112.002,South Africa
+20,Hamba Wena,Deep London,[],49,63,0.861,0.598,7,-11.155,1,0.0665,0.00483,0.0306,0.417,113.006,South Africa
+21,AYE KUWA (feat. CK THE DJ),King Monada,"['afro soul', 'bolobedu house', 'south african pop']",48,55,0.87,0.788,1,-5.483,1,0.0318,0.0571,0.0401,0.592,112.977,South Africa
+22,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,South Africa
+23,"Xola (feat. Nobuhle, Ze2 & Young Stunna)",Kabza De Small,"['afro soul', 'amapiano']",63,58,0.782,0.748,6,-7.331,0,0.0366,0.0584,0.133,0.384,113.027,South Africa
+24,Nkantin,MacG,['afro soul'],44,47,0.83,0.803,0,-10.076,0,0.0631,0.103,0.0879,0.437,112.005,South Africa
+25,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,South Africa
+26,Rush,Ayra Starr,[],71,70,0.792,0.503,1,-8.044,1,0.0626,0.0369,0.0959,0.381,99.97,South Africa
+27,Crazy Vibez,Luxury SA,[],43,58,0.817,0.596,5,-11.92,0,0.131,0.0588,0.067,0.328,116.011,South Africa
+28,Waga Bietjie,Pabi Cooper,['amapiano'],49,56,0.838,0.438,1,-11.885,1,0.104,0.00382,0.0602,0.404,112.003,South Africa
+29,WAIT FOR U (feat. Drake & Tems),Future,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",90,87,0.463,0.642,1,-4.474,1,0.34,0.314,0.0686,0.339,83.389,South Africa
+30,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,South Africa
+31,Khusela (feat. Msaki),Kabza De Small,"['afro soul', 'amapiano']",63,54,0.755,0.811,11,-8.731,0,0.0413,0.129,0.0826,0.219,113.009,South Africa
+32,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,South Africa
+33,Thokoza,Sam Deep,['amapiano'],45,45,0.849,0.415,7,-18.836,0,0.0896,0.0437,0.112,0.572,113.003,South Africa
+34,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,South Africa
+35,Ncebeleka,TOSS,[],49,58,0.83,0.599,10,-10.883,0,0.07,0.0769,0.0898,0.629,112.025,South Africa
+36,Sure Thing,Miguel,"['dance pop', 'pop', 'r&b', 'urban contemporary']",80,87,0.684,0.607,11,-8.127,0,0.1,0.0267,0.191,0.498,81.001,South Africa
+37,For My Hand (feat. Ed Sheeran),Burna Boy,"['afro dancehall', 'dancehall', 'nigerian hip hop', 'nigerian pop']",81,81,0.87,0.479,9,-7.779,1,0.165,0.161,0.209,0.717,104.059,South Africa
+38,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",90,77,0.247,0.299,9,-6.083,1,0.0315,0.899,0.131,0.172,177.115,South Africa
+39,Calm Down,Rema,['nigerian pop'],81,80,0.814,0.789,11,-6.29,1,0.0405,0.365,0.137,0.842,107.003,South Africa
+40,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,South Africa
+41,Nobody Gets Me,SZA,"['pop', 'r&b']",94,91,0.358,0.284,7,-8.285,1,0.0285,0.805,0.183,0.276,99.796,South Africa
+42,Lemons (Lemonade),AKA,"['afro soul', 'kasi rap', 'south african hip hop', 'south african pop']",49,60,0.767,0.525,0,-10.225,1,0.232,0.0386,0.0951,0.478,98.101,South Africa
+43,Kancane,Konke,[],45,58,0.801,0.671,1,-11.076,1,0.0457,0.129,0.061,0.84,113.024,South Africa
+44,People,Libianca,[],55,64,0.573,0.422,10,-7.621,0,0.0678,0.551,0.102,0.693,124.357,South Africa
+45,Piano Ngijabulise,Deep London,[],49,55,0.835,0.454,8,-10.67,0,0.0628,0.0141,0.0241,0.433,112.01,South Africa
+46,Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,['rap'],92,88,0.526,0.606,5,-5.3,0,0.259,0.152,0.194,0.492,116.622,South Africa
+47,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'shiver pop']",79,87,0.761,0.525,11,-6.9,1,0.0944,0.44,0.0921,0.531,80.87,South Africa
+48,Just Wanna Rock,Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",87,90,0.486,0.545,11,-7.924,1,0.0336,0.0652,0.0642,0.0385,150.187,South Africa
+49,Where Are You Now,Lost Frequencies,"['belgian edm', 'edm', 'pop', 'pop dance', 'tropical house']",77,87,0.671,0.636,6,-8.117,0,0.103,0.515,0.172,0.262,120.966,South Africa

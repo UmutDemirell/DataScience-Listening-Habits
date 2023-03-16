@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,Global
+1,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,Global
+2,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,Global
+3,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Global
+4,La Bachata,Manuel Turizo,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",85,97,0.835,0.679,7,-5.329,0,0.0364,0.583,0.218,0.85,124.98,Global
+5,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,Global
+6,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,Global
+7,La Jumpa,Arcángel,"['latin hip hop', 'reggaeton', 'urbano latino']",87,85,0.887,0.234,9,-14.52,1,0.178,0.111,0.13,0.197,140.02,Global
+8,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",86,96,0.621,0.782,2,-5.548,1,0.044,0.0125,0.23,0.55,128.033,Global
+9,Me Porto Bonito,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,95,0.911,0.712,1,-5.105,0,0.0817,0.0901,0.0933,0.425,92.005,Global
+10,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,Global
+11,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,"['gen z singer-songwriter', 'pop']",80,91,0.551,0.55,10,-5.339,1,0.0286,0.777,0.202,0.342,101.19,Global
+12,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,Global
+13,Hey Mor,Ozuna,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",90,91,0.901,0.589,1,-6.713,0,0.289,0.00302,0.0992,0.399,98.002,Global
+14,Gato de Noche,Ñengo Flow,"['latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",82,85,0.892,0.662,8,-3.894,1,0.162,0.169,0.363,0.607,93.976,Global
+15,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,Global
+16,golden hour,JVKE,['modern indie pop'],81,89,0.515,0.593,4,-4.801,1,0.0322,0.653,0.25,0.153,94.467,Global
+17,LET GO,Central Cee,['melodic drill'],83,89,0.735,0.449,2,-9.933,0,0.383,0.859,0.213,0.514,146.016,Global
+18,Calm Down (with Selena Gomez),Rema,['nigerian pop'],81,93,0.801,0.806,11,-5.206,1,0.0381,0.382,0.114,0.802,106.999,Global
+19,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,Global
+20,Tití Me Preguntó,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,94,0.65,0.715,5,-5.198,0,0.253,0.0993,0.126,0.187,106.672,Global
+21,Escapism.,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,76,0.538,0.742,2,-5.355,1,0.114,0.138,0.0934,0.25,96.107,Global
+22,Die For You,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,88,0.586,0.525,1,-7.163,0,0.0615,0.111,0.134,0.508,133.629,Global
+23,Under The Influence,Chris Brown,"['dance pop', 'r&b']",89,94,0.733,0.69,9,-5.529,0,0.0427,0.0635,0.105,0.31,116.992,Global
+24,Mockingbird,Eminem,"['detroit hip hop', 'hip hop', 'rap']",92,92,0.637,0.678,0,-3.798,1,0.266,0.209,0.156,0.254,84.039,Global
+25,Miss You,Oliver Tree,['alternative hip hop'],83,93,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.146,0.199,145.007,Global
+26,Here With Me,d4vd,['bedroom pop'],81,92,0.574,0.469,4,-8.209,1,0.0254,0.534,0.128,0.288,132.023,Global
+27,Efecto,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.801,0.475,7,-8.797,0,0.0516,0.141,0.0639,0.234,98.047,Global
+28,I Wanna Be Yours,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",88,93,0.464,0.417,0,-9.345,0,0.0256,0.136,0.0974,0.479,67.528,Global
+29,Ditto,NewJeans,"['k-pop', 'k-pop girl group']",79,88,0.814,0.641,6,-5.957,0,0.111,0.027,0.0993,0.183,133.854,Global
+30,Bad Habit,Steve Lacy,['afrofuturism'],85,87,0.686,0.494,1,-7.093,1,0.0355,0.613,0.402,0.7,168.946,Global
+31,Ojitos Lindos,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.647,0.686,3,-5.745,0,0.0413,0.08,0.528,0.268,79.928,Global
+32,Bloody Mary,Lady Gaga,"['art pop', 'dance pop', 'pop']",87,80,0.591,0.637,9,-6.365,0,0.03,0.0107,0.113,0.432,99.998,Global
+33,DESPECHÁ,ROSALÍA,['r&b en espanol'],86,86,0.914,0.622,7,-6.538,1,0.0892,0.146,0.0632,0.77,130.04,Global
+34,Nobody Gets Me,SZA,"['pop', 'r&b']",94,91,0.358,0.284,7,-8.285,1,0.0285,0.805,0.183,0.276,99.796,Global
+35,Sweater Weather,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",85,92,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.101,0.398,124.053,Global
+36,SNAP,Rosa Linn,['alt z'],77,49,0.565,0.636,0,-8.198,1,0.0638,0.107,0.447,0.525,170.01,Global
+37,Romantic Homicide,d4vd,['bedroom pop'],81,93,0.571,0.544,6,-10.613,1,0.0299,0.453,0.322,0.216,132.052,Global
+38,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'shiver pop']",79,87,0.761,0.525,11,-6.9,1,0.0944,0.44,0.0921,0.531,80.87,Global
+39,Feliz Cumpleaños Ferxxo,Feid,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",91,87,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.305,0.563,94.999,Global
+40,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,Global
+41,STAY (with Justin Bieber),The Kid LAROI,"['australian hip hop', 'pop']",82,86,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.103,0.478,169.928,Global
+42,Bones,Imagine Dragons,"['modern rock', 'rock']",89,85,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.074,0.587,114.061,Global
+43,Just Wanna Rock,Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",87,90,0.486,0.545,11,-7.924,1,0.0336,0.0652,0.0642,0.0385,150.187,Global
+44,LOKERA,Rauw Alejandro,"['puerto rican pop', 'trap latino', 'urbano latino']",91,85,0.836,0.826,11,-2.66,0,0.0461,0.213,0.0814,0.579,102.025,Global
+45,Starboy,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,90,0.679,0.587,7,-7.015,1,0.276,0.141,0.137,0.486,186.003,Global
+46,Neverita,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,91,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.143,0.428,122.016,Global
+47,Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,['rap'],92,88,0.526,0.606,5,-5.3,0,0.259,0.152,0.194,0.492,116.622,Global
+48,Glimpse of Us,Joji,['viral pop'],87,83,0.44,0.317,8,-9.258,1,0.0531,0.891,0.141,0.268,169.914,Global
+49,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,90,0.514,0.73,1,-5.934,1,0.0598,0.00146,0.0897,0.334,171.005,Global

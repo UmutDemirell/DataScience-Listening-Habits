@@ -1,0 +1,1767 @@
+[
+    {
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 40922
+                },
+                "genres": [
+                    "hip hop tuga",
+                    "kizomba",
+                    "musica angolana",
+                    "rap angolano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4YlvKlWWHJl1TuXvrk94OW",
+                "id": "4YlvKlWWHJl1TuXvrk94OW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebffc89be7dcdc4dfe1cc29166",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ffc89be7dcdc4dfe1cc29166",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ffc89be7dcdc4dfe1cc29166",
+                        "width": 160
+                    }
+                ],
+                "name": "Preto Show",
+                "popularity": 39,
+                "type": "artist",
+                "uri": "spotify:artist:4YlvKlWWHJl1TuXvrk94OW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 235904
+                },
+                "genres": [
+                    "kizomba",
+                    "musica angolana",
+                    "portuguese pop",
+                    "semba"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1ts2oIXKCpWSRFnR78bulp",
+                "id": "1ts2oIXKCpWSRFnR78bulp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb502a7c4b5f72845de2ce7012",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174502a7c4b5f72845de2ce7012",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178502a7c4b5f72845de2ce7012",
+                        "width": 160
+                    }
+                ],
+                "name": "Anselmo Ralph",
+                "popularity": 51,
+                "type": "artist",
+                "uri": "spotify:artist:1ts2oIXKCpWSRFnR78bulp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 299078
+                },
+                "genres": [
+                    "kizomba",
+                    "musica angolana",
+                    "portuguese pop",
+                    "semba"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0E0XPqa6BzxSkhmhvzA3k2",
+                "id": "0E0XPqa6BzxSkhmhvzA3k2",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd52feae851c87d07fc9ede89",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d52feae851c87d07fc9ede89",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d52feae851c87d07fc9ede89",
+                        "width": 160
+                    }
+                ],
+                "name": "Matias Damásio",
+                "popularity": 51,
+                "type": "artist",
+                "uri": "spotify:artist:0E0XPqa6BzxSkhmhvzA3k2"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 11954
+                },
+                "genres": [
+                    "kizomba",
+                    "kizomba cabo-verdiana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6lrpKiPnrnPLeKxKqIq7A7",
+                "id": "6lrpKiPnrnPLeKxKqIq7A7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb431eb56d49d82e812acbc2f5",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174431eb56d49d82e812acbc2f5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178431eb56d49d82e812acbc2f5",
+                        "width": 160
+                    }
+                ],
+                "name": "Neyna",
+                "popularity": 42,
+                "type": "artist",
+                "uri": "spotify:artist:6lrpKiPnrnPLeKxKqIq7A7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1611495
+                },
+                "genres": [
+                    "nigerian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/46pWGuE3dSwY3bMMXGBvVS",
+                "id": "46pWGuE3dSwY3bMMXGBvVS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5c77b5deaf9aef3e9ccec31c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745c77b5deaf9aef3e9ccec31c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785c77b5deaf9aef3e9ccec31c",
+                        "width": 160
+                    }
+                ],
+                "name": "Rema",
+                "popularity": 81,
+                "type": "artist",
+                "uri": "spotify:artist:46pWGuE3dSwY3bMMXGBvVS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 158644
+                },
+                "genres": [
+                    "kizomba",
+                    "musica santomense",
+                    "portuguese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/62huveC2Mmi9nfW0ySqNwo",
+                "id": "62huveC2Mmi9nfW0ySqNwo",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5b6490fd327c8c25bd6d4e85",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745b6490fd327c8c25bd6d4e85",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785b6490fd327c8c25bd6d4e85",
+                        "width": 160
+                    }
+                ],
+                "name": "Djodje",
+                "popularity": 50,
+                "type": "artist",
+                "uri": "spotify:artist:62huveC2Mmi9nfW0ySqNwo"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 161890
+                },
+                "genres": [
+                    "kizomba",
+                    "portuguese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6Hdj9MS399KY29SP12gI0L",
+                "id": "6Hdj9MS399KY29SP12gI0L",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb73e832dc53be9c65b573ef2a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517473e832dc53be9c65b573ef2a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17873e832dc53be9c65b573ef2a",
+                        "width": 160
+                    }
+                ],
+                "name": "Soraia Ramos",
+                "popularity": 50,
+                "type": "artist",
+                "uri": "spotify:artist:6Hdj9MS399KY29SP12gI0L"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 19500
+                },
+                "genres": [
+                    "trap angolano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2A0VfJYVYzMd2EzexuHvjY",
+                "id": "2A0VfJYVYzMd2EzexuHvjY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebf2cd483e1207aae17f76ab87",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174f2cd483e1207aae17f76ab87",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178f2cd483e1207aae17f76ab87",
+                        "width": 160
+                    }
+                ],
+                "name": "Dj Black Spygo",
+                "popularity": 38,
+                "type": "artist",
+                "uri": "spotify:artist:2A0VfJYVYzMd2EzexuHvjY"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 8953
+                },
+                "genres": [
+                    "kizomba"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7dYb5EKtRnRaWM0GQ12cKC",
+                "id": "7dYb5EKtRnRaWM0GQ12cKC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5dffed5da17601fc71fc178f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745dffed5da17601fc71fc178f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785dffed5da17601fc71fc178f",
+                        "width": 160
+                    }
+                ],
+                "name": "June Freedom",
+                "popularity": 56,
+                "type": "artist",
+                "uri": "spotify:artist:7dYb5EKtRnRaWM0GQ12cKC"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 161890
+                },
+                "genres": [
+                    "kizomba",
+                    "portuguese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6Hdj9MS399KY29SP12gI0L",
+                "id": "6Hdj9MS399KY29SP12gI0L",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb73e832dc53be9c65b573ef2a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517473e832dc53be9c65b573ef2a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17873e832dc53be9c65b573ef2a",
+                        "width": 160
+                    }
+                ],
+                "name": "Soraia Ramos",
+                "popularity": 50,
+                "type": "artist",
+                "uri": "spotify:artist:6Hdj9MS399KY29SP12gI0L"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/16BAFZit1hFonbgdLbJOVi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 397
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/16BAFZit1hFonbgdLbJOVi",
+                "id": "16BAFZit1hFonbgdLbJOVi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb02cb00153e48b16414d09f29",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517402cb00153e48b16414d09f29",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17802cb00153e48b16414d09f29",
+                        "width": 160
+                    }
+                ],
+                "name": "Brada",
+                "popularity": 24,
+                "type": "artist",
+                "uri": "spotify:artist:16BAFZit1hFonbgdLbJOVi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1766
+                },
+                "genres": [
+                    "kizomba cabo-verdiana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3rfltEHnMqq67JqiCU0s6n",
+                "id": "3rfltEHnMqq67JqiCU0s6n",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7b68be261c1e47a231b76852",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747b68be261c1e47a231b76852",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787b68be261c1e47a231b76852",
+                        "width": 160
+                    }
+                ],
+                "name": "Ricky Man",
+                "popularity": 23,
+                "type": "artist",
+                "uri": "spotify:artist:3rfltEHnMqq67JqiCU0s6n"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 124925
+                },
+                "genres": [
+                    "kizomba",
+                    "musica angolana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0K7M2QEMiMcok8igQeSsRU",
+                "id": "0K7M2QEMiMcok8igQeSsRU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb72df9af57ae769760b96eee9",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517472df9af57ae769760b96eee9",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17872df9af57ae769760b96eee9",
+                        "width": 160
+                    }
+                ],
+                "name": "Landrick",
+                "popularity": 43,
+                "type": "artist",
+                "uri": "spotify:artist:0K7M2QEMiMcok8igQeSsRU"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 44419
+                },
+                "genres": [
+                    "kizomba",
+                    "kizomba cabo-verdiana",
+                    "zouk"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0AJ7gzFhNKeCeIpFNikyWv",
+                "id": "0AJ7gzFhNKeCeIpFNikyWv",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8b0ee43bc0ad97a41e498105",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748b0ee43bc0ad97a41e498105",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788b0ee43bc0ad97a41e498105",
+                        "width": 160
+                    }
+                ],
+                "name": "Loony Johnson",
+                "popularity": 44,
+                "type": "artist",
+                "uri": "spotify:artist:0AJ7gzFhNKeCeIpFNikyWv"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2eOz5uQonlXVK464N4pVUt"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 11491
+                },
+                "genres": [
+                    "funana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2eOz5uQonlXVK464N4pVUt",
+                "id": "2eOz5uQonlXVK464N4pVUt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd73c509015f26bc600cdac3b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d73c509015f26bc600cdac3b",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d73c509015f26bc600cdac3b",
+                        "width": 160
+                    }
+                ],
+                "name": "Tony Fika",
+                "popularity": 29,
+                "type": "artist",
+                "uri": "spotify:artist:2eOz5uQonlXVK464N4pVUt"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/16BAFZit1hFonbgdLbJOVi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 397
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/16BAFZit1hFonbgdLbJOVi",
+                "id": "16BAFZit1hFonbgdLbJOVi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb02cb00153e48b16414d09f29",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517402cb00153e48b16414d09f29",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17802cb00153e48b16414d09f29",
+                        "width": 160
+                    }
+                ],
+                "name": "Brada",
+                "popularity": 24,
+                "type": "artist",
+                "uri": "spotify:artist:16BAFZit1hFonbgdLbJOVi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 6936
+                },
+                "genres": [
+                    "hip hop tuga"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0QoKkMC6uy7fUng96fab1I",
+                "id": "0QoKkMC6uy7fUng96fab1I",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb420ff561fc7b176f7768ce04",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174420ff561fc7b176f7768ce04",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178420ff561fc7b176f7768ce04",
+                        "width": 160
+                    }
+                ],
+                "name": "Mizzy Miles",
+                "popularity": 51,
+                "type": "artist",
+                "uri": "spotify:artist:0QoKkMC6uy7fUng96fab1I"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 235904
+                },
+                "genres": [
+                    "kizomba",
+                    "musica angolana",
+                    "portuguese pop",
+                    "semba"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1ts2oIXKCpWSRFnR78bulp",
+                "id": "1ts2oIXKCpWSRFnR78bulp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb502a7c4b5f72845de2ce7012",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174502a7c4b5f72845de2ce7012",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178502a7c4b5f72845de2ce7012",
+                        "width": 160
+                    }
+                ],
+                "name": "Anselmo Ralph",
+                "popularity": 51,
+                "type": "artist",
+                "uri": "spotify:artist:1ts2oIXKCpWSRFnR78bulp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 6348
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/5i94XzGyw2f9Jv4m8y4BrB",
+                "id": "5i94XzGyw2f9Jv4m8y4BrB",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e6c6e45c37ead57aa39f3a84",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e6c6e45c37ead57aa39f3a84",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e6c6e45c37ead57aa39f3a84",
+                        "width": 64
+                    }
+                ],
+                "name": "Helio Baiano",
+                "popularity": 33,
+                "type": "artist",
+                "uri": "spotify:artist:5i94XzGyw2f9Jv4m8y4BrB"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/31azPgttLdNXtdf4b5rq72"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 997
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/31azPgttLdNXtdf4b5rq72",
+                "id": "31azPgttLdNXtdf4b5rq72",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb8dc55f53dd048418d1cd97f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b8dc55f53dd048418d1cd97f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b8dc55f53dd048418d1cd97f",
+                        "width": 160
+                    }
+                ],
+                "name": "Sean P",
+                "popularity": 26,
+                "type": "artist",
+                "uri": "spotify:artist:31azPgttLdNXtdf4b5rq72"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 54039
+                },
+                "genres": [
+                    "kizomba",
+                    "portuguese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2nGm3BYzGAxkIuptvhRD99",
+                "id": "2nGm3BYzGAxkIuptvhRD99",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebeade00bb2a8fbaeaad5723e3",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174eade00bb2a8fbaeaad5723e3",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178eade00bb2a8fbaeaad5723e3",
+                        "width": 160
+                    }
+                ],
+                "name": "Messias Maricoa",
+                "popularity": 37,
+                "type": "artist",
+                "uri": "spotify:artist:2nGm3BYzGAxkIuptvhRD99"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 74706
+                },
+                "genres": [
+                    "hip hop tuga",
+                    "trap angolano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0Zsw8N0usCdHtEtFtwZKg5",
+                "id": "0Zsw8N0usCdHtEtFtwZKg5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb2eeb3e404a5bb49dfea3d728",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051742eeb3e404a5bb49dfea3d728",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1782eeb3e404a5bb49dfea3d728",
+                        "width": 160
+                    }
+                ],
+                "name": "Prodigio",
+                "popularity": 43,
+                "type": "artist",
+                "uri": "spotify:artist:0Zsw8N0usCdHtEtFtwZKg5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 158644
+                },
+                "genres": [
+                    "kizomba",
+                    "musica santomense",
+                    "portuguese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/62huveC2Mmi9nfW0ySqNwo",
+                "id": "62huveC2Mmi9nfW0ySqNwo",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5b6490fd327c8c25bd6d4e85",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745b6490fd327c8c25bd6d4e85",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785b6490fd327c8c25bd6d4e85",
+                        "width": 160
+                    }
+                ],
+                "name": "Djodje",
+                "popularity": 50,
+                "type": "artist",
+                "uri": "spotify:artist:62huveC2Mmi9nfW0ySqNwo"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/31azPgttLdNXtdf4b5rq72"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 997
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/31azPgttLdNXtdf4b5rq72",
+                "id": "31azPgttLdNXtdf4b5rq72",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb8dc55f53dd048418d1cd97f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b8dc55f53dd048418d1cd97f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b8dc55f53dd048418d1cd97f",
+                        "width": 160
+                    }
+                ],
+                "name": "Sean P",
+                "popularity": 26,
+                "type": "artist",
+                "uri": "spotify:artist:31azPgttLdNXtdf4b5rq72"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3718349
+                },
+                "genres": [
+                    "basshall",
+                    "francoton",
+                    "pop urbaine"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7IlRNXHjoOCgEAWN5qYksg",
+                "id": "7IlRNXHjoOCgEAWN5qYksg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd097fdbe85a171a0483a2611",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d097fdbe85a171a0483a2611",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d097fdbe85a171a0483a2611",
+                        "width": 160
+                    }
+                ],
+                "name": "Aya Nakamura",
+                "popularity": 70,
+                "type": "artist",
+                "uri": "spotify:artist:7IlRNXHjoOCgEAWN5qYksg"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 7697
+                },
+                "genres": [
+                    "kizomba",
+                    "kizomba cabo-verdiana",
+                    "musica angolana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0Y8ziaoma06j8kuFH2rjon",
+                "id": "0Y8ziaoma06j8kuFH2rjon",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc28887a43edc4aa9b281db6a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c28887a43edc4aa9b281db6a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c28887a43edc4aa9b281db6a",
+                        "width": 160
+                    }
+                ],
+                "name": "William Araujo",
+                "popularity": 36,
+                "type": "artist",
+                "uri": "spotify:artist:0Y8ziaoma06j8kuFH2rjon"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4648
+                },
+                "genres": [
+                    "rap ivoire"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4u3TXX9deH83yOdIGyuLvm",
+                "id": "4u3TXX9deH83yOdIGyuLvm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb612384580a9f78a5dfc26cc2",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174612384580a9f78a5dfc26cc2",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178612384580a9f78a5dfc26cc2",
+                        "width": 160
+                    }
+                ],
+                "name": "IVANN",
+                "popularity": 45,
+                "type": "artist",
+                "uri": "spotify:artist:4u3TXX9deH83yOdIGyuLvm"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/16BAFZit1hFonbgdLbJOVi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 397
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/16BAFZit1hFonbgdLbJOVi",
+                "id": "16BAFZit1hFonbgdLbJOVi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb02cb00153e48b16414d09f29",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517402cb00153e48b16414d09f29",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17802cb00153e48b16414d09f29",
+                        "width": 160
+                    }
+                ],
+                "name": "Brada",
+                "popularity": 24,
+                "type": "artist",
+                "uri": "spotify:artist:16BAFZit1hFonbgdLbJOVi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 86250
+                },
+                "genres": [
+                    "kizomba",
+                    "musica angolana",
+                    "semba"
+                ],
+                "href": "https://api.spotify.com/v1/artists/34Gw52pP6ExWNrH6U6fpeO",
+                "id": "34Gw52pP6ExWNrH6U6fpeO",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb9415341cea1018f6c8cfa911",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051749415341cea1018f6c8cfa911",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1789415341cea1018f6c8cfa911",
+                        "width": 160
+                    }
+                ],
+                "name": "Pérola",
+                "popularity": 41,
+                "type": "artist",
+                "uri": "spotify:artist:34Gw52pP6ExWNrH6U6fpeO"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 11954
+                },
+                "genres": [
+                    "kizomba",
+                    "kizomba cabo-verdiana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6lrpKiPnrnPLeKxKqIq7A7",
+                "id": "6lrpKiPnrnPLeKxKqIq7A7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb431eb56d49d82e812acbc2f5",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174431eb56d49d82e812acbc2f5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178431eb56d49d82e812acbc2f5",
+                        "width": 160
+                    }
+                ],
+                "name": "Neyna",
+                "popularity": 42,
+                "type": "artist",
+                "uri": "spotify:artist:6lrpKiPnrnPLeKxKqIq7A7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 60472
+                },
+                "genres": [
+                    "kizomba",
+                    "musica angolana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1H9tGEiPd91p977DunDG8G",
+                "id": "1H9tGEiPd91p977DunDG8G",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd7502598403415fd44e1b800",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d7502598403415fd44e1b800",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d7502598403415fd44e1b800",
+                        "width": 160
+                    }
+                ],
+                "name": "CEF Tanzy",
+                "popularity": 40,
+                "type": "artist",
+                "uri": "spotify:artist:1H9tGEiPd91p977DunDG8G"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/16BAFZit1hFonbgdLbJOVi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 397
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/16BAFZit1hFonbgdLbJOVi",
+                "id": "16BAFZit1hFonbgdLbJOVi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb02cb00153e48b16414d09f29",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517402cb00153e48b16414d09f29",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17802cb00153e48b16414d09f29",
+                        "width": 160
+                    }
+                ],
+                "name": "Brada",
+                "popularity": 24,
+                "type": "artist",
+                "uri": "spotify:artist:16BAFZit1hFonbgdLbJOVi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/27ErVCLJfOi8m0jtX2PND5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 930
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/27ErVCLJfOi8m0jtX2PND5",
+                "id": "27ErVCLJfOi8m0jtX2PND5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb91fd8538c67e0a305e24b7b4",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517491fd8538c67e0a305e24b7b4",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17891fd8538c67e0a305e24b7b4",
+                        "width": 160
+                    }
+                ],
+                "name": "Dj Doraemon",
+                "popularity": 19,
+                "type": "artist",
+                "uri": "spotify:artist:27ErVCLJfOi8m0jtX2PND5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 235904
+                },
+                "genres": [
+                    "kizomba",
+                    "musica angolana",
+                    "portuguese pop",
+                    "semba"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1ts2oIXKCpWSRFnR78bulp",
+                "id": "1ts2oIXKCpWSRFnR78bulp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb502a7c4b5f72845de2ce7012",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174502a7c4b5f72845de2ce7012",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178502a7c4b5f72845de2ce7012",
+                        "width": 160
+                    }
+                ],
+                "name": "Anselmo Ralph",
+                "popularity": 51,
+                "type": "artist",
+                "uri": "spotify:artist:1ts2oIXKCpWSRFnR78bulp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 11185
+                },
+                "genres": [
+                    "kizomba"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5s5qErKST3QG1Lsiqg4v3i",
+                "id": "5s5qErKST3QG1Lsiqg4v3i",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7b42f3fea9437e6027cc3b3a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747b42f3fea9437e6027cc3b3a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787b42f3fea9437e6027cc3b3a",
+                        "width": 160
+                    }
+                ],
+                "name": "Kizomba da Boa",
+                "popularity": 29,
+                "type": "artist",
+                "uri": "spotify:artist:5s5qErKST3QG1Lsiqg4v3i"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/16BAFZit1hFonbgdLbJOVi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 397
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/16BAFZit1hFonbgdLbJOVi",
+                "id": "16BAFZit1hFonbgdLbJOVi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb02cb00153e48b16414d09f29",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517402cb00153e48b16414d09f29",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17802cb00153e48b16414d09f29",
+                        "width": 160
+                    }
+                ],
+                "name": "Brada",
+                "popularity": 24,
+                "type": "artist",
+                "uri": "spotify:artist:16BAFZit1hFonbgdLbJOVi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5OvdlS6Cg0cj4LCHpaJYol"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 78
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/5OvdlS6Cg0cj4LCHpaJYol",
+                "id": "5OvdlS6Cg0cj4LCHpaJYol",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc64bd9701d8d35cfd5d284fd",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c64bd9701d8d35cfd5d284fd",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c64bd9701d8d35cfd5d284fd",
+                        "width": 160
+                    }
+                ],
+                "name": "KM-Beats",
+                "popularity": 9,
+                "type": "artist",
+                "uri": "spotify:artist:5OvdlS6Cg0cj4LCHpaJYol"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 13784
+                },
+                "genres": [
+                    "rap angolano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3aS15wWCmzXkFRIvbu2KUd",
+                "id": "3aS15wWCmzXkFRIvbu2KUd",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb48b6fd54900dc05947908da0",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517448b6fd54900dc05947908da0",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17848b6fd54900dc05947908da0",
+                        "width": 160
+                    }
+                ],
+                "name": "Eva Rapdiva",
+                "popularity": 28,
+                "type": "artist",
+                "uri": "spotify:artist:3aS15wWCmzXkFRIvbu2KUd"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 40922
+                },
+                "genres": [
+                    "hip hop tuga",
+                    "kizomba",
+                    "musica angolana",
+                    "rap angolano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4YlvKlWWHJl1TuXvrk94OW",
+                "id": "4YlvKlWWHJl1TuXvrk94OW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebffc89be7dcdc4dfe1cc29166",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ffc89be7dcdc4dfe1cc29166",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ffc89be7dcdc4dfe1cc29166",
+                        "width": 160
+                    }
+                ],
+                "name": "Preto Show",
+                "popularity": 39,
+                "type": "artist",
+                "uri": "spotify:artist:4YlvKlWWHJl1TuXvrk94OW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/16BAFZit1hFonbgdLbJOVi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 397
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/16BAFZit1hFonbgdLbJOVi",
+                "id": "16BAFZit1hFonbgdLbJOVi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb02cb00153e48b16414d09f29",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517402cb00153e48b16414d09f29",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17802cb00153e48b16414d09f29",
+                        "width": 160
+                    }
+                ],
+                "name": "Brada",
+                "popularity": 24,
+                "type": "artist",
+                "uri": "spotify:artist:16BAFZit1hFonbgdLbJOVi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0dPK3dkCPgCjfys0MLmZ1X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 8814
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/0dPK3dkCPgCjfys0MLmZ1X",
+                "id": "0dPK3dkCPgCjfys0MLmZ1X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bcb2ae4edef1b25a45262360",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bcb2ae4edef1b25a45262360",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851bcb2ae4edef1b25a45262360",
+                        "width": 64
+                    }
+                ],
+                "name": "Ingomblock",
+                "popularity": 29,
+                "type": "artist",
+                "uri": "spotify:artist:0dPK3dkCPgCjfys0MLmZ1X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 69003
+                },
+                "genres": [
+                    "trap tuga"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1pPbDeOdNUcLq32HTTLbZm",
+                "id": "1pPbDeOdNUcLq32HTTLbZm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc5eeba3f9ebb55d134d67e61",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c5eeba3f9ebb55d134d67e61",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c5eeba3f9ebb55d134d67e61",
+                        "width": 160
+                    }
+                ],
+                "name": "Ivandro",
+                "popularity": 59,
+                "type": "artist",
+                "uri": "spotify:artist:1pPbDeOdNUcLq32HTTLbZm"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/44rcxjQW1VnsJ9yOR5SJRP"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 5905
+                },
+                "genres": [
+                    "rap angolano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/44rcxjQW1VnsJ9yOR5SJRP",
+                "id": "44rcxjQW1VnsJ9yOR5SJRP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc00cf2f0a395878b4268f3cb",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174c00cf2f0a395878b4268f3cb",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178c00cf2f0a395878b4268f3cb",
+                        "width": 160
+                    }
+                ],
+                "name": "Biura",
+                "popularity": 22,
+                "type": "artist",
+                "uri": "spotify:artist:44rcxjQW1VnsJ9yOR5SJRP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/16BAFZit1hFonbgdLbJOVi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 397
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/16BAFZit1hFonbgdLbJOVi",
+                "id": "16BAFZit1hFonbgdLbJOVi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb02cb00153e48b16414d09f29",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517402cb00153e48b16414d09f29",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17802cb00153e48b16414d09f29",
+                        "width": 160
+                    }
+                ],
+                "name": "Brada",
+                "popularity": 24,
+                "type": "artist",
+                "uri": "spotify:artist:16BAFZit1hFonbgdLbJOVi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 34121
+                },
+                "genres": [
+                    "kizomba",
+                    "musica angolana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4jYj5iBLdhRzXvEC1f0XGm",
+                "id": "4jYj5iBLdhRzXvEC1f0XGm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb087757fa65ecd423c75d4659",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174087757fa65ecd423c75d4659",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178087757fa65ecd423c75d4659",
+                        "width": 160
+                    }
+                ],
+                "name": "Yola Araújo",
+                "popularity": 31,
+                "type": "artist",
+                "uri": "spotify:artist:4jYj5iBLdhRzXvEC1f0XGm"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 11185
+                },
+                "genres": [
+                    "kizomba"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5s5qErKST3QG1Lsiqg4v3i",
+                "id": "5s5qErKST3QG1Lsiqg4v3i",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7b42f3fea9437e6027cc3b3a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747b42f3fea9437e6027cc3b3a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787b42f3fea9437e6027cc3b3a",
+                        "width": 160
+                    }
+                ],
+                "name": "Kizomba da Boa",
+                "popularity": 29,
+                "type": "artist",
+                "uri": "spotify:artist:5s5qErKST3QG1Lsiqg4v3i"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/16BAFZit1hFonbgdLbJOVi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 397
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/16BAFZit1hFonbgdLbJOVi",
+                "id": "16BAFZit1hFonbgdLbJOVi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb02cb00153e48b16414d09f29",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517402cb00153e48b16414d09f29",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17802cb00153e48b16414d09f29",
+                        "width": 160
+                    }
+                ],
+                "name": "Brada",
+                "popularity": 24,
+                "type": "artist",
+                "uri": "spotify:artist:16BAFZit1hFonbgdLbJOVi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 74706
+                },
+                "genres": [
+                    "hip hop tuga",
+                    "trap angolano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0Zsw8N0usCdHtEtFtwZKg5",
+                "id": "0Zsw8N0usCdHtEtFtwZKg5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb2eeb3e404a5bb49dfea3d728",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051742eeb3e404a5bb49dfea3d728",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1782eeb3e404a5bb49dfea3d728",
+                        "width": 160
+                    }
+                ],
+                "name": "Prodigio",
+                "popularity": 43,
+                "type": "artist",
+                "uri": "spotify:artist:0Zsw8N0usCdHtEtFtwZKg5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 60472
+                },
+                "genres": [
+                    "kizomba",
+                    "musica angolana"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1H9tGEiPd91p977DunDG8G",
+                "id": "1H9tGEiPd91p977DunDG8G",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd7502598403415fd44e1b800",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d7502598403415fd44e1b800",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d7502598403415fd44e1b800",
+                        "width": 160
+                    }
+                ],
+                "name": "CEF Tanzy",
+                "popularity": 40,
+                "type": "artist",
+                "uri": "spotify:artist:1H9tGEiPd91p977DunDG8G"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7Gdwb0D4guYy1LZxU4MzvU"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4959
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/7Gdwb0D4guYy1LZxU4MzvU",
+                "id": "7Gdwb0D4guYy1LZxU4MzvU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273549fe84b5855804d22fb8153",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02549fe84b5855804d22fb8153",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851549fe84b5855804d22fb8153",
+                        "width": 64
+                    }
+                ],
+                "name": "Scró Q Cuia",
+                "popularity": 17,
+                "type": "artist",
+                "uri": "spotify:artist:7Gdwb0D4guYy1LZxU4MzvU"
+            }
+        ]
+    }
+]

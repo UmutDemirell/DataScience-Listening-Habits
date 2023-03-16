@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Bem Doce,Preto Show,"['hip hop tuga', 'kizomba', 'musica angolana', 'rap angolano']",39,39,0.612,0.587,7,-5.754,0,0.291,0.153,0.0558,0.649,200.178,Angola
+1,Tratar Bem,Anselmo Ralph,"['kizomba', 'musica angolana', 'portuguese pop', 'semba']",51,45,0.657,0.51,5,-5.258,0,0.312,0.628,0.121,0.671,167.907,Angola
+2,Como Antes,Matias Damásio,"['kizomba', 'musica angolana', 'portuguese pop', 'semba']",51,62,0.574,0.776,2,-5.288,0,0.0491,0.392,0.211,0.516,171.932,Angola
+3,Spadja Pé,Neyna,"['kizomba', 'kizomba cabo-verdiana']",42,39,0.626,0.758,2,-6.446,1,0.161,0.037,0.111,0.407,190.041,Angola
+4,Calm Down,Rema,['nigerian pop'],81,84,0.811,0.781,11,-6.333,1,0.0428,0.376,0.121,0.824,107.007,Angola
+5,AVÉ,Djodje,"['kizomba', 'musica santomense', 'portuguese pop']",50,47,0.575,0.722,9,-7.172,0,0.211,0.0288,0.189,0.621,184.117,Angola
+6,Trompete,Soraia Ramos,"['kizomba', 'portuguese pop']",50,49,0.715,0.711,1,-8.262,0,0.226,0.203,0.439,0.674,115.023,Angola
+7,Versos & Poesias #4: Céu Azul,Dj Black Spygo,['trap angolano'],38,1,0.736,0.71,0,-5.025,0,0.229,0.541,0.11,0.787,95.222,Angola
+8,Collabo,June Freedom,['kizomba'],56,62,0.725,0.444,6,-9.704,0,0.133,0.56,0.124,0.821,91.992,Angola
+9,BKBN,Soraia Ramos,"['kizomba', 'portuguese pop']",50,46,0.695,0.691,1,-6.113,1,0.113,0.524,0.683,0.769,97.548,Angola
+10,Brabo,Brada,[],24,29,0.876,0.688,2,-6.881,1,0.0825,0.000909,0.038,0.41,125.965,Angola
+11,Ka nu komplika,Ricky Man,['kizomba cabo-verdiana'],23,30,0.793,0.524,2,-8.254,0,0.0633,0.223,0.0858,0.484,95.031,Angola
+12,Clima,Landrick,"['kizomba', 'musica angolana']",43,44,0.569,0.762,1,-4.697,1,0.237,0.21,0.0657,0.81,191.976,Angola
+13,Paké,Loony Johnson,"['kizomba', 'kizomba cabo-verdiana', 'zouk']",44,37,0.769,0.634,0,-6.472,1,0.137,0.0843,0.229,0.517,93.031,Angola
+14,Repite,Tony Fika,['funana'],29,31,0.591,0.675,5,-8.558,1,0.0388,0.123,0.126,0.383,94.009,Angola
+15,Toda Hora,Brada,[],24,26,0.832,0.806,11,-7.058,0,0.186,0.0137,0.0548,0.46,125.971,Angola
+16,GOD MODE,Mizzy Miles,['hip hop tuga'],51,42,0.542,0.66,0,-5.606,0,0.297,0.421,0.12,0.563,135.36,Angola
+17,Como Se Te Fosse Perder,Anselmo Ralph,"['kizomba', 'musica angolana', 'portuguese pop', 'semba']",51,51,0.611,0.445,1,-10.903,1,0.0464,0.597,0.107,0.288,135.949,Angola
+18,My Queen,Helio Baiano,[],33,47,0.65,0.493,7,-4.9,1,0.36,0.169,0.0802,0.568,179.888,Angola
+19,Bater (Afrotrap Freestyle),Sean P,[],26,13,0.859,0.844,11,-6.943,1,0.286,0.16,0.0677,0.402,95.985,Angola
+20,Cuidar de Mim,Messias Maricoa,"['kizomba', 'portuguese pop']",37,31,0.588,0.569,2,-10.361,1,0.0704,0.182,0.197,0.217,176.031,Angola
+21,Relationship Goals,Prodigio,"['hip hop tuga', 'trap angolano']",43,40,0.678,0.809,11,-5.266,1,0.336,0.367,0.104,0.72,97.763,Angola
+22,Manxeda,Djodje,"['kizomba', 'musica santomense', 'portuguese pop']",50,26,0.891,0.677,11,-6.544,0,0.0495,0.000737,0.0807,0.449,126.08,Angola
+23,Tá Tipo,Sean P,[],26,15,0.911,0.856,3,-9.34,0,0.271,0.337,0.134,0.222,132.072,Angola
+24,VIP,Aya Nakamura,"['basshall', 'francoton', 'pop urbaine']",70,67,0.889,0.436,5,-9.576,0,0.172,0.0485,0.106,0.411,92.998,Angola
+25,Suleban,William Araujo,"['kizomba', 'kizomba cabo-verdiana', 'musica angolana']",36,46,0.764,0.524,10,-8.178,1,0.211,0.139,0.105,0.461,97.025,Angola
+26,Mbappé - Afro Tropical,IVANN,['rap ivoire'],45,45,0.821,0.612,6,-7.123,1,0.191,0.374,0.119,0.698,119.918,Angola
+27,My Boy,Brada,[],24,29,0.787,0.429,4,-11.967,0,0.0503,0.721,0.158,0.261,105.07,Angola
+28,Não Vai Lá,Pérola,"['kizomba', 'musica angolana', 'semba']",41,35,0.736,0.623,8,-8.267,1,0.076,0.405,0.173,0.878,104.933,Angola
+29,Sodadi Bo,Neyna,"['kizomba', 'kizomba cabo-verdiana']",42,38,0.741,0.705,0,-7.54,1,0.0803,0.315,0.0868,0.322,95.032,Angola
+30,Tamu a Brilhar - Remix,CEF Tanzy,"['kizomba', 'musica angolana']",40,23,0.713,0.841,10,-3.607,0,0.424,0.172,0.111,0.571,139.305,Angola
+31,Pecado,Brada,[],24,25,0.914,0.568,5,-7.134,0,0.0687,0.00293,0.0609,0.662,126.035,Angola
+32,MR.AGENT,Dj Doraemon,[],19,12,0.924,0.747,2,-10.305,1,0.066,0.00145,0.0866,0.0509,129.999,Angola
+33,Só Mais Uma Vez,Anselmo Ralph,"['kizomba', 'musica angolana', 'portuguese pop', 'semba']",51,30,0.718,0.646,4,-7.317,1,0.0564,0.47,0.123,0.514,95.051,Angola
+34,Momentos,Kizomba da Boa,['kizomba'],29,33,0.527,0.72,7,-5.87,1,0.215,0.508,0.127,0.582,93.953,Angola
+35,Medo,Brada,[],24,24,0.795,0.564,11,-7.418,1,0.15,0.000376,0.0659,0.168,126.015,Angola
+36,Dança Pra Rir,KM-Beats,[],9,15,0.793,0.863,5,-2.917,0,0.299,0.13,0.136,0.575,131.877,Angola
+37,Tudo de Novo,Eva Rapdiva,['rap angolano'],28,43,0.632,0.609,4,-5.998,0,0.201,0.0723,0.336,0.23,179.857,Angola
+38,Poporó,Preto Show,"['hip hop tuga', 'kizomba', 'musica angolana', 'rap angolano']",39,0,0.777,0.712,11,-8.96,1,0.155,0.0402,0.11,0.574,140.973,Angola
+39,Assume,Brada,[],24,26,0.542,0.569,8,-7.934,1,0.333,0.00175,0.0738,0.036,189.057,Angola
+40,Ai Trabalha,Ingomblock,[],29,34,0.944,0.563,0,-5.706,0,0.119,0.0217,0.0669,0.368,131.979,Angola
+41,Lua,Ivandro,['trap tuga'],59,64,0.629,0.348,3,-10.154,0,0.0854,0.843,0.117,0.35,152.088,Angola
+42,Bolacha De Nuvem (Nha Cretcheu),Biura,['rap angolano'],22,30,0.636,0.657,5,-5.172,1,0.238,0.0552,0.161,0.494,179.852,Angola
+43,Brabo - Instrumental Mix,Brada,[],24,17,0.921,0.719,2,-7.131,1,0.0436,0.000195,0.0371,0.218,126.039,Angola
+44,Preto No Branco,Yola Araújo,"['kizomba', 'musica angolana']",31,24,0.589,0.77,0,-3.853,0,0.0621,0.318,0.0932,0.408,89.759,Angola
+45,Sentimento,Kizomba da Boa,['kizomba'],29,34,0.661,0.823,1,-6.585,0,0.0954,0.134,0.106,0.698,97.754,Angola
+46,Origins - Cap. I,Brada,[],24,17,0.812,0.7,5,-9.319,0,0.115,0.0193,0.337,0.668,126.103,Angola
+47,Cabelos Brancos,Prodigio,"['hip hop tuga', 'trap angolano']",43,20,0.576,0.655,7,-3.759,1,0.252,0.319,0.127,0.522,74.818,Angola
+48,Adoro,CEF Tanzy,"['kizomba', 'musica angolana']",40,38,0.682,0.859,10,-3.374,0,0.0606,0.0483,0.18,0.476,100.042,Angola
+49,Vô Te Daa,Scró Q Cuia,[],17,26,0.935,0.8,9,-5.101,1,0.247,0.00107,0.063,0.885,128.05,Angola

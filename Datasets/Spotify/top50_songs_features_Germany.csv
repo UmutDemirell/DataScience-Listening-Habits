@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Zukunft Pink (feat. Inéz),Peter Fox,['german pop'],69,81,0.903,0.719,1,-8.054,1,0.052,0.514,0.743,0.639,118.036,Germany
+1,LET GO,Central Cee,['melodic drill'],83,89,0.735,0.449,2,-9.933,0,0.383,0.859,0.213,0.514,146.016,Germany
+2,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,Germany
+3,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,Germany
+4,Bamba (feat. Aitch & BIA),Luciano,['german drill'],77,74,0.797,0.791,10,-6.281,1,0.33,0.119,0.113,0.828,138.026,Germany
+5,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,Germany
+6,Mockingbird,Eminem,"['detroit hip hop', 'hip hop', 'rap']",92,92,0.637,0.678,0,-3.798,1,0.266,0.209,0.156,0.254,84.039,Germany
+7,Wildberry Lillet,Nina Chuba,"['german hip hop', 'hamburg hip hop']",71,78,0.89,0.521,6,-7.048,0,0.169,0.078,0.0958,0.646,139.981,Germany
+8,Escapism.,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,76,0.538,0.742,2,-5.355,1,0.114,0.138,0.0934,0.25,96.107,Germany
+9,Glatteis,Nina Chuba,"['german hip hop', 'hamburg hip hop']",71,75,0.782,0.565,6,-7.221,0,0.136,0.113,0.0954,0.137,134.962,Germany
+10,Miss You,southstar,[],70,83,0.663,0.559,6,-12.876,0,0.0391,0.136,0.108,0.296,145.007,Germany
+11,Another Love,Tom Odell,"['chill pop', 'pop']",80,66,0.442,0.538,4,-8.55,0,0.0451,0.717,0.09,0.139,122.758,Germany
+12,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,Germany
+13,Give It To Me - Full Vocal Mix,Matt Sassari,"['french tech house', 'french techno']",67,82,0.874,0.869,1,-5.996,0,0.0315,0.00116,0.164,0.726,126.027,Germany
+14,Ich hass dich,Nina Chuba,"['german hip hop', 'hamburg hip hop']",71,75,0.822,0.683,0,-5.465,0,0.0861,0.481,0.101,0.53,145.045,Germany
+15,Bad Memories (feat. Elley Duhé & FAST BOY),MEDUZA,"['dance pop', 'edm', 'electro house', 'pop dance', 'pop house', 'tropical house']",77,86,0.607,0.767,5,-6.069,0,0.0474,0.118,0.122,0.662,123.998,Germany
+16,Beautiful Girl,Luciano,['german drill'],77,70,0.846,0.42,11,-8.659,0,0.104,0.296,0.09,0.621,139.883,Germany
+17,Buzz Down,Bonez MC,"['german hip hop', 'hamburg hip hop']",77,74,0.837,0.513,1,-8.651,1,0.483,0.473,0.117,0.557,159.966,Germany
+18,Miss You,Oliver Tree,['alternative hip hop'],83,93,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.146,0.199,145.007,Germany
+19,Moulaga,MADE,['german hip hop'],66,74,0.719,0.476,2,-10.453,0,0.319,0.166,0.111,0.447,96.962,Germany
+20,Bloody Mary,Lady Gaga,"['art pop', 'dance pop', 'pop']",87,80,0.591,0.637,9,-6.365,0,0.03,0.0107,0.113,0.432,99.998,Germany
+21,Bei Nacht,AYLIVA,[],69,70,0.629,0.458,5,-7.159,1,0.0374,0.14,0.263,0.0758,77.525,Germany
+22,Weihnachtsbäckerei,Nimo,"['german hip hop', 'swedish hip hop']",71,68,0.838,0.771,3,-3.618,0,0.14,0.256,0.125,0.749,134.037,Germany
+23,Ferrari,James Hype,"['deep groove house', 'edm', 'house', 'pop dance', 'uk dance']",74,86,0.847,0.69,1,-7.877,0,0.0493,0.0127,0.0526,0.692,125.004,Germany
+24,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,Germany
+25,Call It Love,Felix Jaehn,"['dance pop', 'edm', 'electro house', 'german dance', 'pop', 'pop dance', 'tropical house']",75,81,0.616,0.841,5,-4.779,0,0.076,0.0559,0.417,0.714,110.029,Germany
+26,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,Germany
+27,Nachts wach,Miksu / Macloud,['german hip hop'],71,73,0.719,0.685,6,-7.083,0,0.257,0.569,0.263,0.632,136.172,Germany
+28,Belly Dancer,Imanbek,"['dance pop', 'edm', 'electro house', 'pop dance', 'slap house', 'tropical house']",76,85,0.845,0.797,1,-4.984,1,0.139,0.0582,0.167,0.422,121.985,Germany
+29,Liebst du mich,Sido,['german hip hop'],76,65,0.69,0.783,3,-6.924,1,0.0709,0.00402,0.114,0.814,105.0,Germany
+30,Powerade,Ion Miles,"['german cloud rap', 'german hip hop', 'german trap']",63,69,0.89,0.72,6,-5.202,0,0.0729,0.193,0.641,0.935,150.09,Germany
+31,SNAP,Rosa Linn,['alt z'],77,49,0.565,0.636,0,-8.198,1,0.0638,0.107,0.447,0.525,170.01,Germany
+32,How Do I Say Goodbye,Dean Lewis,"['australian pop', 'pop']",79,76,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0656,0.393,81.552,Germany
+33,Du Fehlst,Eddin,"['german hip hop', 'german trap']",63,74,0.638,0.442,0,-10.121,0,0.052,0.0993,0.173,0.376,138.859,Germany
+34,Layla,DJ Robin,['partyschlager'],59,67,0.448,0.921,5,-3.468,0,0.0687,0.00124,0.383,0.375,140.067,Germany
+35,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,Germany
+36,Follow,Kontra K,"['christlicher rap', 'german hip hop']",73,74,0.719,0.628,8,-6.269,0,0.211,0.0733,0.119,0.472,139.957,Germany
+37,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,"['lgbtq+ hip hop', 'pop']",83,89,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0892,0.308,141.872,Germany
+38,Party Sahne,Ski Aggu,"['german hip hop', 'german trap']",63,58,0.843,0.928,5,-4.988,0,0.0854,0.0775,0.258,0.725,135.978,Germany
+39,Sehnsucht,Miksu / Macloud,['german hip hop'],71,72,0.804,0.645,6,-7.069,0,0.0773,0.642,0.173,0.912,142.09,Germany
+40,Another Love,OsTEKKe,[],59,75,0.63,0.458,6,-14.172,1,0.0718,0.15,0.108,0.208,170.042,Germany
+41,10:35,Tiësto,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance', 'tropical house']",84,87,0.696,0.793,8,-5.733,1,0.097,0.0683,0.18,0.698,120.003,Germany
+42,Under The Influence,Chris Brown,"['dance pop', 'r&b']",89,94,0.733,0.69,9,-5.529,0,0.0427,0.0635,0.105,0.31,116.992,Germany
+43,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,Germany
+44,Nur für Dich,Kontra K,"['christlicher rap', 'german hip hop']",73,73,0.67,0.498,6,-8.236,0,0.332,0.722,0.116,0.355,81.914,Germany
+45,Heavy Metal Love,twocolors,"['dance pop', 'edm', 'pop dance', 'pop edm', 'tropical house']",65,75,0.768,0.767,5,-8.06,0,0.0358,0.194,0.121,0.457,125.029,Germany
+46,PARADISE (MIT DIR),Liaze,"['german hip hop', 'german trap']",61,73,0.666,0.534,2,-8.495,0,0.0828,0.269,0.068,0.392,139.998,Germany
+47,Der Berg ruft,Bausa,['german hip hop'],66,71,0.895,0.763,0,-7.267,1,0.261,0.239,0.314,0.525,129.994,Germany
+48,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,Germany
+49,Someone Else,ClockClock,[],61,72,0.817,0.784,5,-4.971,0,0.0463,0.119,0.13,0.537,131.995,Germany

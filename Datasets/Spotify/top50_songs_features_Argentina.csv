@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,La Bachata,Manuel Turizo,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",85,97,0.835,0.679,7,-5.329,0,0.0364,0.583,0.218,0.85,124.98,Argentina
+1,Marisola - Remix,Cris Mj,"['mambo chileno', 'urbano chileno', 'urbano latino']",81,81,0.765,0.872,1,-5.863,1,0.0498,0.173,0.0749,0.722,94.999,Argentina
+2,Dos Besitos,La Joaqui,"['argentine hip hop', 'rap latina']",74,80,0.864,0.667,5,-4.617,0,0.0833,0.245,0.0998,0.782,96.889,Argentina
+3,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",86,96,0.621,0.782,2,-5.548,1,0.044,0.0125,0.23,0.55,128.033,Argentina
+4,Punto G,Quevedo,"['rap canario', 'urbano latino']",87,89,0.751,0.761,11,-4.113,0,0.15,0.251,0.0991,0.553,92.032,Argentina
+5,Tu Turrito,Rei,['trap argentino'],73,82,0.838,0.545,9,-6.1,0,0.0604,0.0966,0.0927,0.428,90.023,Argentina
+6,CÓMO CHILLA ELLA,YSY A,"['argentine hip hop', 'trap argentino']",79,82,0.933,0.699,2,-8.0,0,0.177,0.197,0.0617,0.798,128.036,Argentina
+7,ARRANCARMELO,WOS,"['argentine indie', 'trap argentino']",74,81,0.654,0.354,5,-7.358,1,0.0738,0.724,0.134,0.262,81.956,Argentina
+8,Ya No Vuelvas (Versión Cuarteto),Luck Ra,"['trap argentino', 'trap triste']",64,74,0.736,0.9,1,-4.575,1,0.0825,0.224,0.375,0.562,149.947,Argentina
+9,Hey Mor,Ozuna,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",90,91,0.901,0.589,1,-6.713,0,0.289,0.00302,0.0992,0.399,98.002,Argentina
+10,Butakera,La Joaqui,"['argentine hip hop', 'rap latina']",74,81,0.871,0.563,1,-6.422,1,0.0618,0.56,0.0665,0.457,88.96,Argentina
+11,DESPECHÁ,ROSALÍA,['r&b en espanol'],86,86,0.914,0.622,7,-6.538,1,0.0892,0.146,0.0632,0.77,130.04,Argentina
+12,CALLEJERO FINO | DJ TAO Turreo Sessions #723,DJ Tao,"['cumbia 420', 'previa']",67,78,0.774,0.877,10,-4.054,1,0.0623,0.0304,0.429,0.648,92.997,Argentina
+13,Pa’ la Selección,La T y La M,['previa'],65,69,0.605,0.572,11,-6.06,0,0.0435,0.144,0.721,0.834,84.827,Argentina
+14,Vista Al Mar,Quevedo,"['rap canario', 'urbano latino']",87,89,0.759,0.561,0,-5.643,0,0.131,0.803,0.101,0.491,104.915,Argentina
+15,TU AMOR | E7,DJ Alex,"['cumbia 420', 'previa']",66,78,0.668,0.543,6,-10.298,0,0.0435,0.265,0.347,0.671,136.459,Argentina
+16,Besos Moja2,Wisin & Yandel,"['electro latino', 'latin hip hop', 'reggaeton', 'urbano latino']",83,82,0.736,0.727,5,-4.642,0,0.0571,0.0584,0.0976,0.644,94.048,Argentina
+17,Perfecta,Rusherking,"['trap argentino', 'trap triste']",72,78,0.649,0.487,5,-7.872,1,0.232,0.08,0.232,0.681,179.946,Argentina
+18,FERNET,Rei,['trap argentino'],73,79,0.71,0.738,6,-4.077,0,0.0861,0.156,0.0661,0.608,98.958,Argentina
+19,La Triple T,TINI,"['latin pop', 'pop argentino']",79,82,0.801,0.633,11,-2.785,0,0.0777,0.414,0.27,0.676,92.025,Argentina
+20,Me Porto Bonito,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,95,0.911,0.712,1,-5.105,0,0.0817,0.0901,0.0933,0.425,92.005,Argentina
+21,Ojitos Lindos,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.647,0.686,3,-5.745,0,0.0413,0.08,0.528,0.268,79.928,Argentina
+22,cómo dormiste?,Rels B,"['r&b en espanol', 'spanish hip hop', 'trap latino', 'urbano espanol', 'urbano latino']",82,86,0.627,0.429,1,-8.255,1,0.234,0.238,0.122,0.565,126.426,Argentina
+23,Monotonía,Shakira,"['colombian pop', 'dance pop', 'latin pop']",87,91,0.873,0.695,0,-4.207,0,0.0459,0.419,0.211,0.823,131.963,Argentina
+24,Ya No Quiero Verte,El Polaco,"['cumbia pop', 'cumbia villera']",63,75,0.619,0.731,7,-5.711,0,0.257,0.136,0.0444,0.604,139.875,Argentina
+25,AUTOMÁTICO,Maria Becerra,['pop argentino'],83,70,0.68,0.808,10,-3.854,0,0.224,0.0911,0.205,0.868,176.131,Argentina
+26,LA NENA DE ARGENTINA,Maria Becerra,['pop argentino'],83,79,0.531,0.58,5,-4.688,0,0.188,0.0984,0.101,0.887,169.865,Argentina
+27,A POR TODO,YSY A,"['argentine hip hop', 'trap argentino']",79,77,0.796,0.567,11,-8.32,0,0.199,0.0732,0.239,0.226,82.02,Argentina
+28,La Jumpa,Arcángel,"['latin hip hop', 'reggaeton', 'urbano latino']",87,85,0.887,0.234,9,-14.52,1,0.178,0.111,0.13,0.197,140.02,Argentina
+29,CALLEJERO FINO | Mission 10,Alan Gomez,['cumbia 420'],72,77,0.88,0.531,6,-7.738,1,0.147,0.584,0.114,0.522,92.957,Argentina
+30,"Duki: Bzrp Music Sessions, Vol. 50",Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",86,86,0.535,0.874,9,-2.248,0,0.137,0.371,0.192,0.323,140.006,Argentina
+31,GIVENCHY,Duki,"['argentine hip hop', 'trap argentino', 'trap latino', 'trap triste', 'urbano latino']",85,77,0.607,0.619,8,-6.726,1,0.396,0.142,0.231,0.377,102.974,Argentina
+32,Universo Paralelo,La K'onga,['cuarteto'],74,72,0.619,0.739,4,-5.743,1,0.167,0.464,0.285,0.672,149.975,Argentina
+33,"Muchachos, Ahora Nos Volvimos a Ilusionar",La Mosca Tse-Tse,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol', 'ska argentino']",67,76,0.699,0.871,7,-4.776,0,0.0621,0.283,0.0867,0.927,109.975,Argentina
+34,Te Mentiría,La K'onga,['cuarteto'],74,70,0.651,0.731,7,-6.889,1,0.0549,0.116,0.0708,0.653,153.104,Argentina
+35,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,[],72,73,0.419,0.711,11,-4.083,0,0.0488,0.0513,0.243,0.529,82.18,Argentina
+36,Tití Me Preguntó,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,94,0.65,0.715,5,-5.198,0,0.253,0.0993,0.126,0.187,106.672,Argentina
+37,Efecto,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,93,0.801,0.475,7,-8.797,0,0.0516,0.141,0.0639,0.234,98.047,Argentina
+38,Caile,Luar La L,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",73,86,0.704,0.756,0,-4.948,1,0.448,0.298,0.0852,0.461,121.737,Argentina
+39,CUÁNTO VALE HACER EL AMOR?,YSY A,"['argentine hip hop', 'trap argentino']",79,74,0.854,0.697,6,-8.538,0,0.207,0.387,0.101,0.499,104.982,Argentina
+40,Miénteme,TINI,"['latin pop', 'pop argentino']",79,81,0.85,0.541,2,-4.522,1,0.0674,0.161,0.286,0.916,92.003,Argentina
+41,Gato de Noche,Ñengo Flow,"['latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",82,85,0.892,0.662,8,-3.894,1,0.162,0.169,0.363,0.607,93.976,Argentina
+42,Rompe,El negro tecla,['rkt'],58,71,0.858,0.513,2,-7.819,1,0.109,0.0358,0.116,0.42,85.993,Argentina
+43,Éxtasis,Manuel Turizo,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",85,81,0.829,0.747,7,-3.511,1,0.149,0.276,0.339,0.576,98.03,Argentina
+44,Te Felicito,Shakira,"['colombian pop', 'dance pop', 'latin pop']",87,87,0.695,0.636,5,-4.654,1,0.317,0.234,0.081,0.575,174.14,Argentina
+45,Pechito Partido,Rei,['trap argentino'],73,73,0.829,0.633,0,-6.295,1,0.0723,0.169,0.207,0.598,89.961,Argentina
+46,PUNTO 40,Rauw Alejandro,"['puerto rican pop', 'trap latino', 'urbano latino']",91,80,0.857,0.829,0,-0.484,1,0.0842,0.00112,0.255,0.208,106.993,Argentina
+47,CUÁNTOS TÉRMINOS?,YSY A,"['argentine hip hop', 'trap argentino']",79,74,0.738,0.744,11,-5.605,0,0.103,0.0478,0.251,0.569,124.492,Argentina
+48,Mañosa,La Joaqui,"['argentine hip hop', 'rap latina']",74,69,0.902,0.62,5,-4.012,0,0.068,0.0797,0.0422,0.756,124.018,Argentina
+49,Hood - Remix,Trueno,"['argentine hip hop', 'bases de freestyle', 'trap argentino']",76,77,0.674,0.456,3,-6.253,1,0.0399,0.785,0.126,0.933,89.967,Argentina

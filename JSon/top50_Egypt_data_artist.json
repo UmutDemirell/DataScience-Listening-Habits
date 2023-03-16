@@ -1,0 +1,1800 @@
+[
+    {
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 417831
+                },
+                "genres": [
+                    "egyptian alternative",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1ZpCdBZ3rL0mXxMhzhOBvi",
+                "id": "1ZpCdBZ3rL0mXxMhzhOBvi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebbbdcacbcd1603b8c97ac2de5",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174bbdcacbcd1603b8c97ac2de5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178bbdcacbcd1603b8c97ac2de5",
+                        "width": 160
+                    }
+                ],
+                "name": "Mohammed Saeed",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:1ZpCdBZ3rL0mXxMhzhOBvi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2686544
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4BKC2HOGEqtYz2Xbgp9N1q",
+                "id": "4BKC2HOGEqtYz2Xbgp9N1q",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb185a8c7cf90489ccd67cc501",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174185a8c7cf90489ccd67cc501",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178185a8c7cf90489ccd67cc501",
+                        "width": 160
+                    }
+                ],
+                "name": "Wegz",
+                "popularity": 61,
+                "type": "artist",
+                "uri": "spotify:artist:4BKC2HOGEqtYz2Xbgp9N1q"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1043370
+                },
+                "genres": [
+                    "egyptian alternative"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2PM82jOCB674w4BL08zFVS",
+                "id": "2PM82jOCB674w4BL08zFVS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb03ed049216ad8cc3047a6d03",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517403ed049216ad8cc3047a6d03",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17803ed049216ad8cc3047a6d03",
+                        "width": 160
+                    }
+                ],
+                "name": "Muslim - مُسلِم",
+                "popularity": 57,
+                "type": "artist",
+                "uri": "spotify:artist:2PM82jOCB674w4BL08zFVS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1454569
+                },
+                "genres": [
+                    "egyptian pop",
+                    "mahraganat"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2KjiHtx0h8tyJXbg8aYRgu",
+                "id": "2KjiHtx0h8tyJXbg8aYRgu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f032994e1fcf8b701ab4e37f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f032994e1fcf8b701ab4e37f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f032994e1fcf8b701ab4e37f",
+                        "width": 64
+                    }
+                ],
+                "name": "Essam Sasa",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:2KjiHtx0h8tyJXbg8aYRgu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2686544
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4BKC2HOGEqtYz2Xbgp9N1q",
+                "id": "4BKC2HOGEqtYz2Xbgp9N1q",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb185a8c7cf90489ccd67cc501",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174185a8c7cf90489ccd67cc501",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178185a8c7cf90489ccd67cc501",
+                        "width": 160
+                    }
+                ],
+                "name": "Wegz",
+                "popularity": 61,
+                "type": "artist",
+                "uri": "spotify:artist:4BKC2HOGEqtYz2Xbgp9N1q"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 799320
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7yBuSjd5Z3w7acodk51evR",
+                "id": "7yBuSjd5Z3w7acodk51evR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d67f4b7e9100a60b6fd108fd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d67f4b7e9100a60b6fd108fd",
+                        "width": 64
+                    }
+                ],
+                "name": "Afroto",
+                "popularity": 54,
+                "type": "artist",
+                "uri": "spotify:artist:7yBuSjd5Z3w7acodk51evR"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 36805
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/5OaC42gxOxSYgfmmSxe672",
+                "id": "5OaC42gxOxSYgfmmSxe672",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a1117fd5432134ed146d6a99",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a1117fd5432134ed146d6a99",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485150e0692b0287fa0261d080cc",
+                        "width": 64
+                    }
+                ],
+                "name": "Farid",
+                "popularity": 48,
+                "type": "artist",
+                "uri": "spotify:artist:5OaC42gxOxSYgfmmSxe672"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1043370
+                },
+                "genres": [
+                    "egyptian alternative"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2PM82jOCB674w4BL08zFVS",
+                "id": "2PM82jOCB674w4BL08zFVS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb03ed049216ad8cc3047a6d03",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517403ed049216ad8cc3047a6d03",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17803ed049216ad8cc3047a6d03",
+                        "width": 160
+                    }
+                ],
+                "name": "Muslim - مُسلِم",
+                "popularity": 57,
+                "type": "artist",
+                "uri": "spotify:artist:2PM82jOCB674w4BL08zFVS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 84232
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/388NKDhzE7FJ40ODmOr7aI",
+                "id": "388NKDhzE7FJ40ODmOr7aI",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb124595fec6852cf7952f3d9d",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174124595fec6852cf7952f3d9d",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178124595fec6852cf7952f3d9d",
+                        "width": 160
+                    }
+                ],
+                "name": "Husayn",
+                "popularity": 48,
+                "type": "artist",
+                "uri": "spotify:artist:388NKDhzE7FJ40ODmOr7aI"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 181417
+                },
+                "genres": [
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4rACOXTxSYqwgynYKJJpDX",
+                "id": "4rACOXTxSYqwgynYKJJpDX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebaf163a4a111656b7c9441edf",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174af163a4a111656b7c9441edf",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178af163a4a111656b7c9441edf",
+                        "width": 160
+                    }
+                ],
+                "name": "FL EX",
+                "popularity": 54,
+                "type": "artist",
+                "uri": "spotify:artist:4rACOXTxSYqwgynYKJJpDX"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 417831
+                },
+                "genres": [
+                    "egyptian alternative",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1ZpCdBZ3rL0mXxMhzhOBvi",
+                "id": "1ZpCdBZ3rL0mXxMhzhOBvi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebbbdcacbcd1603b8c97ac2de5",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174bbdcacbcd1603b8c97ac2de5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178bbdcacbcd1603b8c97ac2de5",
+                        "width": 160
+                    }
+                ],
+                "name": "Mohammed Saeed",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:1ZpCdBZ3rL0mXxMhzhOBvi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1714663
+                },
+                "genres": [
+                    "arab pop",
+                    "egyptian pop",
+                    "shaabi"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5D2ui1KD49TfyCDb35zf5V",
+                "id": "5D2ui1KD49TfyCDb35zf5V",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6ff90eeed5980b88f9cec74f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051746ff90eeed5980b88f9cec74f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1786ff90eeed5980b88f9cec74f",
+                        "width": 160
+                    }
+                ],
+                "name": "Ahmed Saad",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:5D2ui1KD49TfyCDb35zf5V"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1454569
+                },
+                "genres": [
+                    "egyptian pop",
+                    "mahraganat"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2KjiHtx0h8tyJXbg8aYRgu",
+                "id": "2KjiHtx0h8tyJXbg8aYRgu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f032994e1fcf8b701ab4e37f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f032994e1fcf8b701ab4e37f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f032994e1fcf8b701ab4e37f",
+                        "width": 64
+                    }
+                ],
+                "name": "Essam Sasa",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:2KjiHtx0h8tyJXbg8aYRgu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 651460
+                },
+                "genres": [
+                    "mahraganat"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4U7K3Xm1CXe5FpBGYUcHUZ",
+                "id": "4U7K3Xm1CXe5FpBGYUcHUZ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebed233f96b0a12f394e6fc371",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ed233f96b0a12f394e6fc371",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ed233f96b0a12f394e6fc371",
+                        "width": 160
+                    }
+                ],
+                "name": "3enba",
+                "popularity": 52,
+                "type": "artist",
+                "uri": "spotify:artist:4U7K3Xm1CXe5FpBGYUcHUZ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 973408
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2BBnFUgIaLHqoRYPfshoPb",
+                "id": "2BBnFUgIaLHqoRYPfshoPb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb1b76b7593dd69f7eabe61838",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051741b76b7593dd69f7eabe61838",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1781b76b7593dd69f7eabe61838",
+                        "width": 160
+                    }
+                ],
+                "name": "Marwan Moussa",
+                "popularity": 59,
+                "type": "artist",
+                "uri": "spotify:artist:2BBnFUgIaLHqoRYPfshoPb"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 100466
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/63OMTYC88PAsd7ffM3ErQv",
+                "id": "63OMTYC88PAsd7ffM3ErQv",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730191ee016ecdb5f8c19edb10",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020191ee016ecdb5f8c19edb10",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510191ee016ecdb5f8c19edb10",
+                        "width": 64
+                    }
+                ],
+                "name": "Muslim",
+                "popularity": 46,
+                "type": "artist",
+                "uri": "spotify:artist:63OMTYC88PAsd7ffM3ErQv"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1454569
+                },
+                "genres": [
+                    "egyptian pop",
+                    "mahraganat"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2KjiHtx0h8tyJXbg8aYRgu",
+                "id": "2KjiHtx0h8tyJXbg8aYRgu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f032994e1fcf8b701ab4e37f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f032994e1fcf8b701ab4e37f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f032994e1fcf8b701ab4e37f",
+                        "width": 64
+                    }
+                ],
+                "name": "Essam Sasa",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:2KjiHtx0h8tyJXbg8aYRgu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1043370
+                },
+                "genres": [
+                    "egyptian alternative"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2PM82jOCB674w4BL08zFVS",
+                "id": "2PM82jOCB674w4BL08zFVS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb03ed049216ad8cc3047a6d03",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517403ed049216ad8cc3047a6d03",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17803ed049216ad8cc3047a6d03",
+                        "width": 160
+                    }
+                ],
+                "name": "Muslim - مُسلِم",
+                "popularity": 57,
+                "type": "artist",
+                "uri": "spotify:artist:2PM82jOCB674w4BL08zFVS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2686544
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4BKC2HOGEqtYz2Xbgp9N1q",
+                "id": "4BKC2HOGEqtYz2Xbgp9N1q",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb185a8c7cf90489ccd67cc501",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174185a8c7cf90489ccd67cc501",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178185a8c7cf90489ccd67cc501",
+                        "width": 160
+                    }
+                ],
+                "name": "Wegz",
+                "popularity": 61,
+                "type": "artist",
+                "uri": "spotify:artist:4BKC2HOGEqtYz2Xbgp9N1q"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1343044
+                },
+                "genres": [
+                    "arab alternative",
+                    "egyptian alternative",
+                    "egyptian hip hop",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2GVksDv9UpY60i4CvytrZK",
+                "id": "2GVksDv9UpY60i4CvytrZK",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb031d0209d9cb8abbc0505769",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174031d0209d9cb8abbc0505769",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178031d0209d9cb8abbc0505769",
+                        "width": 160
+                    }
+                ],
+                "name": "Cairokee",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:2GVksDv9UpY60i4CvytrZK"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3481893
+                },
+                "genres": [
+                    "rap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebdf9a1555f53a20087b8c5a5c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174df9a1555f53a20087b8c5a5c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178df9a1555f53a20087b8c5a5c",
+                        "width": 160
+                    }
+                ],
+                "name": "Metro Boomin",
+                "popularity": 92,
+                "type": "artist",
+                "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 283015
+                },
+                "genres": [
+                    "egyptian alternative",
+                    "egyptian hip hop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3yLKIh0kKryfCRygWN5wFv",
+                "id": "3yLKIh0kKryfCRygWN5wFv",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733b63af88cb58c1ba11aad8bb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023b63af88cb58c1ba11aad8bb",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513b63af88cb58c1ba11aad8bb",
+                        "width": 64
+                    }
+                ],
+                "name": "Zap Tharwat",
+                "popularity": 43,
+                "type": "artist",
+                "uri": "spotify:artist:3yLKIh0kKryfCRygWN5wFv"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 181417
+                },
+                "genres": [
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4rACOXTxSYqwgynYKJJpDX",
+                "id": "4rACOXTxSYqwgynYKJJpDX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebaf163a4a111656b7c9441edf",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174af163a4a111656b7c9441edf",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178af163a4a111656b7c9441edf",
+                        "width": 160
+                    }
+                ],
+                "name": "FL EX",
+                "popularity": 54,
+                "type": "artist",
+                "uri": "spotify:artist:4rACOXTxSYqwgynYKJJpDX"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 417831
+                },
+                "genres": [
+                    "egyptian alternative",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1ZpCdBZ3rL0mXxMhzhOBvi",
+                "id": "1ZpCdBZ3rL0mXxMhzhOBvi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebbbdcacbcd1603b8c97ac2de5",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174bbdcacbcd1603b8c97ac2de5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178bbdcacbcd1603b8c97ac2de5",
+                        "width": 160
+                    }
+                ],
+                "name": "Mohammed Saeed",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:1ZpCdBZ3rL0mXxMhzhOBvi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 9637417
+                },
+                "genres": [
+                    "pop",
+                    "r&b"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+                "id": "7tYKF4w9nC0nq9CsPZTHyP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747eb7f6371aad8e67e01f0a03",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787eb7f6371aad8e67e01f0a03",
+                        "width": 160
+                    }
+                ],
+                "name": "SZA",
+                "popularity": 94,
+                "type": "artist",
+                "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 973408
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2BBnFUgIaLHqoRYPfshoPb",
+                "id": "2BBnFUgIaLHqoRYPfshoPb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb1b76b7593dd69f7eabe61838",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051741b76b7593dd69f7eabe61838",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1781b76b7593dd69f7eabe61838",
+                        "width": 160
+                    }
+                ],
+                "name": "Marwan Moussa",
+                "popularity": 59,
+                "type": "artist",
+                "uri": "spotify:artist:2BBnFUgIaLHqoRYPfshoPb"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 74483
+                },
+                "genres": [
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3i5MnWpawRCC9SYhLIHP7W",
+                "id": "3i5MnWpawRCC9SYhLIHP7W",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebf91c6869e1419c7e25c76f5f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174f91c6869e1419c7e25c76f5f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178f91c6869e1419c7e25c76f5f",
+                        "width": 160
+                    }
+                ],
+                "name": "Wingii",
+                "popularity": 46,
+                "type": "artist",
+                "uri": "spotify:artist:3i5MnWpawRCC9SYhLIHP7W"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 973408
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2BBnFUgIaLHqoRYPfshoPb",
+                "id": "2BBnFUgIaLHqoRYPfshoPb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb1b76b7593dd69f7eabe61838",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051741b76b7593dd69f7eabe61838",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1781b76b7593dd69f7eabe61838",
+                        "width": 160
+                    }
+                ],
+                "name": "Marwan Moussa",
+                "popularity": 59,
+                "type": "artist",
+                "uri": "spotify:artist:2BBnFUgIaLHqoRYPfshoPb"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1211296
+                },
+                "genres": [
+                    "arab pop",
+                    "classic arab pop",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6hPNpOLunxxpXVwi696pYl",
+                "id": "6hPNpOLunxxpXVwi696pYl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb546588ee6fa93705438e10df",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174546588ee6fa93705438e10df",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178546588ee6fa93705438e10df",
+                        "width": 160
+                    }
+                ],
+                "name": "Mohamed Mounir",
+                "popularity": 50,
+                "type": "artist",
+                "uri": "spotify:artist:6hPNpOLunxxpXVwi696pYl"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1343044
+                },
+                "genres": [
+                    "arab alternative",
+                    "egyptian alternative",
+                    "egyptian hip hop",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2GVksDv9UpY60i4CvytrZK",
+                "id": "2GVksDv9UpY60i4CvytrZK",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb031d0209d9cb8abbc0505769",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174031d0209d9cb8abbc0505769",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178031d0209d9cb8abbc0505769",
+                        "width": 160
+                    }
+                ],
+                "name": "Cairokee",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:2GVksDv9UpY60i4CvytrZK"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1077993
+                },
+                "genres": [
+                    "arab pop",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2KJgliIl1dMyeOMyCcnYv7",
+                "id": "2KJgliIl1dMyeOMyCcnYv7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb94f9ac1247ec3f7fdc1d5261",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517494f9ac1247ec3f7fdc1d5261",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17894f9ac1247ec3f7fdc1d5261",
+                        "width": 160
+                    }
+                ],
+                "name": "Bahaa Sultan",
+                "popularity": 51,
+                "type": "artist",
+                "uri": "spotify:artist:2KJgliIl1dMyeOMyCcnYv7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 21192502
+                },
+                "genres": [
+                    "dance pop",
+                    "pop",
+                    "uk pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+                "id": "2wY79sveU1sp5g7SokKOiI",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb10ca40ea0b0b5082dba0ff75",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517410ca40ea0b0b5082dba0ff75",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17810ca40ea0b0b5082dba0ff75",
+                        "width": 160
+                    }
+                ],
+                "name": "Sam Smith",
+                "popularity": 89,
+                "type": "artist",
+                "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 915391
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian pop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4o6vIkdmHiEXZOesrJj3KO",
+                "id": "4o6vIkdmHiEXZOesrJj3KO",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8d58aa9e578925379ab9fa2d",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748d58aa9e578925379ab9fa2d",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788d58aa9e578925379ab9fa2d",
+                        "width": 160
+                    }
+                ],
+                "name": "Abyusif",
+                "popularity": 53,
+                "type": "artist",
+                "uri": "spotify:artist:4o6vIkdmHiEXZOesrJj3KO"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1714663
+                },
+                "genres": [
+                    "arab pop",
+                    "egyptian pop",
+                    "shaabi"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5D2ui1KD49TfyCDb35zf5V",
+                "id": "5D2ui1KD49TfyCDb35zf5V",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6ff90eeed5980b88f9cec74f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051746ff90eeed5980b88f9cec74f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1786ff90eeed5980b88f9cec74f",
+                        "width": 160
+                    }
+                ],
+                "name": "Ahmed Saad",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:5D2ui1KD49TfyCDb35zf5V"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 417831
+                },
+                "genres": [
+                    "egyptian alternative",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1ZpCdBZ3rL0mXxMhzhOBvi",
+                "id": "1ZpCdBZ3rL0mXxMhzhOBvi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebbbdcacbcd1603b8c97ac2de5",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174bbdcacbcd1603b8c97ac2de5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178bbdcacbcd1603b8c97ac2de5",
+                        "width": 160
+                    }
+                ],
+                "name": "Mohammed Saeed",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:1ZpCdBZ3rL0mXxMhzhOBvi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2719051
+                },
+                "genres": [
+                    "chill pop",
+                    "pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+                "id": "2txHhyCwHjUEpJjWrEyqyX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7e75420ae58cf25941cb2cd4",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747e75420ae58cf25941cb2cd4",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787e75420ae58cf25941cb2cd4",
+                        "width": 160
+                    }
+                ],
+                "name": "Tom Odell",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1043370
+                },
+                "genres": [
+                    "egyptian alternative"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2PM82jOCB674w4BL08zFVS",
+                "id": "2PM82jOCB674w4BL08zFVS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb03ed049216ad8cc3047a6d03",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517403ed049216ad8cc3047a6d03",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17803ed049216ad8cc3047a6d03",
+                        "width": 160
+                    }
+                ],
+                "name": "Muslim - مُسلِم",
+                "popularity": 57,
+                "type": "artist",
+                "uri": "spotify:artist:2PM82jOCB674w4BL08zFVS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 138351
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0OUma98suuyyJqFHtjX5oU",
+                "id": "0OUma98suuyyJqFHtjX5oU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb4533a16ddac2d8cab91aac17",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051744533a16ddac2d8cab91aac17",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1784533a16ddac2d8cab91aac17",
+                        "width": 160
+                    }
+                ],
+                "name": "El Waili",
+                "popularity": 49,
+                "type": "artist",
+                "uri": "spotify:artist:0OUma98suuyyJqFHtjX5oU"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 237883
+                },
+                "genres": [
+                    "egyptian hip hop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2jRxGTrLGVw35yRsElgsXj",
+                "id": "2jRxGTrLGVw35yRsElgsXj",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb464a1d4defe09a19ce2be196",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174464a1d4defe09a19ce2be196",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178464a1d4defe09a19ce2be196",
+                        "width": 160
+                    }
+                ],
+                "name": "Ahmed Santa",
+                "popularity": 43,
+                "type": "artist",
+                "uri": "spotify:artist:2jRxGTrLGVw35yRsElgsXj"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2736799
+                },
+                "genres": [
+                    "arab pop",
+                    "lebanese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/68rvMwPL0yMbYR5cv0pzCR",
+                "id": "68rvMwPL0yMbYR5cv0pzCR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb7f447d9e9acadd9da18d9b1",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b7f447d9e9acadd9da18d9b1",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b7f447d9e9acadd9da18d9b1",
+                        "width": 160
+                    }
+                ],
+                "name": "Elissa",
+                "popularity": 55,
+                "type": "artist",
+                "uri": "spotify:artist:68rvMwPL0yMbYR5cv0pzCR"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1010081
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/56chSp36PsMhpQvUn1kdR3",
+                "id": "56chSp36PsMhpQvUn1kdR3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb448a037b6bcda979d0f9c19a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174448a037b6bcda979d0f9c19a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178448a037b6bcda979d0f9c19a",
+                        "width": 160
+                    }
+                ],
+                "name": "Marwan Pablo",
+                "popularity": 56,
+                "type": "artist",
+                "uri": "spotify:artist:56chSp36PsMhpQvUn1kdR3"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1454569
+                },
+                "genres": [
+                    "egyptian pop",
+                    "mahraganat"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2KjiHtx0h8tyJXbg8aYRgu",
+                "id": "2KjiHtx0h8tyJXbg8aYRgu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f032994e1fcf8b701ab4e37f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f032994e1fcf8b701ab4e37f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f032994e1fcf8b701ab4e37f",
+                        "width": 64
+                    }
+                ],
+                "name": "Essam Sasa",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:2KjiHtx0h8tyJXbg8aYRgu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 86074
+                },
+                "genres": [
+                    "egyptian alternative",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/62HptqyCczb1325UIjFF7x",
+                "id": "62HptqyCczb1325UIjFF7x",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb7eceddc34edae93b9f4fb8c4",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051747eceddc34edae93b9f4fb8c4",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1787eceddc34edae93b9f4fb8c4",
+                        "width": 160
+                    }
+                ],
+                "name": "Hassan El Shafei",
+                "popularity": 42,
+                "type": "artist",
+                "uri": "spotify:artist:62HptqyCczb1325UIjFF7x"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 203730
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6CGE1o9Swi1tAEa23wRTah",
+                "id": "6CGE1o9Swi1tAEa23wRTah",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebdca25d8b563358656b0e1079",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174dca25d8b563358656b0e1079",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178dca25d8b563358656b0e1079",
+                        "width": 160
+                    }
+                ],
+                "name": "Mousv",
+                "popularity": 48,
+                "type": "artist",
+                "uri": "spotify:artist:6CGE1o9Swi1tAEa23wRTah"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1714663
+                },
+                "genres": [
+                    "arab pop",
+                    "egyptian pop",
+                    "shaabi"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5D2ui1KD49TfyCDb35zf5V",
+                "id": "5D2ui1KD49TfyCDb35zf5V",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6ff90eeed5980b88f9cec74f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051746ff90eeed5980b88f9cec74f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1786ff90eeed5980b88f9cec74f",
+                        "width": 160
+                    }
+                ],
+                "name": "Ahmed Saad",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:5D2ui1KD49TfyCDb35zf5V"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1343044
+                },
+                "genres": [
+                    "arab alternative",
+                    "egyptian alternative",
+                    "egyptian hip hop",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2GVksDv9UpY60i4CvytrZK",
+                "id": "2GVksDv9UpY60i4CvytrZK",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb031d0209d9cb8abbc0505769",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174031d0209d9cb8abbc0505769",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178031d0209d9cb8abbc0505769",
+                        "width": 160
+                    }
+                ],
+                "name": "Cairokee",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:2GVksDv9UpY60i4CvytrZK"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2686544
+                },
+                "genres": [
+                    "egyptian hip hop",
+                    "egyptian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4BKC2HOGEqtYz2Xbgp9N1q",
+                "id": "4BKC2HOGEqtYz2Xbgp9N1q",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb185a8c7cf90489ccd67cc501",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174185a8c7cf90489ccd67cc501",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178185a8c7cf90489ccd67cc501",
+                        "width": 160
+                    }
+                ],
+                "name": "Wegz",
+                "popularity": 61,
+                "type": "artist",
+                "uri": "spotify:artist:4BKC2HOGEqtYz2Xbgp9N1q"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1043370
+                },
+                "genres": [
+                    "egyptian alternative"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2PM82jOCB674w4BL08zFVS",
+                "id": "2PM82jOCB674w4BL08zFVS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb03ed049216ad8cc3047a6d03",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517403ed049216ad8cc3047a6d03",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17803ed049216ad8cc3047a6d03",
+                        "width": 160
+                    }
+                ],
+                "name": "Muslim - مُسلِم",
+                "popularity": 57,
+                "type": "artist",
+                "uri": "spotify:artist:2PM82jOCB674w4BL08zFVS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1077993
+                },
+                "genres": [
+                    "arab pop",
+                    "egyptian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2KJgliIl1dMyeOMyCcnYv7",
+                "id": "2KJgliIl1dMyeOMyCcnYv7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb94f9ac1247ec3f7fdc1d5261",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517494f9ac1247ec3f7fdc1d5261",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17894f9ac1247ec3f7fdc1d5261",
+                        "width": 160
+                    }
+                ],
+                "name": "Bahaa Sultan",
+                "popularity": 51,
+                "type": "artist",
+                "uri": "spotify:artist:2KJgliIl1dMyeOMyCcnYv7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1611495
+                },
+                "genres": [
+                    "nigerian pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/46pWGuE3dSwY3bMMXGBvVS",
+                "id": "46pWGuE3dSwY3bMMXGBvVS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5c77b5deaf9aef3e9ccec31c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745c77b5deaf9aef3e9ccec31c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785c77b5deaf9aef3e9ccec31c",
+                        "width": 160
+                    }
+                ],
+                "name": "Rema",
+                "popularity": 81,
+                "type": "artist",
+                "uri": "spotify:artist:46pWGuE3dSwY3bMMXGBvVS"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1981 @@
+,countries,hf_score,hf_rank
+0,Albania,8.14,43.0
+1,Algeria,5.26,154.0
+2,Angola,6.09,129.0
+3,Argentina,7.38,74.0
+4,Armenia,8.2,40.0
+5,Australia,8.84,8.0
+6,Austria,8.67,21.0
+7,Azerbaijan,6.16,127.0
+8,"Bahamas, The",8.22,38.0
+9,Bahrain,5.73,143.0
+10,Bangladesh,5.75,142.0
+11,Barbados,7.92,51.0
+12,Belarus,6.73,109.0
+13,Belgium,8.61,23.0
+14,Belize,7.64,63.0
+15,Benin,7.32,76.0
+16,Bhutan,6.86,98.0
+17,Bolivia,6.94,92.0
+18,Bosnia and Herzegovina,7.54,67.0
+19,Botswana,7.9,53.0
+20,Brazil,7.22,78.0
+21,Brunei Darussalam,6.46,116.0
+22,Bulgaria,8.08,45.0
+23,Burkina Faso,6.85,100.0
+24,Burundi,5.02,157.0
+25,Cabo Verde,8.26,36.0
+26,Cambodia,6.47,115.0
+27,Cameroon,5.63,145.0
+28,Canada,8.85,6.0
+29,Central African Republic,5.62,147.0
+30,Chad,5.57,150.0
+31,Chile,8.44,28.0
+32,China,5.57,150.0
+33,Colombia,7.01,89.0
+34,Comoros,6.07,130.0
+35,"Congo, Dem. Rep.",5.62,147.0
+36,"Congo, Rep.",5.55,152.0
+37,Costa Rica,8.25,37.0
+38,Cote d'Ivoire,6.9,95.0
+39,Croatia,8.16,42.0
+40,Cyprus,8.42,29.0
+41,Czech Republic,8.61,23.0
+42,Denmark,8.98,3.0
+43,Djibouti,5.84,137.0
+44,Dominican Republic,7.88,54.0
+45,Ecuador,7.43,72.0
+46,"Egypt, Arab Rep.",4.49,161.0
+47,El Salvador,7.39,73.0
+48,Estonia,8.91,4.0
+49,Eswatini,5.79,139.0
+50,Ethiopia,5.95,132.0
+51,Fiji,7.36,75.0
+52,Finland,8.85,6.0
+53,France,8.34,34.0
+54,Gabon,6.8,104.0
+55,"Gambia, The",6.88,97.0
+56,Georgia,8.2,40.0
+57,Germany,8.73,15.0
+58,Ghana,7.49,70.0
+59,Greece,7.86,56.0
+60,Guatemala,7.63,65.0
+61,Guinea,5.82,138.0
+62,Guinea-Bissau,6.77,106.0
+63,Guyana,7.49,70.0
+64,Haiti,7.21,80.0
+65,Honduras,7.09,86.0
+66,"Hong Kong SAR, China",8.41,30.0
+67,Hungary,7.73,59.0
+68,Iceland,8.77,12.0
+69,India,6.39,119.0
+70,Indonesia,7.1,85.0
+71,"Iran, Islamic Rep.",4.53,160.0
+72,Iraq,5.02,157.0
+73,Ireland,8.9,5.0
+74,Israel,7.66,62.0
+75,Italy,8.49,26.0
+76,Jamaica,7.91,52.0
+77,Japan,8.73,15.0
+78,Jordan,6.91,94.0
+79,Kazakhstan,6.77,106.0
+80,Kenya,6.73,109.0
+81,"Korea, Rep.",8.39,31.0
+82,Kuwait,6.34,121.0
+83,Kyrgyz Republic,7.18,81.0
+84,Lao PDR,5.85,136.0
+85,Latvia,8.67,21.0
+86,Lebanon,6.76,108.0
+87,Lesotho,7.01,89.0
+88,Liberia,6.81,103.0
+89,Libya,5.05,156.0
+90,Lithuania,8.68,19.0
+91,Luxembourg,8.8,10.0
+92,Madagascar,7.02,88.0
+93,Malawi,6.99,91.0
+94,Malaysia,7.17,82.0
+95,Mali,6.25,124.0
+96,Malta,8.45,27.0
+97,Mauritania,5.73,143.0
+98,Mauritius,8.07,46.0
+99,Mexico,6.92,93.0
+100,Moldova,7.68,61.0
+101,Mongolia,8.0,47.0
+102,Montenegro,7.88,54.0
+103,Morocco,5.9,134.0
+104,Mozambique,6.8,104.0
+105,Myanmar,5.78,141.0
+106,Namibia,7.56,66.0
+107,Nepal,7.12,84.0
+108,Netherlands,8.78,11.0
+109,New Zealand,9.01,2.0
+110,Nicaragua,6.24,125.0
+111,Niger,6.41,118.0
+112,Nigeria,6.28,123.0
+113,North Macedonia,7.75,58.0
+114,Norway,8.76,13.0
+115,Oman,5.92,133.0
+116,Pakistan,5.63,145.0
+117,Panama,8.12,44.0
+118,Papua New Guinea,7.17,82.0
+119,Paraguay,7.54,67.0
+120,Peru,7.93,50.0
+121,Philippines,6.83,101.0
+122,Poland,7.96,49.0
+123,Portugal,8.69,18.0
+124,Qatar,6.15,128.0
+125,Romania,8.33,35.0
+126,Russian Federation,6.23,126.0
+127,Rwanda,6.36,120.0
+128,Saudi Arabia,5.12,155.0
+129,Senegal,7.07,87.0
+130,Serbia,7.54,67.0
+131,Seychelles,7.84,57.0
+132,Sierra Leone,6.7,111.0
+133,Singapore,7.98,48.0
+134,Slovak Republic,8.21,39.0
+135,Slovenia,8.37,32.0
+136,Somalia,4.93,159.0
+137,South Africa,7.3,77.0
+138,Spain,8.56,25.0
+139,Sri Lanka,6.58,112.0
+140,Sudan,4.48,162.0
+141,Suriname,7.64,63.0
+142,Sweden,8.83,9.0
+143,Switzerland,9.11,1.0
+144,Syrian Arab Republic,3.66,165.0
+145,Taiwan,8.68,19.0
+146,Tajikistan,5.52,153.0
+147,Tanzania,6.48,114.0
+148,Thailand,6.89,96.0
+149,Timor-Leste,7.22,78.0
+150,Togo,6.5,113.0
+151,Trinidad and Tobago,7.7,60.0
+152,Tunisia,6.46,116.0
+153,Turkey,5.79,139.0
+154,Uganda,6.32,122.0
+155,Ukraine,6.86,98.0
+156,United Arab Emirates,6.06,131.0
+157,United Kingdom,8.75,14.0
+158,United States,8.73,15.0
+159,Uruguay,8.36,33.0
+160,"Venezuela, RB",4.03,164.0
+161,Vietnam,5.9,134.0
+162,"Yemen, Rep.",4.08,163.0
+163,Zambia,6.82,102.0
+164,Zimbabwe,5.6,149.0
+165,Albania,8.16,42.0
+166,Algeria,5.21,152.0
+167,Angola,5.8,136.0
+168,Argentina,7.57,65.0
+169,Armenia,8.01,47.0
+170,Australia,8.94,4.0
+171,Austria,8.68,18.0
+172,Azerbaijan,6.14,127.0
+173,"Bahamas, The",8.25,35.0
+174,Bahrain,5.62,144.0
+175,Bangladesh,5.8,136.0
+176,Barbados,7.69,60.0
+177,Belarus,6.65,109.0
+178,Belgium,8.6,26.0
+179,Belize,7.54,69.0
+180,Benin,7.37,76.0
+181,Bhutan,6.81,105.0
+182,Bolivia,7.08,88.0
+183,Bosnia and Herzegovina,7.57,65.0
+184,Botswana,7.7,59.0
+185,Brazil,7.36,78.0
+186,Brunei Darussalam,6.44,120.0
+187,Bulgaria,8.13,44.0
+188,Burkina Faso,6.97,94.0
+189,Burundi,4.97,155.0
+190,Cabo Verde,8.25,35.0
+191,Cambodia,6.46,118.0
+192,Cameroon,5.63,143.0
+193,Canada,8.83,9.0
+194,Central African Republic,5.76,139.0
+195,Chad,5.58,146.0
+196,Chile,8.61,25.0
+197,China,5.6,145.0
+198,Colombia,7.07,89.0
+199,Comoros,,
+200,"Congo, Dem. Rep.",5.3,151.0
+201,"Congo, Rep.",5.46,148.0
+202,Costa Rica,8.23,38.0
+203,Cote d'Ivoire,6.9,98.0
+204,Croatia,8.21,40.0
+205,Cyprus,8.43,31.0
+206,Czech Republic,8.62,24.0
+207,Denmark,8.99,3.0
+208,Djibouti,,
+209,Dominican Republic,7.91,50.0
+210,Ecuador,7.49,73.0
+211,"Egypt, Arab Rep.",4.41,158.0
+212,El Salvador,7.48,74.0
+213,Estonia,8.92,5.0
+214,Eswatini,5.73,141.0
+215,Ethiopia,5.53,147.0
+216,Fiji,7.37,76.0
+217,Finland,8.89,6.0
+218,France,8.33,34.0
+219,Gabon,6.84,101.0
+220,"Gambia, The",6.93,97.0
+221,Georgia,8.22,39.0
+222,Germany,8.73,16.0
+223,Ghana,7.53,70.0
+224,Greece,7.82,54.0
+225,Guatemala,7.59,63.0
+226,Guinea,5.82,134.0
+227,Guinea-Bissau,6.62,111.0
+228,Guyana,7.56,67.0
+229,Haiti,7.24,80.0
+230,Honduras,7.13,83.0
+231,"Hong Kong SAR, China",8.66,20.0
+232,Hungary,7.73,56.0
+233,Iceland,8.77,13.0
+234,India,6.54,114.0
+235,Indonesia,7.22,82.0
+236,"Iran, Islamic Rep.",4.64,157.0
+237,Iraq,4.98,154.0
+238,Ireland,8.89,6.0
+239,Israel,7.55,68.0
+240,Italy,8.49,28.0
+241,Jamaica,7.9,52.0
+242,Japan,8.73,16.0
+243,Jordan,6.87,99.0
+244,Kazakhstan,6.68,108.0
+245,Kenya,6.72,107.0
+246,"Korea, Rep.",8.45,30.0
+247,Kuwait,6.27,125.0
+248,Kyrgyz Republic,7.24,80.0
+249,Lao PDR,5.8,136.0
+250,Latvia,8.64,22.0
+251,Lebanon,6.86,100.0
+252,Lesotho,7.01,92.0
+253,Liberia,6.83,102.0
+254,Libya,5.14,153.0
+255,Lithuania,8.64,22.0
+256,Luxembourg,8.81,10.0
+257,Madagascar,7.02,91.0
+258,Malawi,7.09,87.0
+259,Malaysia,7.1,86.0
+260,Mali,6.25,126.0
+261,Malta,8.46,29.0
+262,Mauritania,5.44,149.0
+263,Mauritius,8.13,44.0
+264,Mexico,6.94,96.0
+265,Moldova,7.58,64.0
+266,Mongolia,8.06,46.0
+267,Montenegro,7.78,55.0
+268,Morocco,5.99,130.0
+269,Mozambique,6.83,102.0
+270,Myanmar,5.74,140.0
+271,Namibia,7.62,61.0
+272,Nepal,7.12,84.0
+273,Netherlands,8.76,14.0
+274,New Zealand,9.12,2.0
+275,Nicaragua,6.28,124.0
+276,Niger,6.46,118.0
+277,Nigeria,6.3,123.0
+278,North Macedonia,7.6,62.0
+279,Norway,8.79,12.0
+280,Oman,5.91,131.0
+281,Pakistan,5.65,142.0
+282,Panama,8.15,43.0
+283,Papua New Guinea,7.11,85.0
+284,Paraguay,7.51,71.0
+285,Peru,7.91,50.0
+286,Philippines,6.83,102.0
+287,Poland,7.93,49.0
+288,Portugal,8.67,19.0
+289,Qatar,6.1,128.0
+290,Romania,8.25,35.0
+291,Russian Federation,6.33,122.0
+292,Rwanda,6.49,116.0
+293,Saudi Arabia,4.92,156.0
+294,Senegal,7.06,90.0
+295,Serbia,7.51,71.0
+296,Seychelles,7.85,53.0
+297,Sierra Leone,6.63,110.0
+298,Singapore,7.96,48.0
+299,Slovak Republic,8.18,41.0
+300,Slovenia,8.4,32.0
+301,Somalia,,
+302,South Africa,7.4,75.0
+303,Spain,8.53,27.0
+304,Sri Lanka,6.97,94.0
+305,Sudan,3.95,161.0
+306,Suriname,7.73,56.0
+307,Sweden,8.84,8.0
+308,Switzerland,9.14,1.0
+309,Syrian Arab Republic,3.83,162.0
+310,Taiwan,8.66,20.0
+311,Tajikistan,5.43,150.0
+312,Tanzania,6.55,113.0
+313,Thailand,6.56,112.0
+314,Timor-Leste,7.29,79.0
+315,Togo,6.52,115.0
+316,Trinidad and Tobago,7.72,58.0
+317,Tunisia,6.49,116.0
+318,Turkey,5.85,133.0
+319,Uganda,6.39,121.0
+320,Ukraine,6.78,106.0
+321,United Arab Emirates,6.0,129.0
+322,United Kingdom,8.8,11.0
+323,United States,8.75,15.0
+324,Uruguay,8.35,33.0
+325,"Venezuela, RB",4.25,159.0
+326,Vietnam,5.91,131.0
+327,"Yemen, Rep.",4.07,160.0
+328,Zambia,7.0,93.0
+329,Zimbabwe,5.82,134.0
+330,Albania,8.16,40.0
+331,Algeria,5.18,152.0
+332,Angola,5.52,144.0
+333,Argentina,7.59,65.0
+334,Armenia,7.8,52.0
+335,Australia,8.93,4.0
+336,Austria,8.74,17.0
+337,Azerbaijan,6.1,126.0
+338,"Bahamas, The",8.14,42.0
+339,Bahrain,5.48,146.0
+340,Bangladesh,5.82,133.0
+341,Barbados,7.77,54.0
+342,Belarus,6.64,109.0
+343,Belgium,8.6,25.0
+344,Belize,7.51,69.0
+345,Benin,7.43,73.0
+346,Bhutan,6.74,107.0
+347,Bolivia,7.16,84.0
+348,Bosnia and Herzegovina,7.63,62.0
+349,Botswana,7.64,59.0
+350,Brazil,7.43,73.0
+351,Brunei Darussalam,6.47,117.0
+352,Bulgaria,8.13,43.0
+353,Burkina Faso,7.2,83.0
+354,Burundi,4.96,155.0
+355,Cabo Verde,8.07,45.0
+356,Cambodia,6.47,117.0
+357,Cameroon,5.68,140.0
+358,Canada,8.88,7.0
+359,Central African Republic,5.76,136.0
+360,Chad,5.43,147.0
+361,Chile,8.64,21.0
+362,China,5.67,141.0
+363,Colombia,7.16,84.0
+364,Comoros,,
+365,"Congo, Dem. Rep.",5.19,151.0
+366,"Congo, Rep.",5.5,145.0
+367,Costa Rica,8.3,36.0
+368,Cote d'Ivoire,6.88,98.0
+369,Croatia,8.2,38.0
+370,Cyprus,8.43,31.0
+371,Czech Republic,8.63,22.0
+372,Denmark,9.02,3.0
+373,Djibouti,,
+374,Dominican Republic,7.8,52.0
+375,Ecuador,7.22,81.0
+376,"Egypt, Arab Rep.",4.11,159.0
+377,El Salvador,7.49,71.0
+378,Estonia,8.9,5.0
+379,Eswatini,5.7,139.0
+380,Ethiopia,5.23,150.0
+381,Fiji,7.28,77.0
+382,Finland,8.85,8.0
+383,France,8.42,32.0
+384,Gabon,6.92,94.0
+385,"Gambia, The",6.75,104.0
+386,Georgia,8.2,38.0
+387,Germany,8.76,14.0
+388,Ghana,7.57,66.0
+389,Greece,7.7,57.0
+390,Guatemala,7.56,67.0
+391,Guinea,5.81,134.0
+392,Guinea-Bissau,6.48,116.0
+393,Guyana,7.53,68.0
+394,Haiti,7.21,82.0
+395,Honduras,6.96,92.0
+396,"Hong Kong SAR, China",8.67,20.0
+397,Hungary,7.81,51.0
+398,Iceland,8.75,15.0
+399,India,6.64,109.0
+400,Indonesia,7.26,79.0
+401,"Iran, Islamic Rep.",4.92,156.0
+402,Iraq,5.01,154.0
+403,Ireland,8.89,6.0
+404,Israel,7.64,59.0
+405,Italy,8.49,27.0
+406,Jamaica,7.87,49.0
+407,Japan,8.68,18.0
+408,Jordan,6.8,102.0
+409,Kazakhstan,6.62,111.0
+410,Kenya,6.69,108.0
+411,"Korea, Rep.",8.48,28.0
+412,Kuwait,6.21,125.0
+413,Kyrgyz Republic,7.04,88.0
+414,Lao PDR,5.74,137.0
+415,Latvia,8.63,22.0
+416,Lebanon,6.85,100.0
+417,Lesotho,7.0,90.0
+418,Liberia,6.93,93.0
+419,Libya,5.06,153.0
+420,Lithuania,8.58,26.0
+421,Luxembourg,8.79,13.0
+422,Madagascar,6.9,96.0
+423,Malawi,7.16,84.0
+424,Malaysia,6.75,104.0
+425,Mali,6.09,127.0
+426,Malta,8.44,30.0
+427,Mauritania,5.37,149.0
+428,Mauritius,7.99,47.0
+429,Mexico,6.92,94.0
+430,Moldova,7.46,72.0
+431,Mongolia,8.06,46.0
+432,Montenegro,7.67,58.0
+433,Morocco,5.93,130.0
+434,Mozambique,6.78,103.0
+435,Myanmar,5.66,142.0
+436,Namibia,7.61,63.0
+437,Nepal,7.24,80.0
+438,Netherlands,8.75,15.0
+439,New Zealand,9.12,2.0
+440,Nicaragua,7.0,90.0
+441,Niger,6.47,117.0
+442,Nigeria,6.25,124.0
+443,North Macedonia,7.64,59.0
+444,Norway,8.85,8.0
+445,Oman,5.9,132.0
+446,Pakistan,5.62,143.0
+447,Panama,8.15,41.0
+448,Papua New Guinea,7.05,87.0
+449,Paraguay,7.43,73.0
+450,Peru,7.86,50.0
+451,Philippines,6.87,99.0
+452,Poland,8.11,44.0
+453,Portugal,8.68,18.0
+454,Qatar,6.09,127.0
+455,Romania,8.31,35.0
+456,Russian Federation,6.3,123.0
+457,Rwanda,6.42,122.0
+458,Saudi Arabia,4.91,157.0
+459,Senegal,7.03,89.0
+460,Serbia,7.51,69.0
+461,Seychelles,7.74,55.0
+462,Sierra Leone,6.55,113.0
+463,Singapore,7.97,48.0
+464,Slovak Republic,8.27,37.0
+465,Slovenia,8.38,34.0
+466,Somalia,,
+467,South Africa,7.36,76.0
+468,Spain,8.47,29.0
+469,Sri Lanka,6.82,101.0
+470,Sudan,4.0,161.0
+471,Suriname,7.72,56.0
+472,Sweden,8.85,8.0
+473,Switzerland,9.15,1.0
+474,Syrian Arab Republic,3.54,162.0
+475,Taiwan,8.62,24.0
+476,Tajikistan,5.38,148.0
+477,Tanzania,6.61,112.0
+478,Thailand,6.47,117.0
+479,Timor-Leste,7.27,78.0
+480,Togo,6.5,115.0
+481,Trinidad and Tobago,7.61,63.0
+482,Tunisia,6.55,113.0
+483,Turkey,5.74,137.0
+484,Uganda,6.44,121.0
+485,Ukraine,6.75,104.0
+486,United Arab Emirates,5.95,129.0
+487,United Kingdom,8.83,11.0
+488,United States,8.8,12.0
+489,Uruguay,8.39,33.0
+490,"Venezuela, RB",4.09,160.0
+491,Vietnam,5.91,131.0
+492,"Yemen, Rep.",4.31,158.0
+493,Zambia,6.89,97.0
+494,Zimbabwe,5.77,135.0
+495,Albania,8.1,42.0
+496,Algeria,5.16,151.0
+497,Angola,5.79,137.0
+498,Argentina,7.43,67.0
+499,Armenia,7.78,51.0
+500,Australia,8.93,5.0
+501,Austria,8.78,13.0
+502,Azerbaijan,6.01,130.0
+503,"Bahamas, The",7.85,50.0
+504,Bahrain,5.47,146.0
+505,Bangladesh,5.91,134.0
+506,Barbados,7.75,52.0
+507,Belarus,6.41,118.0
+508,Belgium,8.51,28.0
+509,Belize,7.56,62.0
+510,Benin,7.29,75.0
+511,Bhutan,6.67,109.0
+512,Bolivia,7.07,86.0
+513,Bosnia and Herzegovina,7.56,62.0
+514,Botswana,7.69,57.0
+515,Brazil,7.28,77.0
+516,Brunei Darussalam,6.3,121.0
+517,Bulgaria,8.09,43.0
+518,Burkina Faso,7.17,79.0
+519,Burundi,5.04,155.0
+520,Cabo Verde,7.93,47.0
+521,Cambodia,6.7,108.0
+522,Cameroon,5.72,138.0
+523,Canada,8.9,7.0
+524,Central African Republic,5.62,143.0
+525,Chad,5.32,149.0
+526,Chile,8.53,27.0
+527,China,5.48,145.0
+528,Colombia,7.14,81.0
+529,Comoros,,
+530,"Congo, Dem. Rep.",5.46,147.0
+531,"Congo, Rep.",5.23,150.0
+532,Costa Rica,8.42,32.0
+533,Cote d'Ivoire,6.78,104.0
+534,Croatia,8.15,40.0
+535,Cyprus,8.46,30.0
+536,Czech Republic,8.7,18.0
+537,Denmark,9.02,3.0
+538,Djibouti,,
+539,Dominican Republic,7.72,54.0
+540,Ecuador,7.07,86.0
+541,"Egypt, Arab Rep.",4.21,160.0
+542,El Salvador,7.56,62.0
+543,Estonia,8.92,6.0
+544,Eswatini,5.72,138.0
+545,Ethiopia,5.08,154.0
+546,Fiji,7.1,82.0
+547,Finland,8.83,12.0
+548,France,8.4,33.0
+549,Gabon,6.89,97.0
+550,"Gambia, The",5.84,136.0
+551,Georgia,8.12,41.0
+552,Germany,8.77,14.0
+553,Ghana,7.6,60.0
+554,Greece,7.66,58.0
+555,Guatemala,7.57,61.0
+556,Guinea,6.02,129.0
+557,Guinea-Bissau,6.22,124.0
+558,Guyana,7.41,71.0
+559,Haiti,7.28,77.0
+560,Honduras,6.93,94.0
+561,"Hong Kong SAR, China",8.62,24.0
+562,Hungary,8.01,44.0
+563,Iceland,8.74,17.0
+564,India,6.75,105.0
+565,Indonesia,7.38,72.0
+566,"Iran, Islamic Rep.",4.84,157.0
+567,Iraq,5.09,153.0
+568,Ireland,8.94,4.0
+569,Israel,7.66,58.0
+570,Italy,8.49,29.0
+571,Jamaica,7.87,49.0
+572,Japan,8.65,21.0
+573,Jordan,6.73,107.0
+574,Kazakhstan,6.58,113.0
+575,Kenya,6.88,98.0
+576,"Korea, Rep.",8.22,37.0
+577,Kuwait,6.26,123.0
+578,Kyrgyz Republic,6.93,94.0
+579,Lao PDR,5.66,141.0
+580,Latvia,8.68,19.0
+581,Lebanon,6.85,101.0
+582,Lesotho,6.97,92.0
+583,Liberia,7.0,89.0
+584,Libya,5.1,152.0
+585,Lithuania,8.63,23.0
+586,Luxembourg,8.77,14.0
+587,Madagascar,6.93,94.0
+588,Malawi,7.09,83.0
+589,Malaysia,6.59,111.0
+590,Mali,6.28,122.0
+591,Malta,8.61,25.0
+592,Mauritania,5.72,138.0
+593,Mauritius,8.0,45.0
+594,Mexico,6.88,98.0
+595,Moldova,7.29,75.0
+596,Mongolia,7.95,46.0
+597,Montenegro,7.71,56.0
+598,Morocco,6.0,131.0
+599,Mozambique,6.8,102.0
+600,Myanmar,5.63,142.0
+601,Namibia,7.43,67.0
+602,Nepal,7.16,80.0
+603,Netherlands,8.77,14.0
+604,New Zealand,9.14,1.0
+605,Nicaragua,7.09,83.0
+606,Niger,6.56,114.0
+607,Nigeria,6.16,126.0
+608,North Macedonia,7.42,69.0
+609,Norway,8.84,10.0
+610,Oman,5.92,133.0
+611,Pakistan,5.61,144.0
+612,Panama,8.22,37.0
+613,Papua New Guinea,7.04,88.0
+614,Paraguay,7.42,69.0
+615,Peru,7.73,53.0
+616,Philippines,7.09,83.0
+617,Poland,8.17,39.0
+618,Portugal,8.67,20.0
+619,Qatar,6.17,125.0
+620,Romania,8.44,31.0
+621,Russian Federation,6.34,119.0
+622,Rwanda,6.31,120.0
+623,Saudi Arabia,4.88,156.0
+624,Senegal,6.99,91.0
+625,Serbia,7.5,66.0
+626,Seychelles,7.72,54.0
+627,Sierra Leone,6.66,110.0
+628,Singapore,7.91,48.0
+629,Slovak Republic,8.35,35.0
+630,Slovenia,8.37,34.0
+631,Somalia,,
+632,South Africa,7.33,74.0
+633,Spain,8.57,26.0
+634,Sri Lanka,6.97,92.0
+635,Sudan,4.13,161.0
+636,Suriname,7.37,73.0
+637,Sweden,8.87,9.0
+638,Switzerland,9.09,2.0
+639,Syrian Arab Republic,3.49,162.0
+640,Taiwan,8.65,21.0
+641,Tajikistan,5.46,147.0
+642,Tanzania,6.8,102.0
+643,Thailand,6.48,116.0
+644,Timor-Leste,7.0,89.0
+645,Togo,6.59,111.0
+646,Trinidad and Tobago,7.53,65.0
+647,Tunisia,6.52,115.0
+648,Turkey,6.11,127.0
+649,Uganda,6.48,116.0
+650,Ukraine,6.75,105.0
+651,United Arab Emirates,6.11,127.0
+652,United Kingdom,8.9,7.0
+653,United States,8.84,10.0
+654,Uruguay,8.26,36.0
+655,"Venezuela, RB",4.27,159.0
+656,Vietnam,5.91,134.0
+657,"Yemen, Rep.",4.59,158.0
+658,Zambia,6.88,98.0
+659,Zimbabwe,5.95,132.0
+660,Albania,8.1,41.0
+661,Algeria,5.16,149.0
+662,Angola,5.86,132.0
+663,Argentina,7.23,77.0
+664,Armenia,7.7,56.0
+665,Australia,8.9,6.0
+666,Austria,8.78,14.0
+667,Azerbaijan,5.94,130.0
+668,"Bahamas, The",7.87,50.0
+669,Bahrain,5.47,145.0
+670,Bangladesh,5.94,130.0
+671,Barbados,7.73,55.0
+672,Belarus,,
+673,Belgium,8.63,21.0
+674,Belize,7.51,65.0
+675,Benin,7.14,81.0
+676,Bhutan,6.84,101.0
+677,Bolivia,7.1,84.0
+678,Bosnia and Herzegovina,7.56,62.0
+679,Botswana,7.62,60.0
+680,Brazil,7.32,72.0
+681,Brunei Darussalam,6.01,128.0
+682,Bulgaria,8.05,42.0
+683,Burkina Faso,7.18,79.0
+684,Burundi,5.06,152.0
+685,Cabo Verde,8.0,44.0
+686,Cambodia,6.78,104.0
+687,Cameroon,5.84,134.0
+688,Canada,8.9,6.0
+689,Central African Republic,5.12,150.0
+690,Chad,5.49,144.0
+691,Chile,8.53,28.0
+692,China,5.47,145.0
+693,Colombia,7.01,91.0
+694,Comoros,,
+695,"Congo, Dem. Rep.",5.53,142.0
+696,"Congo, Rep.",5.3,148.0
+697,Costa Rica,8.41,32.0
+698,Cote d'Ivoire,6.68,109.0
+699,Croatia,8.25,38.0
+700,Cyprus,8.34,35.0
+701,Czech Republic,8.64,20.0
+702,Denmark,9.0,4.0
+703,Djibouti,,
+704,Dominican Republic,7.65,59.0
+705,Ecuador,7.04,88.0
+706,"Egypt, Arab Rep.",4.21,158.0
+707,El Salvador,7.4,70.0
+708,Estonia,8.9,6.0
+709,Eswatini,5.7,138.0
+710,Ethiopia,5.06,152.0
+711,Fiji,7.12,82.0
+712,Finland,8.84,11.0
+713,France,8.45,30.0
+714,Gabon,6.73,105.0
+715,"Gambia, The",5.8,136.0
+716,Georgia,8.04,43.0
+717,Germany,8.78,14.0
+718,Ghana,7.52,64.0
+719,Greece,7.7,56.0
+720,Guatemala,7.56,62.0
+721,Guinea,5.79,137.0
+722,Guinea-Bissau,6.32,120.0
+723,Guyana,7.59,61.0
+724,Haiti,7.24,76.0
+725,Honduras,6.98,93.0
+726,"Hong Kong SAR, China",8.63,21.0
+727,Hungary,7.92,48.0
+728,Iceland,8.57,26.0
+729,India,6.64,110.0
+730,Indonesia,7.32,72.0
+731,"Iran, Islamic Rep.",4.71,154.0
+732,Iraq,,
+733,Ireland,9.03,3.0
+734,Israel,7.67,58.0
+735,Italy,8.5,29.0
+736,Jamaica,7.92,48.0
+737,Japan,8.66,17.0
+738,Jordan,6.82,103.0
+739,Kazakhstan,6.69,107.0
+740,Kenya,6.89,99.0
+741,"Korea, Rep.",8.2,39.0
+742,Kuwait,6.05,127.0
+743,Kyrgyz Republic,6.83,102.0
+744,Lao PDR,5.54,141.0
+745,Latvia,8.66,17.0
+746,Lebanon,6.72,106.0
+747,Lesotho,7.08,85.0
+748,Liberia,6.99,92.0
+749,Libya,5.11,151.0
+750,Lithuania,8.6,24.0
+751,Luxembourg,8.79,12.0
+752,Madagascar,6.9,97.0
+753,Malawi,7.04,88.0
+754,Malaysia,6.69,107.0
+755,Mali,6.16,125.0
+756,Malta,8.62,23.0
+757,Mauritania,5.53,142.0
+758,Mauritius,7.95,46.0
+759,Mexico,6.94,95.0
+760,Moldova,7.32,72.0
+761,Mongolia,7.94,47.0
+762,Montenegro,7.8,52.0
+763,Morocco,6.12,126.0
+764,Mozambique,6.88,100.0
+765,Myanmar,5.46,147.0
+766,Namibia,7.48,66.0
+767,Nepal,7.17,80.0
+768,Netherlands,8.79,12.0
+769,New Zealand,9.13,1.0
+770,Nicaragua,7.2,78.0
+771,Niger,6.44,118.0
+772,Nigeria,6.28,121.0
+773,North Macedonia,7.46,67.0
+774,Norway,8.66,17.0
+775,Oman,5.85,133.0
+776,Pakistan,5.6,139.0
+777,Panama,8.17,40.0
+778,Papua New Guinea,7.04,88.0
+779,Paraguay,7.31,75.0
+780,Peru,7.74,53.0
+781,Philippines,7.12,82.0
+782,Poland,8.44,31.0
+783,Portugal,8.69,16.0
+784,Qatar,6.18,124.0
+785,Romania,8.4,33.0
+786,Russian Federation,6.26,122.0
+787,Rwanda,6.45,116.0
+788,Saudi Arabia,4.68,155.0
+789,Senegal,6.95,94.0
+790,Serbia,7.46,67.0
+791,Seychelles,7.84,51.0
+792,Sierra Leone,6.55,111.0
+793,Singapore,7.98,45.0
+794,Slovak Republic,8.32,36.0
+795,Slovenia,8.38,34.0
+796,Somalia,,
+797,South Africa,7.4,70.0
+798,Spain,8.56,27.0
+799,Sri Lanka,6.9,97.0
+800,Sudan,,
+801,Suriname,7.74,53.0
+802,Sweden,8.92,5.0
+803,Switzerland,9.08,2.0
+804,Syrian Arab Republic,3.52,159.0
+805,Taiwan,8.58,25.0
+806,Tajikistan,5.59,140.0
+807,Tanzania,6.92,96.0
+808,Thailand,6.46,114.0
+809,Timor-Leste,7.07,86.0
+810,Togo,6.5,113.0
+811,Trinidad and Tobago,7.41,69.0
+812,Tunisia,6.51,112.0
+813,Turkey,6.45,116.0
+814,Uganda,6.46,114.0
+815,Ukraine,6.34,119.0
+816,United Arab Emirates,6.0,129.0
+817,United Kingdom,8.88,9.0
+818,United States,8.88,9.0
+819,Uruguay,8.26,37.0
+820,"Venezuela, RB",4.52,157.0
+821,Vietnam,5.83,135.0
+822,"Yemen, Rep.",4.53,156.0
+823,Zambia,7.07,86.0
+824,Zimbabwe,6.25,123.0
+825,Albania,8.05,44.0
+826,Algeria,5.19,150.0
+827,Angola,5.58,144.0
+828,Argentina,7.03,90.0
+829,Armenia,7.72,56.0
+830,Australia,8.91,8.0
+831,Austria,8.85,10.0
+832,Azerbaijan,5.89,133.0
+833,"Bahamas, The",8.07,43.0
+834,Bahrain,5.49,147.0
+835,Bangladesh,6.05,130.0
+836,Barbados,7.81,52.0
+837,Belarus,,
+838,Belgium,8.74,17.0
+839,Belize,7.47,67.0
+840,Benin,7.29,75.0
+841,Bhutan,6.72,104.0
+842,Bolivia,7.17,81.0
+843,Bosnia and Herzegovina,7.64,59.0
+844,Botswana,7.56,61.0
+845,Brazil,7.42,71.0
+846,Brunei Darussalam,6.07,128.0
+847,Bulgaria,8.09,41.0
+848,Burkina Faso,7.09,87.0
+849,Burundi,5.67,139.0
+850,Cabo Verde,7.92,50.0
+851,Cambodia,6.82,101.0
+852,Cameroon,6.11,125.0
+853,Canada,8.92,6.0
+854,Central African Republic,5.05,154.0
+855,Chad,5.65,140.0
+856,Chile,8.52,29.0
+857,China,5.52,145.0
+858,Colombia,7.08,88.0
+859,Comoros,,
+860,"Congo, Dem. Rep.",5.5,146.0
+861,"Congo, Rep.",5.38,149.0
+862,Costa Rica,8.39,35.0
+863,Cote d'Ivoire,6.61,110.0
+864,Croatia,8.21,37.0
+865,Cyprus,8.17,39.0
+866,Czech Republic,8.64,21.0
+867,Denmark,9.02,3.0
+868,Djibouti,,
+869,Dominican Republic,7.71,57.0
+870,Ecuador,6.87,98.0
+871,"Egypt, Arab Rep.",4.46,158.0
+872,El Salvador,7.66,58.0
+873,Estonia,8.85,10.0
+874,Eswatini,5.69,138.0
+875,Ethiopia,5.06,153.0
+876,Fiji,7.01,92.0
+877,Finland,8.92,6.0
+878,France,8.57,25.0
+879,Gabon,6.76,103.0
+880,"Gambia, The",5.78,135.0
+881,Georgia,8.09,41.0
+882,Germany,8.77,15.0
+883,Ghana,7.44,69.0
+884,Greece,7.89,51.0
+885,Guatemala,7.55,62.0
+886,Guinea,5.72,137.0
+887,Guinea-Bissau,6.27,121.0
+888,Guyana,7.32,74.0
+889,Haiti,7.23,78.0
+890,Honduras,7.15,83.0
+891,"Hong Kong SAR, China",8.74,17.0
+892,Hungary,8.11,40.0
+893,Iceland,8.55,27.0
+894,India,6.68,106.0
+895,Indonesia,7.25,76.0
+896,"Iran, Islamic Rep.",4.62,157.0
+897,Iraq,,
+898,Ireland,8.97,4.0
+899,Israel,7.55,62.0
+900,Italy,8.49,31.0
+901,Jamaica,7.76,53.0
+902,Japan,8.62,22.0
+903,Jordan,6.8,102.0
+904,Kazakhstan,6.65,108.0
+905,Kenya,6.93,94.0
+906,"Korea, Rep.",8.2,38.0
+907,Kuwait,6.23,124.0
+908,Kyrgyz Republic,6.9,96.0
+909,Lao PDR,5.65,140.0
+910,Latvia,8.73,19.0
+911,Lebanon,6.67,107.0
+912,Lesotho,7.03,90.0
+913,Liberia,7.13,85.0
+914,Libya,5.11,152.0
+915,Lithuania,8.62,22.0
+916,Luxembourg,8.81,14.0
+917,Madagascar,6.85,99.0
+918,Malawi,7.05,89.0
+919,Malaysia,6.64,109.0
+920,Mali,6.09,126.0
+921,Malta,8.62,22.0
+922,Mauritania,5.6,143.0
+923,Mauritius,8.03,46.0
+924,Mexico,6.9,96.0
+925,Moldova,7.34,73.0
+926,Mongolia,7.95,49.0
+927,Montenegro,7.98,48.0
+928,Morocco,6.06,129.0
+929,Mozambique,6.84,100.0
+930,Myanmar,5.47,148.0
+931,Namibia,7.48,66.0
+932,Nepal,7.25,76.0
+933,Netherlands,8.75,16.0
+934,New Zealand,9.09,1.0
+935,Nicaragua,7.17,81.0
+936,Niger,6.59,113.0
+937,Nigeria,6.31,120.0
+938,North Macedonia,7.59,60.0
+939,Norway,8.83,13.0
+940,Oman,5.99,132.0
+941,Pakistan,5.61,142.0
+942,Panama,8.04,45.0
+943,Papua New Guinea,7.1,86.0
+944,Paraguay,7.39,72.0
+945,Peru,7.75,54.0
+946,Philippines,7.21,79.0
+947,Poland,8.52,29.0
+948,Portugal,8.7,20.0
+949,Qatar,6.25,122.0
+950,Romania,8.4,33.0
+951,Russian Federation,6.24,123.0
+952,Rwanda,6.34,119.0
+953,Saudi Arabia,4.85,155.0
+954,Senegal,6.97,93.0
+955,Serbia,7.47,67.0
+956,Seychelles,7.55,62.0
+957,Sierra Leone,6.71,105.0
+958,Singapore,8.02,47.0
+959,Slovak Republic,8.4,33.0
+960,Slovenia,8.43,32.0
+961,Somalia,,
+962,South Africa,7.43,70.0
+963,Spain,8.57,25.0
+964,Sri Lanka,6.35,118.0
+965,Sudan,,
+966,Suriname,7.75,54.0
+967,Sweden,8.93,5.0
+968,Switzerland,9.07,2.0
+969,Syrian Arab Republic,3.53,159.0
+970,Taiwan,8.55,27.0
+971,Tajikistan,5.78,135.0
+972,Tanzania,6.91,95.0
+973,Thailand,6.39,117.0
+974,Timor-Leste,7.15,83.0
+975,Togo,6.46,115.0
+976,Trinidad and Tobago,7.53,65.0
+977,Tunisia,6.6,112.0
+978,Turkey,6.61,110.0
+979,Uganda,6.41,116.0
+980,Ukraine,6.57,114.0
+981,United Arab Emirates,6.08,127.0
+982,United Kingdom,8.85,10.0
+983,United States,8.86,9.0
+984,Uruguay,8.3,36.0
+985,"Venezuela, RB",4.67,156.0
+986,Vietnam,5.83,134.0
+987,"Yemen, Rep.",5.16,151.0
+988,Zambia,7.19,80.0
+989,Zimbabwe,6.05,130.0
+990,Albania,7.92,47.0
+991,Algeria,5.22,150.0
+992,Angola,5.6,139.0
+993,Argentina,7.2,81.0
+994,Armenia,7.65,59.0
+995,Australia,8.88,5.0
+996,Austria,8.81,11.0
+997,Azerbaijan,5.82,133.0
+998,"Bahamas, The",8.18,39.0
+999,Bahrain,5.51,143.0
+1000,Bangladesh,5.98,130.0
+1001,Barbados,7.92,47.0
+1002,Belarus,,
+1003,Belgium,8.59,23.0
+1004,Belize,7.45,71.0
+1005,Benin,7.25,76.0
+1006,Bhutan,6.71,105.0
+1007,Bolivia,7.23,77.0
+1008,Bosnia and Herzegovina,7.57,61.0
+1009,Botswana,7.63,60.0
+1010,Brazil,7.48,66.0
+1011,Brunei Darussalam,6.24,123.0
+1012,Bulgaria,8.05,42.0
+1013,Burkina Faso,6.97,91.0
+1014,Burundi,5.68,138.0
+1015,Cabo Verde,7.75,53.0
+1016,Cambodia,6.86,98.0
+1017,Cameroon,6.18,124.0
+1018,Canada,8.87,8.0
+1019,Central African Republic,5.09,152.0
+1020,Chad,5.56,141.0
+1021,Chile,8.5,27.0
+1022,China,5.53,142.0
+1023,Colombia,7.02,89.0
+1024,Comoros,,
+1025,"Congo, Dem. Rep.",5.5,144.0
+1026,"Congo, Rep.",5.41,147.0
+1027,Costa Rica,8.38,32.0
+1028,Cote d'Ivoire,6.63,109.0
+1029,Croatia,8.18,39.0
+1030,Cyprus,7.91,49.0
+1031,Czech Republic,8.61,21.0
+1032,Denmark,8.98,3.0
+1033,Djibouti,,
+1034,Dominican Republic,7.67,57.0
+1035,Ecuador,6.9,96.0
+1036,"Egypt, Arab Rep.",4.84,154.0
+1037,El Salvador,7.55,63.0
+1038,Estonia,8.78,14.0
+1039,Eswatini,5.78,135.0
+1040,Ethiopia,5.11,151.0
+1041,Fiji,6.77,101.0
+1042,Finland,8.88,5.0
+1043,France,8.55,24.0
+1044,Gabon,6.66,107.0
+1045,"Gambia, The",5.72,137.0
+1046,Georgia,7.96,44.0
+1047,Germany,8.74,15.0
+1048,Ghana,7.67,57.0
+1049,Greece,7.82,52.0
+1050,Guatemala,7.55,63.0
+1051,Guinea,5.99,129.0
+1052,Guinea-Bissau,6.11,126.0
+1053,Guyana,7.26,74.0
+1054,Haiti,6.93,94.0
+1055,Honduras,7.09,86.0
+1056,"Hong Kong SAR, China",8.81,11.0
+1057,Hungary,8.12,41.0
+1058,Iceland,8.48,30.0
+1059,India,7.0,90.0
+1060,Indonesia,7.2,81.0
+1061,"Iran, Islamic Rep.",4.69,156.0
+1062,Iraq,,
+1063,Ireland,8.93,4.0
+1064,Israel,7.71,56.0
+1065,Italy,8.52,25.0
+1066,Jamaica,7.83,51.0
+1067,Japan,8.62,20.0
+1068,Jordan,6.87,97.0
+1069,Kazakhstan,6.57,111.0
+1070,Kenya,6.93,94.0
+1071,"Korea, Rep.",8.2,37.0
+1072,Kuwait,6.33,120.0
+1073,Kyrgyz Republic,6.82,100.0
+1074,Lao PDR,,
+1075,Latvia,8.65,19.0
+1076,Lebanon,6.68,106.0
+1077,Lesotho,6.97,91.0
+1078,Liberia,,
+1079,Libya,5.31,149.0
+1080,Lithuania,8.5,27.0
+1081,Luxembourg,8.73,16.0
+1082,Madagascar,6.55,113.0
+1083,Malawi,7.16,85.0
+1084,Malaysia,6.61,110.0
+1085,Mali,6.08,128.0
+1086,Malta,8.61,21.0
+1087,Mauritania,5.75,136.0
+1088,Mauritius,8.19,38.0
+1089,Mexico,6.85,99.0
+1090,Moldova,7.23,77.0
+1091,Mongolia,7.9,50.0
+1092,Montenegro,8.03,43.0
+1093,Morocco,6.09,127.0
+1094,Mozambique,6.66,107.0
+1095,Myanmar,5.38,148.0
+1096,Namibia,7.49,65.0
+1097,Nepal,7.21,80.0
+1098,Netherlands,8.67,18.0
+1099,New Zealand,9.08,1.0
+1100,Nicaragua,7.26,74.0
+1101,Niger,6.56,112.0
+1102,Nigeria,6.36,118.0
+1103,North Macedonia,7.57,61.0
+1104,Norway,8.83,9.0
+1105,Oman,5.92,131.0
+1106,Pakistan,5.57,140.0
+1107,Panama,7.95,45.0
+1108,Papua New Guinea,7.27,73.0
+1109,Paraguay,7.36,72.0
+1110,Peru,7.74,55.0
+1111,Philippines,7.19,84.0
+1112,Poland,8.46,31.0
+1113,Portugal,8.68,17.0
+1114,Qatar,6.25,122.0
+1115,Romania,8.36,34.0
+1116,Russian Federation,6.35,119.0
+1117,Rwanda,6.32,121.0
+1118,Saudi Arabia,4.95,153.0
+1119,Senegal,6.97,91.0
+1120,Serbia,7.46,69.0
+1121,Seychelles,7.47,67.0
+1122,Sierra Leone,6.77,101.0
+1123,Singapore,7.94,46.0
+1124,Slovak Republic,8.38,32.0
+1125,Slovenia,8.31,36.0
+1126,Somalia,,
+1127,South Africa,7.47,67.0
+1128,Spain,8.52,25.0
+1129,Sri Lanka,6.39,117.0
+1130,Sudan,,
+1131,Suriname,7.75,53.0
+1132,Sweden,8.88,5.0
+1133,Switzerland,9.01,2.0
+1134,Syrian Arab Republic,3.54,157.0
+1135,Taiwan,8.49,29.0
+1136,Tajikistan,5.45,145.0
+1137,Tanzania,7.05,88.0
+1138,Thailand,6.77,101.0
+1139,Timor-Leste,7.2,81.0
+1140,Togo,6.41,116.0
+1141,Trinidad and Tobago,7.46,69.0
+1142,Tunisia,6.52,114.0
+1143,Turkey,6.75,104.0
+1144,Uganda,6.5,115.0
+1145,Ukraine,7.06,87.0
+1146,United Arab Emirates,6.16,125.0
+1147,United Kingdom,8.82,10.0
+1148,United States,8.8,13.0
+1149,Uruguay,8.32,35.0
+1150,"Venezuela, RB",4.77,155.0
+1151,Vietnam,5.82,133.0
+1152,"Yemen, Rep.",5.45,145.0
+1153,Zambia,7.22,79.0
+1154,Zimbabwe,5.89,132.0
+1155,Albania,7.99,44.0
+1156,Algeria,5.24,148.0
+1157,Angola,5.83,130.0
+1158,Argentina,7.26,78.0
+1159,Armenia,7.62,60.0
+1160,Australia,8.89,6.0
+1161,Austria,8.79,12.0
+1162,Azerbaijan,5.75,132.0
+1163,"Bahamas, The",8.19,39.0
+1164,Bahrain,5.49,143.0
+1165,Bangladesh,6.19,123.0
+1166,Barbados,7.76,53.0
+1167,Belarus,,
+1168,Belgium,8.56,25.0
+1169,Belize,7.54,67.0
+1170,Benin,7.05,86.0
+1171,Bhutan,,
+1172,Bolivia,7.22,80.0
+1173,Bosnia and Herzegovina,7.64,58.0
+1174,Botswana,7.68,57.0
+1175,Brazil,7.6,61.0
+1176,Brunei Darussalam,6.33,116.0
+1177,Bulgaria,8.06,42.0
+1178,Burkina Faso,6.88,96.0
+1179,Burundi,5.6,139.0
+1180,Cabo Verde,7.77,52.0
+1181,Cambodia,6.98,90.0
+1182,Cameroon,6.28,118.0
+1183,Canada,8.83,9.0
+1184,Central African Republic,5.62,138.0
+1185,Chad,5.52,142.0
+1186,Chile,8.6,20.0
+1187,China,5.53,141.0
+1188,Colombia,6.96,93.0
+1189,Comoros,,
+1190,"Congo, Dem. Rep.",5.47,144.0
+1191,"Congo, Rep.",5.42,145.0
+1192,Costa Rica,8.38,34.0
+1193,Cote d'Ivoire,6.39,115.0
+1194,Croatia,8.05,43.0
+1195,Cyprus,8.07,41.0
+1196,Czech Republic,8.65,18.0
+1197,Denmark,8.95,3.0
+1198,Djibouti,,
+1199,Dominican Republic,7.55,66.0
+1200,Ecuador,6.97,92.0
+1201,"Egypt, Arab Rep.",5.34,146.0
+1202,El Salvador,7.58,62.0
+1203,Estonia,8.75,14.0
+1204,Eswatini,5.74,135.0
+1205,Ethiopia,5.17,149.0
+1206,Fiji,6.81,101.0
+1207,Finland,8.93,4.0
+1208,France,8.53,27.0
+1209,Gabon,6.46,110.0
+1210,"Gambia, The",5.75,132.0
+1211,Georgia,7.69,56.0
+1212,Germany,8.69,15.0
+1213,Ghana,7.64,58.0
+1214,Greece,7.98,45.0
+1215,Guatemala,7.47,72.0
+1216,Guinea,,
+1217,Guinea-Bissau,6.01,127.0
+1218,Guyana,7.39,74.0
+1219,Haiti,6.85,99.0
+1220,Honduras,7.13,84.0
+1221,"Hong Kong SAR, China",8.87,8.0
+1222,Hungary,8.17,40.0
+1223,Iceland,8.48,28.0
+1224,India,7.02,87.0
+1225,Indonesia,7.21,81.0
+1226,"Iran, Islamic Rep.",4.62,152.0
+1227,Iraq,,
+1228,Ireland,8.92,5.0
+1229,Israel,7.56,63.0
+1230,Italy,8.54,26.0
+1231,Jamaica,7.7,55.0
+1232,Japan,8.6,20.0
+1233,Jordan,6.88,96.0
+1234,Kazakhstan,6.57,106.0
+1235,Kenya,7.01,88.0
+1236,"Korea, Rep.",8.25,38.0
+1237,Kuwait,6.4,112.0
+1238,Kyrgyz Republic,6.8,102.0
+1239,Lao PDR,,
+1240,Latvia,8.59,23.0
+1241,Lebanon,6.91,94.0
+1242,Lesotho,6.71,104.0
+1243,Liberia,,
+1244,Libya,,
+1245,Lithuania,8.44,31.0
+1246,Luxembourg,8.67,16.0
+1247,Madagascar,6.27,119.0
+1248,Malawi,7.15,83.0
+1249,Malaysia,6.45,111.0
+1250,Mali,6.4,112.0
+1251,Malta,8.6,20.0
+1252,Mauritania,5.94,128.0
+1253,Mauritius,8.35,36.0
+1254,Mexico,6.88,96.0
+1255,Moldova,7.31,77.0
+1256,Mongolia,7.91,47.0
+1257,Montenegro,7.95,46.0
+1258,Morocco,6.11,126.0
+1259,Mozambique,6.64,105.0
+1260,Myanmar,5.26,147.0
+1261,Namibia,7.5,69.0
+1262,Nepal,7.24,79.0
+1263,Netherlands,8.66,17.0
+1264,New Zealand,9.08,1.0
+1265,Nicaragua,7.35,75.0
+1266,Niger,6.53,108.0
+1267,Nigeria,6.29,117.0
+1268,North Macedonia,7.82,51.0
+1269,Norway,8.83,9.0
+1270,Oman,5.94,128.0
+1271,Pakistan,5.69,137.0
+1272,Panama,7.91,47.0
+1273,Papua New Guinea,7.41,73.0
+1274,Paraguay,7.56,63.0
+1275,Peru,7.88,50.0
+1276,Philippines,7.33,76.0
+1277,Poland,8.48,28.0
+1278,Portugal,8.61,19.0
+1279,Qatar,6.21,121.0
+1280,Romania,8.3,37.0
+1281,Russian Federation,6.4,112.0
+1282,Rwanda,6.27,119.0
+1283,Saudi Arabia,4.86,151.0
+1284,Senegal,6.72,103.0
+1285,Serbia,7.51,68.0
+1286,Seychelles,,
+1287,Sierra Leone,6.85,99.0
+1288,Singapore,7.9,49.0
+1289,Slovak Republic,8.41,33.0
+1290,Slovenia,8.37,35.0
+1291,Somalia,,
+1292,South Africa,7.5,69.0
+1293,Spain,8.58,24.0
+1294,Sri Lanka,6.13,125.0
+1295,Sudan,,
+1296,Suriname,7.71,54.0
+1297,Sweden,8.88,7.0
+1298,Switzerland,9.05,2.0
+1299,Syrian Arab Republic,3.88,153.0
+1300,Taiwan,8.48,28.0
+1301,Tajikistan,5.75,132.0
+1302,Tanzania,7.01,88.0
+1303,Thailand,6.98,90.0
+1304,Timor-Leste,7.17,82.0
+1305,Togo,6.18,124.0
+1306,Trinidad and Tobago,7.56,63.0
+1307,Tunisia,6.56,107.0
+1308,Turkey,6.9,95.0
+1309,Uganda,6.49,109.0
+1310,Ukraine,7.11,85.0
+1311,United Arab Emirates,6.21,121.0
+1312,United Kingdom,8.82,11.0
+1313,United States,8.78,13.0
+1314,Uruguay,8.44,31.0
+1315,"Venezuela, RB",5.14,150.0
+1316,Vietnam,5.81,131.0
+1317,"Yemen, Rep.",5.57,140.0
+1318,Zambia,7.48,71.0
+1319,Zimbabwe,5.7,136.0
+1320,Albania,8.06,43.0
+1321,Algeria,5.31,145.0
+1322,Angola,5.75,133.0
+1323,Argentina,7.49,69.0
+1324,Armenia,7.56,64.0
+1325,Australia,8.9,6.0
+1326,Austria,8.75,13.0
+1327,Azerbaijan,5.69,136.0
+1328,"Bahamas, The",8.19,40.0
+1329,Bahrain,5.65,138.0
+1330,Bangladesh,6.35,117.0
+1331,Barbados,7.87,52.0
+1332,Belarus,,
+1333,Belgium,8.63,20.0
+1334,Belize,7.49,69.0
+1335,Benin,7.11,85.0
+1336,Bhutan,,
+1337,Bolivia,7.33,77.0
+1338,Bosnia and Herzegovina,7.69,55.0
+1339,Botswana,7.68,57.0
+1340,Brazil,7.69,55.0
+1341,Brunei Darussalam,6.29,118.0
+1342,Bulgaria,8.09,42.0
+1343,Burkina Faso,6.99,94.0
+1344,Burundi,5.57,141.0
+1345,Cabo Verde,7.73,53.0
+1346,Cambodia,6.93,96.0
+1347,Cameroon,6.27,120.0
+1348,Canada,8.81,10.0
+1349,Central African Republic,5.71,134.0
+1350,Chad,5.6,139.0
+1351,Chile,8.65,19.0
+1352,China,5.52,143.0
+1353,Colombia,7.02,93.0
+1354,Comoros,,
+1355,"Congo, Dem. Rep.",5.54,142.0
+1356,"Congo, Rep.",5.42,144.0
+1357,Costa Rica,8.38,34.0
+1358,Cote d'Ivoire,6.28,119.0
+1359,Croatia,8.05,44.0
+1360,Cyprus,8.17,41.0
+1361,Czech Republic,8.6,22.0
+1362,Denmark,8.97,3.0
+1363,Djibouti,,
+1364,Dominican Republic,7.66,59.0
+1365,Ecuador,6.94,95.0
+1366,"Egypt, Arab Rep.",5.24,148.0
+1367,El Salvador,7.54,67.0
+1368,Estonia,8.78,11.0
+1369,Eswatini,5.7,135.0
+1370,Ethiopia,5.25,147.0
+1371,Fiji,6.83,101.0
+1372,Finland,8.97,3.0
+1373,France,8.56,25.0
+1374,Gabon,6.51,108.0
+1375,"Gambia, The",5.86,131.0
+1376,Georgia,7.67,58.0
+1377,Germany,8.71,14.0
+1378,Ghana,7.72,54.0
+1379,Greece,8.02,45.0
+1380,Guatemala,7.47,73.0
+1381,Guinea,,
+1382,Guinea-Bissau,6.02,127.0
+1383,Guyana,7.43,74.0
+1384,Haiti,6.9,97.0
+1385,Honduras,7.12,84.0
+1386,"Hong Kong SAR, China",8.94,5.0
+1387,Hungary,8.32,36.0
+1388,Iceland,8.43,32.0
+1389,India,7.08,88.0
+1390,Indonesia,7.26,80.0
+1391,"Iran, Islamic Rep.",4.72,151.0
+1392,Iraq,,
+1393,Ireland,8.9,6.0
+1394,Israel,7.56,64.0
+1395,Italy,8.53,26.0
+1396,Jamaica,7.61,62.0
+1397,Japan,8.59,23.0
+1398,Jordan,6.87,99.0
+1399,Kazakhstan,6.42,112.0
+1400,Kenya,7.1,87.0
+1401,"Korea, Rep.",8.29,38.0
+1402,Kuwait,6.39,113.0
+1403,Kyrgyz Republic,6.76,102.0
+1404,Lao PDR,,
+1405,Latvia,8.53,26.0
+1406,Lebanon,7.06,90.0
+1407,Lesotho,6.65,105.0
+1408,Liberia,,
+1409,Libya,,
+1410,Lithuania,8.4,33.0
+1411,Luxembourg,8.69,15.0
+1412,Madagascar,6.39,113.0
+1413,Malawi,7.23,82.0
+1414,Malaysia,6.5,109.0
+1415,Mali,6.58,106.0
+1416,Malta,8.63,20.0
+1417,Mauritania,5.94,128.0
+1418,Mauritius,8.32,36.0
+1419,Mexico,6.88,98.0
+1420,Moldova,7.3,79.0
+1421,Mongolia,7.93,50.0
+1422,Montenegro,7.94,48.0
+1423,Morocco,6.14,125.0
+1424,Mozambique,6.56,107.0
+1425,Myanmar,4.69,152.0
+1426,Namibia,7.51,68.0
+1427,Nepal,7.25,81.0
+1428,Netherlands,8.69,15.0
+1429,New Zealand,9.06,1.0
+1430,Nicaragua,7.38,76.0
+1431,Niger,6.49,110.0
+1432,Nigeria,6.36,116.0
+1433,North Macedonia,7.9,51.0
+1434,Norway,8.68,17.0
+1435,Oman,5.89,129.0
+1436,Pakistan,5.77,132.0
+1437,Panama,7.94,48.0
+1438,Papua New Guinea,7.42,75.0
+1439,Paraguay,7.59,63.0
+1440,Peru,7.96,46.0
+1441,Philippines,7.32,78.0
+1442,Poland,8.51,28.0
+1443,Portugal,8.59,23.0
+1444,Qatar,6.05,126.0
+1445,Romania,8.26,39.0
+1446,Russian Federation,6.38,115.0
+1447,Rwanda,6.2,123.0
+1448,Saudi Arabia,4.9,150.0
+1449,Senegal,6.76,102.0
+1450,Serbia,7.56,64.0
+1451,Seychelles,,
+1452,Sierra Leone,6.84,100.0
+1453,Singapore,7.96,46.0
+1454,Slovak Republic,8.46,30.0
+1455,Slovenia,8.37,35.0
+1456,Somalia,,
+1457,South Africa,7.66,59.0
+1458,Spain,8.66,18.0
+1459,Sri Lanka,6.19,124.0
+1460,Sudan,,
+1461,Suriname,7.64,61.0
+1462,Sweden,8.89,8.0
+1463,Switzerland,9.03,2.0
+1464,Syrian Arab Republic,4.45,153.0
+1465,Taiwan,8.45,31.0
+1466,Tajikistan,5.67,137.0
+1467,Tanzania,7.06,90.0
+1468,Thailand,7.07,89.0
+1469,Timor-Leste,7.23,82.0
+1470,Togo,6.23,121.0
+1471,Trinidad and Tobago,7.48,72.0
+1472,Tunisia,6.68,104.0
+1473,Turkey,7.04,92.0
+1474,Uganda,6.48,111.0
+1475,Ukraine,7.11,85.0
+1476,United Arab Emirates,6.21,122.0
+1477,United Kingdom,8.83,9.0
+1478,United States,8.77,12.0
+1479,Uruguay,8.49,29.0
+1480,"Venezuela, RB",5.23,149.0
+1481,Vietnam,5.88,130.0
+1482,"Yemen, Rep.",5.31,145.0
+1483,Zambia,7.49,69.0
+1484,Zimbabwe,5.6,139.0
+1485,Albania,8.08,43.0
+1486,Algeria,5.3,147.0
+1487,Angola,5.83,132.0
+1488,Argentina,7.49,68.0
+1489,Armenia,7.54,65.0
+1490,Australia,8.91,7.0
+1491,Austria,8.68,14.0
+1492,Azerbaijan,5.77,133.0
+1493,"Bahamas, The",8.13,42.0
+1494,Bahrain,6.53,110.0
+1495,Bangladesh,6.21,122.0
+1496,Barbados,7.69,55.0
+1497,Belarus,,
+1498,Belgium,8.58,22.0
+1499,Belize,7.36,77.0
+1500,Benin,7.15,83.0
+1501,Bhutan,,
+1502,Bolivia,7.37,74.0
+1503,Bosnia and Herzegovina,7.69,56.0
+1504,Botswana,7.6,62.0
+1505,Brazil,7.8,52.0
+1506,Brunei Darussalam,6.34,117.0
+1507,Bulgaria,8.14,41.0
+1508,Burkina Faso,7.11,84.0
+1509,Burundi,5.56,141.0
+1510,Cabo Verde,7.68,58.0
+1511,Cambodia,7.01,92.0
+1512,Cameroon,6.24,120.0
+1513,Canada,8.85,8.0
+1514,Central African Republic,5.61,139.0
+1515,Chad,5.76,134.0
+1516,Chile,8.66,18.0
+1517,China,5.61,140.0
+1518,Colombia,6.89,100.0
+1519,Comoros,,
+1520,"Congo, Dem. Rep.",5.62,138.0
+1521,"Congo, Rep.",5.31,146.0
+1522,Costa Rica,8.17,40.0
+1523,Cote d'Ivoire,6.34,116.0
+1524,Croatia,7.9,49.0
+1525,Cyprus,8.29,36.0
+1526,Czech Republic,8.57,23.0
+1527,Denmark,8.98,3.0
+1528,Djibouti,,
+1529,Dominican Republic,7.68,57.0
+1530,Ecuador,6.97,96.0
+1531,"Egypt, Arab Rep.",5.34,145.0
+1532,El Salvador,7.59,63.0
+1533,Estonia,8.81,11.0
+1534,Eswatini,5.67,137.0
+1535,Ethiopia,5.28,148.0
+1536,Fiji,6.86,101.0
+1537,Finland,8.95,5.0
+1538,France,8.6,21.0
+1539,Gabon,6.61,105.0
+1540,"Gambia, The",5.93,131.0
+1541,Georgia,7.63,59.0
+1542,Germany,8.68,15.0
+1543,Ghana,7.72,54.0
+1544,Greece,8.02,47.0
+1545,Guatemala,7.48,69.0
+1546,Guinea,,
+1547,Guinea-Bissau,6.07,127.0
+1548,Guyana,7.24,80.0
+1549,Haiti,7.07,86.0
+1550,Honduras,7.19,81.0
+1551,"Hong Kong SAR, China",8.95,4.0
+1552,Hungary,8.41,31.0
+1553,Iceland,8.27,37.0
+1554,India,7.02,90.0
+1555,Indonesia,7.36,76.0
+1556,"Iran, Islamic Rep.",4.77,152.0
+1557,Iraq,,
+1558,Ireland,8.83,10.0
+1559,Israel,7.61,60.0
+1560,Italy,8.46,29.0
+1561,Jamaica,7.6,61.0
+1562,Japan,8.62,19.0
+1563,Jordan,6.99,95.0
+1564,Kazakhstan,6.61,106.0
+1565,Kenya,7.07,87.0
+1566,"Korea, Rep.",8.3,35.0
+1567,Kuwait,6.47,114.0
+1568,Kyrgyz Republic,6.55,108.0
+1569,Lao PDR,,
+1570,Latvia,8.48,26.0
+1571,Lebanon,7.0,94.0
+1572,Lesotho,6.53,109.0
+1573,Liberia,,
+1574,Libya,,
+1575,Lithuania,8.33,34.0
+1576,Luxembourg,8.66,17.0
+1577,Madagascar,6.65,103.0
+1578,Malawi,7.09,85.0
+1579,Malaysia,6.48,113.0
+1580,Mali,6.63,104.0
+1581,Malta,8.61,20.0
+1582,Mauritania,5.98,130.0
+1583,Mauritius,8.27,38.0
+1584,Mexico,6.96,97.0
+1585,Moldova,7.31,78.0
+1586,Mongolia,7.91,48.0
+1587,Montenegro,8.05,46.0
+1588,Morocco,6.23,121.0
+1589,Mozambique,6.52,112.0
+1590,Myanmar,4.35,153.0
+1591,Namibia,7.44,71.0
+1592,Nepal,7.18,82.0
+1593,Netherlands,8.68,16.0
+1594,New Zealand,9.04,2.0
+1595,Nicaragua,7.44,70.0
+1596,Niger,6.56,107.0
+1597,Nigeria,6.36,115.0
+1598,North Macedonia,7.82,51.0
+1599,Norway,8.79,13.0
+1600,Oman,6.02,129.0
+1601,Pakistan,5.72,136.0
+1602,Panama,8.06,45.0
+1603,Papua New Guinea,7.5,67.0
+1604,Paraguay,7.59,64.0
+1605,Peru,7.85,50.0
+1606,Philippines,7.26,79.0
+1607,Poland,8.47,27.0
+1608,Portugal,8.5,25.0
+1609,Qatar,6.19,124.0
+1610,Romania,8.25,39.0
+1611,Russian Federation,6.32,118.0
+1612,Rwanda,6.2,123.0
+1613,Saudi Arabia,5.16,150.0
+1614,Senegal,6.78,102.0
+1615,Serbia,7.52,66.0
+1616,Seychelles,,
+1617,Sierra Leone,6.93,98.0
+1618,Singapore,8.06,44.0
+1619,Slovak Republic,8.44,30.0
+1620,Slovenia,8.36,33.0
+1621,Somalia,,
+1622,South Africa,7.42,73.0
+1623,Spain,8.57,24.0
+1624,Sri Lanka,6.12,125.0
+1625,Sudan,,
+1626,Suriname,7.73,53.0
+1627,Sweden,8.91,6.0
+1628,Switzerland,9.06,1.0
+1629,Syrian Arab Republic,4.78,151.0
+1630,Taiwan,8.36,32.0
+1631,Tajikistan,5.74,135.0
+1632,Tanzania,6.89,99.0
+1633,Thailand,7.0,93.0
+1634,Timor-Leste,7.01,91.0
+1635,Togo,6.11,126.0
+1636,Trinidad and Tobago,7.43,72.0
+1637,Tunisia,5.4,143.0
+1638,Turkey,7.02,89.0
+1639,Uganda,6.52,111.0
+1640,Ukraine,7.06,88.0
+1641,United Arab Emirates,6.28,119.0
+1642,United Kingdom,8.83,9.0
+1643,United States,8.79,12.0
+1644,Uruguay,8.47,28.0
+1645,"Venezuela, RB",5.23,149.0
+1646,Vietnam,6.03,128.0
+1647,"Yemen, Rep.",5.54,142.0
+1648,Zambia,7.36,75.0
+1649,Zimbabwe,5.38,144.0
+1650,Albania,8.01,45.0
+1651,Algeria,5.27,137.0
+1652,Angola,5.74,126.0
+1653,Argentina,7.59,58.0
+1654,Armenia,7.35,72.0
+1655,Australia,8.92,5.0
+1656,Austria,8.73,13.0
+1657,Azerbaijan,5.8,124.0
+1658,"Bahamas, The",8.18,41.0
+1659,Bahrain,6.66,99.0
+1660,Bangladesh,6.32,111.0
+1661,Barbados,7.72,53.0
+1662,Belarus,,
+1663,Belgium,8.58,22.0
+1664,Belize,7.63,56.0
+1665,Benin,7.19,78.0
+1666,Bhutan,,
+1667,Bolivia,7.44,66.0
+1668,Bosnia and Herzegovina,7.68,55.0
+1669,Botswana,7.51,63.0
+1670,Brazil,7.71,54.0
+1671,Brunei Darussalam,,
+1672,Bulgaria,8.15,42.0
+1673,Burkina Faso,7.12,81.0
+1674,Burundi,5.82,123.0
+1675,Cabo Verde,,
+1676,Cambodia,,
+1677,Cameroon,6.27,114.0
+1678,Canada,8.85,7.0
+1679,Central African Republic,5.71,127.0
+1680,Chad,5.57,130.0
+1681,Chile,8.62,18.0
+1682,China,5.61,129.0
+1683,Colombia,6.85,96.0
+1684,Comoros,,
+1685,"Congo, Dem. Rep.",5.57,131.0
+1686,"Congo, Rep.",5.33,135.0
+1687,Costa Rica,8.19,40.0
+1688,Cote d'Ivoire,6.49,108.0
+1689,Croatia,7.84,49.0
+1690,Cyprus,8.23,38.0
+1691,Czech Republic,8.56,23.0
+1692,Denmark,8.95,4.0
+1693,Djibouti,,
+1694,Dominican Republic,7.58,59.0
+1695,Ecuador,7.0,87.0
+1696,"Egypt, Arab Rep.",5.33,136.0
+1697,El Salvador,7.56,60.0
+1698,Estonia,8.73,14.0
+1699,Eswatini,,
+1700,Ethiopia,5.37,133.0
+1701,Fiji,6.88,94.0
+1702,Finland,8.9,6.0
+1703,France,8.59,20.0
+1704,Gabon,6.58,102.0
+1705,"Gambia, The",,
+1706,Georgia,7.52,61.0
+1707,Germany,8.65,17.0
+1708,Ghana,7.78,51.0
+1709,Greece,8.01,46.0
+1710,Guatemala,7.45,65.0
+1711,Guinea,,
+1712,Guinea-Bissau,6.09,119.0
+1713,Guyana,7.27,76.0
+1714,Haiti,7.29,75.0
+1715,Honduras,7.03,85.0
+1716,"Hong Kong SAR, China",8.96,3.0
+1717,Hungary,8.46,28.0
+1718,Iceland,8.35,33.0
+1719,India,7.01,86.0
+1720,Indonesia,7.23,77.0
+1721,"Iran, Islamic Rep.",4.83,140.0
+1722,Iraq,,
+1723,Ireland,8.8,10.0
+1724,Israel,7.43,68.0
+1725,Italy,8.39,31.0
+1726,Jamaica,7.63,57.0
+1727,Japan,8.59,21.0
+1728,Jordan,6.88,95.0
+1729,Kazakhstan,6.67,98.0
+1730,Kenya,6.99,89.0
+1731,"Korea, Rep.",8.24,37.0
+1732,Kuwait,6.63,100.0
+1733,Kyrgyz Republic,6.53,105.0
+1734,Lao PDR,,
+1735,Latvia,8.46,26.0
+1736,Lebanon,,
+1737,Lesotho,6.52,107.0
+1738,Liberia,,
+1739,Libya,,
+1740,Lithuania,8.26,35.0
+1741,Luxembourg,8.7,15.0
+1742,Madagascar,6.54,103.0
+1743,Malawi,7.12,80.0
+1744,Malaysia,6.4,109.0
+1745,Mali,6.6,101.0
+1746,Malta,8.61,19.0
+1747,Mauritania,6.05,121.0
+1748,Mauritius,8.21,39.0
+1749,Mexico,6.97,90.0
+1750,Moldova,6.96,91.0
+1751,Mongolia,7.9,48.0
+1752,Montenegro,7.96,47.0
+1753,Morocco,6.19,116.0
+1754,Mozambique,6.52,106.0
+1755,Myanmar,4.18,141.0
+1756,Namibia,7.41,70.0
+1757,Nepal,7.08,82.0
+1758,Netherlands,8.68,16.0
+1759,New Zealand,9.03,2.0
+1760,Nicaragua,7.4,71.0
+1761,Niger,6.39,110.0
+1762,Nigeria,6.3,112.0
+1763,North Macedonia,7.82,50.0
+1764,Norway,8.78,11.0
+1765,Oman,6.06,120.0
+1766,Pakistan,5.74,125.0
+1767,Panama,8.04,44.0
+1768,Papua New Guinea,7.48,64.0
+1769,Paraguay,7.44,67.0
+1770,Peru,7.77,52.0
+1771,Philippines,7.04,84.0
+1772,Poland,8.46,27.0
+1773,Portugal,8.47,25.0
+1774,Qatar,,
+1775,Romania,8.24,36.0
+1776,Russian Federation,6.28,113.0
+1777,Rwanda,6.15,118.0
+1778,Saudi Arabia,,
+1779,Senegal,6.89,93.0
+1780,Serbia,7.51,62.0
+1781,Seychelles,,
+1782,Sierra Leone,6.9,92.0
+1783,Singapore,8.08,43.0
+1784,Slovak Republic,8.42,29.0
+1785,Slovenia,8.41,30.0
+1786,Somalia,,
+1787,South Africa,7.32,73.0
+1788,Spain,8.49,24.0
+1789,Sri Lanka,5.69,128.0
+1790,Sudan,,
+1791,Suriname,,
+1792,Sweden,8.83,8.0
+1793,Switzerland,9.05,1.0
+1794,Syrian Arab Republic,4.83,139.0
+1795,Taiwan,8.27,34.0
+1796,Tajikistan,,
+1797,Tanzania,6.78,97.0
+1798,Thailand,7.0,88.0
+1799,Timor-Leste,,
+1800,Togo,6.17,117.0
+1801,Trinidad and Tobago,7.43,69.0
+1802,Tunisia,5.48,132.0
+1803,Turkey,7.06,83.0
+1804,Uganda,6.53,104.0
+1805,Ukraine,7.14,79.0
+1806,United Arab Emirates,6.2,115.0
+1807,United Kingdom,8.83,9.0
+1808,United States,8.75,12.0
+1809,Uruguay,8.38,32.0
+1810,"Venezuela, RB",5.34,134.0
+1811,Vietnam,6.03,122.0
+1812,"Yemen, Rep.",,
+1813,Zambia,7.3,74.0
+1814,Zimbabwe,5.18,138.0
+1815,Albania,8.03,46.0
+1816,Algeria,5.36,136.0
+1817,Angola,5.41,135.0
+1818,Argentina,7.68,57.0
+1819,Armenia,7.43,67.0
+1820,Australia,8.9,5.0
+1821,Austria,8.73,13.0
+1822,Azerbaijan,5.82,123.0
+1823,"Bahamas, The",8.3,34.0
+1824,Bahrain,6.76,97.0
+1825,Bangladesh,6.19,117.0
+1826,Barbados,7.65,59.0
+1827,Belarus,,
+1828,Belgium,8.59,22.0
+1829,Belize,7.73,53.0
+1830,Benin,7.17,79.0
+1831,Bhutan,,
+1832,Bolivia,7.31,75.0
+1833,Bosnia and Herzegovina,7.7,56.0
+1834,Botswana,7.57,61.0
+1835,Brazil,7.7,54.0
+1836,Brunei Darussalam,,
+1837,Bulgaria,8.09,42.0
+1838,Burkina Faso,7.11,85.0
+1839,Burundi,5.57,129.0
+1840,Cabo Verde,,
+1841,Cambodia,,
+1842,Cameroon,6.23,116.0
+1843,Canada,8.86,10.0
+1844,Central African Republic,5.8,124.0
+1845,Chad,5.55,130.0
+1846,Chile,8.66,17.0
+1847,China,5.65,126.0
+1848,Colombia,6.8,96.0
+1849,Comoros,,
+1850,"Congo, Dem. Rep.",5.58,128.0
+1851,"Congo, Rep.",5.43,134.0
+1852,Costa Rica,8.12,41.0
+1853,Cote d'Ivoire,6.52,108.0
+1854,Croatia,7.83,47.0
+1855,Cyprus,8.27,37.0
+1856,Czech Republic,8.58,24.0
+1857,Denmark,8.99,3.0
+1858,Djibouti,,
+1859,Dominican Republic,7.36,72.0
+1860,Ecuador,7.13,83.0
+1861,"Egypt, Arab Rep.",5.46,132.0
+1862,El Salvador,7.7,55.0
+1863,Estonia,8.7,16.0
+1864,Eswatini,,
+1865,Ethiopia,5.18,138.0
+1866,Fiji,6.96,92.0
+1867,Finland,8.9,6.0
+1868,France,8.65,18.0
+1869,Gabon,6.52,109.0
+1870,"Gambia, The",,
+1871,Georgia,7.65,58.0
+1872,Germany,8.62,19.0
+1873,Ghana,7.76,50.0
+1874,Greece,8.07,44.0
+1875,Guatemala,7.46,65.0
+1876,Guinea,,
+1877,Guinea-Bissau,6.03,121.0
+1878,Guyana,7.14,81.0
+1879,Haiti,7.4,71.0
+1880,Honduras,7.42,68.0
+1881,"Hong Kong SAR, China",8.94,4.0
+1882,Hungary,8.41,31.0
+1883,Iceland,8.53,26.0
+1884,India,7.02,89.0
+1885,Indonesia,7.25,77.0
+1886,"Iran, Islamic Rep.",4.98,139.0
+1887,Iraq,,
+1888,Ireland,8.87,9.0
+1889,Israel,7.29,76.0
+1890,Italy,8.42,30.0
+1891,Jamaica,7.57,60.0
+1892,Japan,8.6,21.0
+1893,Jordan,6.81,95.0
+1894,Kazakhstan,6.69,100.0
+1895,Kenya,6.95,93.0
+1896,"Korea, Rep.",8.24,39.0
+1897,Kuwait,6.65,101.0
+1898,Kyrgyz Republic,6.73,99.0
+1899,Lao PDR,,
+1900,Latvia,8.51,27.0
+1901,Lebanon,,
+1902,Lesotho,6.53,106.0
+1903,Liberia,,
+1904,Libya,,
+1905,Lithuania,8.27,36.0
+1906,Luxembourg,8.72,15.0
+1907,Madagascar,7.01,90.0
+1908,Malawi,7.04,87.0
+1909,Malaysia,6.42,111.0
+1910,Mali,6.59,104.0
+1911,Malta,8.58,23.0
+1912,Mauritania,6.09,120.0
+1913,Mauritius,8.3,35.0
+1914,Mexico,7.15,80.0
+1915,Moldova,7.12,84.0
+1916,Mongolia,7.76,49.0
+1917,Montenegro,7.74,52.0
+1918,Morocco,6.15,118.0
+1919,Mozambique,6.57,105.0
+1920,Myanmar,4.05,141.0
+1921,Namibia,7.47,64.0
+1922,Nepal,7.04,88.0
+1923,Netherlands,8.73,14.0
+1924,New Zealand,9.08,1.0
+1925,Nicaragua,7.41,69.0
+1926,Niger,6.52,107.0
+1927,Nigeria,6.52,110.0
+1928,North Macedonia,7.81,48.0
+1929,Norway,8.81,12.0
+1930,Oman,6.1,119.0
+1931,Pakistan,5.71,125.0
+1932,Panama,8.05,45.0
+1933,Papua New Guinea,7.46,66.0
+1934,Paraguay,7.4,70.0
+1935,Peru,7.75,51.0
+1936,Philippines,7.23,78.0
+1937,Poland,8.44,29.0
+1938,Portugal,8.54,25.0
+1939,Qatar,,
+1940,Romania,8.21,40.0
+1941,Russian Federation,6.4,112.0
+1942,Rwanda,6.23,115.0
+1943,Saudi Arabia,,
+1944,Senegal,6.86,94.0
+1945,Serbia,7.51,62.0
+1946,Seychelles,,
+1947,Sierra Leone,6.74,98.0
+1948,Singapore,8.09,43.0
+1949,Slovak Republic,8.48,28.0
+1950,Slovenia,8.37,32.0
+1951,Somalia,,
+1952,South Africa,7.32,74.0
+1953,Spain,8.61,20.0
+1954,Sri Lanka,5.63,127.0
+1955,Sudan,,
+1956,Suriname,,
+1957,Sweden,8.83,11.0
+1958,Switzerland,9.07,2.0
+1959,Syrian Arab Republic,4.73,140.0
+1960,Taiwan,8.24,38.0
+1961,Tajikistan,,
+1962,Tanzania,6.64,102.0
+1963,Thailand,7.07,86.0
+1964,Timor-Leste,,
+1965,Togo,6.24,114.0
+1966,Trinidad and Tobago,7.47,63.0
+1967,Tunisia,5.52,131.0
+1968,Turkey,7.01,91.0
+1969,Uganda,6.6,103.0
+1970,Ukraine,7.14,82.0
+1971,United Arab Emirates,6.26,113.0
+1972,United Kingdom,8.87,8.0
+1973,United States,8.87,7.0
+1974,Uruguay,8.36,33.0
+1975,"Venezuela, RB",5.44,133.0
+1976,Vietnam,5.97,122.0
+1977,"Yemen, Rep.",,
+1978,Zambia,7.32,73.0
+1979,Zimbabwe,5.2,137.0

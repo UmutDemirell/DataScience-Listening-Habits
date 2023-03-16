@@ -1,0 +1,184 @@
+,Country,Year,Life expectancy 
+0,Afghanistan,2015,65.0
+16,Albania,2015,77.8
+32,Algeria,2015,75.6
+48,Angola,2015,52.4
+64,Antigua and Barbuda,2015,76.4
+80,Argentina,2015,76.3
+96,Armenia,2015,74.8
+112,Australia,2015,82.8
+128,Austria,2015,81.5
+144,Azerbaijan,2015,72.7
+160,Bahamas,2015,76.1
+176,Bahrain,2015,76.9
+192,Bangladesh,2015,71.8
+208,Barbados,2015,75.5
+224,Belarus,2015,72.3
+240,Belgium,2015,81.1
+256,Belize,2015,71.0
+272,Benin,2015,60.0
+288,Bhutan,2015,69.8
+304,Bolivia (Plurinational State of),2015,77.0
+320,Bosnia and Herzegovina,2015,77.4
+336,Botswana,2015,65.7
+352,Brazil,2015,75.0
+368,Brunei Darussalam,2015,77.7
+384,Bulgaria,2015,74.5
+400,Burkina Faso,2015,59.9
+416,Burundi,2015,59.6
+432,Côte d'Ivoire,2015,53.3
+448,Cabo Verde,2015,73.3
+464,Cambodia,2015,68.7
+480,Cameroon,2015,57.3
+496,Canada,2015,82.2
+512,Central African Republic,2015,52.5
+528,Chad,2015,53.1
+544,Chile,2015,85.0
+560,China,2015,76.1
+576,Colombia,2015,74.8
+592,Comoros,2015,63.5
+608,Congo,2015,64.7
+625,Costa Rica,2015,79.6
+641,Croatia,2015,78.0
+657,Cuba,2015,79.1
+673,Cyprus,2015,85.0
+689,Czechia,2015,78.8
+705,Democratic People's Republic of Korea,2015,76.0
+721,Democratic Republic of the Congo,2015,59.8
+737,Denmark,2015,86.0
+753,Djibouti,2015,63.5
+770,Dominican Republic,2015,73.9
+786,Ecuador,2015,76.2
+802,Egypt,2015,79.0
+818,El Salvador,2015,73.5
+834,Equatorial Guinea,2015,58.2
+850,Eritrea,2015,64.7
+866,Estonia,2015,77.6
+882,Ethiopia,2015,64.8
+898,Fiji,2015,69.9
+914,Finland,2015,81.1
+930,France,2015,82.4
+946,Gabon,2015,66.0
+962,Gambia,2015,61.1
+978,Georgia,2015,74.4
+994,Germany,2015,81.0
+1010,Ghana,2015,62.4
+1026,Greece,2015,81.0
+1042,Grenada,2015,73.6
+1058,Guatemala,2015,71.9
+1074,Guinea,2015,59.0
+1090,Guinea-Bissau,2015,58.9
+1106,Guyana,2015,66.2
+1122,Haiti,2015,63.5
+1138,Honduras,2015,74.6
+1154,Hungary,2015,75.8
+1170,Iceland,2015,82.7
+1186,India,2015,68.3
+1202,Indonesia,2015,69.1
+1218,Iran (Islamic Republic of),2015,75.5
+1234,Iraq,2015,68.9
+1250,Ireland,2015,81.4
+1266,Israel,2015,82.5
+1282,Italy,2015,82.7
+1298,Jamaica,2015,76.2
+1314,Japan,2015,83.7
+1330,Jordan,2015,74.1
+1346,Kazakhstan,2015,72.0
+1362,Kenya,2015,63.4
+1378,Kiribati,2015,66.3
+1394,Kuwait,2015,74.7
+1410,Kyrgyzstan,2015,71.1
+1426,Lao People's Democratic Republic,2015,65.7
+1442,Latvia,2015,74.6
+1458,Lebanon,2015,74.9
+1474,Lesotho,2015,53.7
+1490,Liberia,2015,61.4
+1506,Libya,2015,72.7
+1522,Lithuania,2015,73.6
+1538,Luxembourg,2015,82.0
+1554,Madagascar,2015,65.5
+1570,Malawi,2015,58.3
+1586,Malaysia,2015,75.0
+1602,Maldives,2015,78.5
+1618,Mali,2015,58.2
+1634,Malta,2015,81.7
+1651,Mauritania,2015,63.1
+1667,Mauritius,2015,74.6
+1683,Mexico,2015,76.7
+1699,Micronesia (Federated States of),2015,69.4
+1716,Mongolia,2015,68.8
+1732,Montenegro,2015,76.1
+1748,Morocco,2015,74.3
+1764,Mozambique,2015,57.6
+1780,Myanmar,2015,66.6
+1796,Namibia,2015,65.8
+1813,Nepal,2015,69.2
+1829,Netherlands,2015,81.9
+1845,New Zealand,2015,81.6
+1861,Nicaragua,2015,74.8
+1877,Niger,2015,61.8
+1893,Nigeria,2015,54.5
+1910,Norway,2015,81.8
+1926,Oman,2015,76.6
+1942,Pakistan,2015,66.4
+1959,Panama,2015,77.8
+1975,Papua New Guinea,2015,62.9
+1991,Paraguay,2015,74.0
+2007,Peru,2015,75.5
+2023,Philippines,2015,68.5
+2039,Poland,2015,77.5
+2055,Portugal,2015,81.1
+2071,Qatar,2015,78.2
+2087,Republic of Korea,2015,82.3
+2103,Republic of Moldova,2015,72.1
+2119,Romania,2015,75.0
+2135,Russian Federation,2015,75.0
+2151,Rwanda,2015,66.1
+2168,Saint Lucia,2015,75.2
+2184,Saint Vincent and the Grenadines,2015,73.2
+2200,Samoa,2015,74.0
+2217,Sao Tome and Principe,2015,67.5
+2233,Saudi Arabia,2015,74.5
+2249,Senegal,2015,66.7
+2265,Serbia,2015,75.6
+2281,Seychelles,2015,73.2
+2297,Sierra Leone,2015,51.0
+2313,Singapore,2015,83.1
+2329,Slovakia,2015,76.7
+2345,Slovenia,2015,88.0
+2361,Solomon Islands,2015,69.2
+2377,Somalia,2015,55.0
+2393,South Africa,2015,62.9
+2409,South Sudan,2015,57.3
+2425,Spain,2015,82.8
+2441,Sri Lanka,2015,74.9
+2457,Sudan,2015,64.1
+2473,Suriname,2015,71.6
+2489,Swaziland,2015,58.9
+2505,Sweden,2015,82.4
+2521,Switzerland,2015,83.4
+2537,Syrian Arab Republic,2015,64.5
+2553,Tajikistan,2015,69.7
+2569,Thailand,2015,74.9
+2585,The former Yugoslav republic of Macedonia,2015,75.7
+2601,Timor-Leste,2015,68.3
+2617,Togo,2015,59.9
+2633,Tonga,2015,73.5
+2649,Trinidad and Tobago,2015,71.2
+2665,Tunisia,2015,75.3
+2681,Turkey,2015,75.8
+2697,Turkmenistan,2015,66.3
+2714,Uganda,2015,62.3
+2730,Ukraine,2015,71.3
+2746,United Arab Emirates,2015,77.1
+2762,United Kingdom of Great Britain and Northern Ireland,2015,81.2
+2778,United Republic of Tanzania,2015,61.8
+2794,United States of America,2015,79.3
+2810,Uruguay,2015,77.0
+2826,Uzbekistan,2015,69.4
+2842,Vanuatu,2015,72.0
+2858,Venezuela (Bolivarian Republic of),2015,74.1
+2874,Viet Nam,2015,76.0
+2890,Yemen,2015,65.7
+2906,Zambia,2015,61.8
+2922,Zimbabwe,2015,67.0

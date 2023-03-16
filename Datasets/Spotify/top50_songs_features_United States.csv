@@ -1,0 +1,51 @@
+,name,artist,genre,artist popularity,song popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,country
+0,Kill Bill,SZA,"['pop', 'r&b']",94,87,0.644,0.735,8,-5.747,1,0.0391,0.0521,0.161,0.418,88.98,United States
+1,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,['rap'],92,94,0.715,0.62,1,-6.005,0,0.0484,0.417,0.0822,0.172,97.95,United States
+2,Rich Flex,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,95,0.561,0.52,11,-9.342,0,0.244,0.0503,0.355,0.424,153.15,United States
+3,Anti-Hero,Taylor Swift,['pop'],99,96,0.637,0.643,4,-6.571,1,0.0519,0.13,0.142,0.533,97.008,United States
+4,Just Wanna Rock,Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",87,90,0.486,0.545,11,-7.924,1,0.0336,0.0652,0.0642,0.0385,150.187,United States
+5,Bad Habit,Steve Lacy,['afrofuturism'],85,87,0.686,0.494,1,-7.093,1,0.0355,0.613,0.402,0.7,168.946,United States
+6,Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,['rap'],92,88,0.526,0.606,5,-5.3,0,0.259,0.152,0.194,0.492,116.622,United States
+7,Nobody Gets Me,SZA,"['pop', 'r&b']",94,91,0.358,0.284,7,-8.285,1,0.0285,0.805,0.183,0.276,99.796,United States
+8,Unholy (feat. Kim Petras),Sam Smith,"['dance pop', 'pop', 'uk pop']",89,98,0.714,0.472,2,-7.375,1,0.0864,0.013,0.266,0.238,131.121,United States
+9,golden hour,JVKE,['modern indie pop'],81,89,0.515,0.593,4,-4.801,1,0.0322,0.653,0.25,0.153,94.467,United States
+10,Low,SZA,"['pop', 'r&b']",94,88,0.698,0.546,0,-7.234,0,0.0559,0.425,0.16,0.335,145.044,United States
+11,Something in the Orange,Zach Bryan,['oklahoma country'],84,88,0.369,0.192,4,-12.151,0,0.04,0.555,0.0954,0.148,175.212,United States
+12,As It Was,Harry Styles,['pop'],90,92,0.52,0.731,6,-5.338,0,0.0557,0.342,0.311,0.662,173.93,United States
+13,Romantic Homicide,d4vd,['bedroom pop'],81,93,0.571,0.544,6,-10.613,1,0.0299,0.453,0.322,0.216,132.052,United States
+14,Shirt,SZA,"['pop', 'r&b']",94,85,0.848,0.512,3,-7.72,0,0.102,0.228,0.0879,0.572,120.009,United States
+15,Die For You,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,88,0.586,0.525,1,-7.163,0,0.0615,0.111,0.134,0.508,133.629,United States
+16,Blind,SZA,"['pop', 'r&b']",94,88,0.461,0.279,9,-11.776,0,0.0373,0.911,0.205,0.599,114.225,United States
+17,You Proof,Morgan Wallen,['contemporary country'],86,85,0.731,0.85,9,-4.913,1,0.0336,0.252,0.605,0.644,119.706,United States
+18,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,"['gen z singer-songwriter', 'pop']",80,91,0.551,0.55,10,-5.339,1,0.0286,0.777,0.202,0.342,101.19,United States
+19,Gato de Noche,Ñengo Flow,"['latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",82,85,0.892,0.662,8,-3.894,1,0.162,0.169,0.363,0.607,93.976,United States
+20,Jimmy Cooks (feat. 21 Savage),Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,89,0.529,0.673,0,-4.711,1,0.175,0.000307,0.093,0.366,165.921,United States
+21,Tití Me Preguntó,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,94,0.65,0.715,5,-5.198,0,0.253,0.0993,0.126,0.187,106.672,United States
+22,Here With Me,d4vd,['bedroom pop'],81,92,0.574,0.469,4,-8.209,1,0.0254,0.534,0.128,0.288,132.023,United States
+23,Sweater Weather,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",85,92,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.101,0.398,124.053,United States
+24,I'm Good (Blue),David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",89,96,0.561,0.965,7,-3.673,0,0.0343,0.00383,0.371,0.304,128.04,United States
+25,No Role Modelz,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",86,88,0.69,0.521,10,-8.492,0,0.339,0.324,0.0534,0.494,100.028,United States
+26,Lavender Haze,Taylor Swift,['pop'],99,88,0.733,0.436,10,-10.489,1,0.08,0.258,0.157,0.0976,96.985,United States
+27,Escapism.,RAYE,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",79,76,0.538,0.742,2,-5.355,1,0.114,0.138,0.0934,0.25,96.107,United States
+28,Me Porto Bonito,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",100,95,0.911,0.712,1,-5.105,0,0.0817,0.0901,0.0933,0.425,92.005,United States
+29,Snooze,SZA,"['pop', 'r&b']",94,85,0.559,0.551,5,-7.231,1,0.132,0.141,0.11,0.392,143.008,United States
+30,Made You Look,Meghan Trainor,"['dance pop', 'hip pop', 'pop']",86,94,0.838,0.525,10,-3.562,1,0.0665,0.345,0.0771,0.884,144.981,United States
+31,Sure Thing,Miguel,"['dance pop', 'pop', 'r&b', 'urban contemporary']",80,87,0.684,0.607,11,-8.127,0,0.1,0.0267,0.191,0.498,81.001,United States
+32,Love Language,SZA,"['pop', 'r&b']",94,86,0.707,0.261,9,-10.139,0,0.0784,0.853,0.127,0.545,65.038,United States
+33,Wasted On You,Morgan Wallen,['contemporary country'],86,83,0.505,0.657,11,-5.24,0,0.0318,0.373,0.126,0.252,196.0,United States
+34,I Ain't Worried,OneRepublic,"['piano rock', 'pop']",85,94,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.0546,0.825,139.994,United States
+35,Rock and A Hard Place,Bailey Zimmerman,['contemporary country'],74,82,0.582,0.568,1,-7.3,1,0.0275,0.577,0.105,0.394,121.991,United States
+36,Too Many Nights (feat. Don Toliver & with Future),Metro Boomin,['rap'],92,85,0.684,0.671,7,-4.392,0,0.0464,0.189,0.122,0.156,88.048,United States
+37,Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],Metro Boomin,['rap'],92,86,0.671,0.658,2,-5.567,1,0.309,0.189,0.147,0.257,87.933,United States
+38,Dark Red,Steve Lacy,['afrofuturism'],85,88,0.603,0.784,6,-4.023,1,0.062,0.446,0.119,0.769,172.041,United States
+39,Seek & Destroy,SZA,"['pop', 'r&b']",94,86,0.651,0.647,1,-5.415,1,0.0654,0.437,0.205,0.345,152.069,United States
+40,Good Days,SZA,"['pop', 'r&b']",94,81,0.461,0.651,1,-8.81,0,0.0568,0.418,0.782,0.383,121.07,United States
+41,Ghost in the Machine (feat. Phoebe Bridgers),SZA,"['pop', 'r&b']",94,85,0.624,0.433,6,-9.572,1,0.0467,0.837,0.113,0.589,124.979,United States
+42,Midnight Rain,Taylor Swift,['pop'],99,88,0.643,0.363,0,-11.738,1,0.0767,0.69,0.115,0.23,139.865,United States
+43,Used (feat. Don Toliver),SZA,"['pop', 'r&b']",94,69,0.733,0.685,10,-6.228,0,0.0533,0.363,0.333,0.837,150.073,United States
+44,WAIT FOR U (feat. Drake & Tems),Future,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",90,87,0.463,0.642,1,-4.474,1,0.34,0.314,0.0686,0.339,83.389,United States
+45,The Color Violet,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']",82,86,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0863,0.463,105.02,United States
+46,Shut up My Moms Calling,Hotel Ugly,[],75,87,0.485,0.409,9,-10.711,0,0.101,0.325,0.103,0.376,138.419,United States
+47,CUFF IT,Beyoncé,"['dance pop', 'pop', 'r&b']",87,92,0.78,0.689,7,-5.668,1,0.141,0.0368,0.0698,0.642,115.042,United States
+48,I Like You (A Happier Song) (with Doja Cat),Post Malone,"['dfw rap', 'melodic rap', 'rap']",89,88,0.733,0.67,5,-6.009,1,0.0751,0.121,0.121,0.472,100.964,United States
+49,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'shiver pop']",79,87,0.761,0.525,11,-6.9,1,0.0944,0.44,0.0921,0.531,80.87,United States
